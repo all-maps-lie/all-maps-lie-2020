@@ -70,6 +70,137 @@ In-class Exercise / Exam || Final Presentations
 ## Week 7
 
 
+<!-- 
+Topics To cover:
+
+quotes:
+- "close things are more related that far things" - tobler's first law of geography
+
+# Topics:
+- Introduction
+  - geospatial data
+- Scale
+  - map scales
+
+## Introduction: 
+
+Geospatial Data
+- what is/are data?
+- where do data come from?
+- what does it mean for data to be geographic?
+- where are data stored
+- what are geographic data formats?
+- what are geographic data types?
+- how do geospatial data affect/effect your data life?
+- what are ways that geospatial data and computation come together?
+  - routing
+  - wayfinding
+  - spatial analysis, geographic distributions
+  - prediction/forecasting
+
+Geographic data dimensionality and characteristics:
+- data dimensions:
+  - points
+  - lines
+  - polygons
+  - surfaces
+- data types:
+  - nominal: name
+  - ordinal: comparable by rank, orderable
+  - interval: scale has no absolute "0", but can be compared to one another. e.g. you can say 5degC is 15degC less than 20degC but you cant say  that it is 3times less
+  - ratio: scale has an absolute "0", e.g. money. 
+  - scalar: you create your own scale that applies specifically to that data e.g. readability on a scale of 1 to 10
+
+Spatial Considerations: All consider location, patterns, and distributions
+- density
+- sinuosity
+- connectivity
+- pattern change
+- movement
+- shape
+- size
+- isolation
+- adjacency
+
+Examples of GIS/Geospatial data analysis and computation in the wild:
+- business cases
+- physical science research
+- social science research
+- art
+
+
+## Scale
+
+Map scales
+- determines how much or how little your map can hold
+- See chart of map scales of USGS 
+- Scale and representation
+- Generalizations:
+  - scale, readability, crowding
+  - data availablity
+  - limitations of output devices or media, e.g. print, vs. web
+  - reader characteristics
+- large scale == "more details, smaller area"
+- small scale == "less details, larger area covered"
+
+Different types of maps
+- reference: only offer the pattern and general locations of things
+- thematic: provides as much detail about a specific subject
+
+
+Map projections and datums
+- converting a sphere into a flat map results in distortion!
+- picking the right projection
+- In general, 3 families:
+  - planer, conic, cylindrical
+- Preserving:
+  - distance
+  - area
+  - direction
+- Projection and reprojection: rounds off tiny numbers and makes erros in position! 
+- Good projections depend on accurate datum
+- Geodesy is the science of accurately measuring the spherical earth
+- Datum: is a model of the earth's shape that allows geodetic sceintists and surveyors to accurately measure the Earth and place the origins and orientation of the coordinate systems
+  - datums depend on ellipsoids -- which are different methods and models of the earth
+- Why does all this matter? GIS software needs to know what datum you're using for each set of map data you put into your database - attaching coordinates to the wrong datum can result in location and measurement errors ==> a common task in GIS is to make sure all your geo data are in the same datum before proceeding.
+- Coordinate Systems and land subdivisions
+  - UTM: Universal Transverse Mercator 
+    - why? 
+    - 1. you can measure the stuff in positive numbers from east and north regardless of what hemispehere you're in
+    - 2. you never have to use negative numbers
+    - uses eastings and northings
+    - accuracy up to 1-meter resolution (5 digit accuracy) 
+  - In the US we have a system called PLSS - public land survey system based on the Acre 1/640 of a square mile
+
+## Reading, analyzing, and interpreting maps
+
+- points, lines, polygons, and volumes
+- Recoginizing patterns
+  - Randomness
+  - Clustering
+  - Uniformity
+- Describing patterns
+  - Describing linear features
+    - dendritic
+    - radial
+    - centripetal
+    - parallel
+    - trellis
+    - rectangular
+    - annular
+  - Analyzing and quantifying patterns
+    - Nearest Neighbor Statistic - determine whether a pattern of points is regular, random, or clustered. See book for nearest neighbor algorithm
+
+
+Maps as questions and answers
+- maps as media prompt further questions
+
+
+
+
+
+ -->
+
 <br>
 
 ***
