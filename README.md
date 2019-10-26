@@ -16,9 +16,9 @@ The course will be conducted with open source geographic information systems and
 * [Joey Lee](https://www.jk-lee.com) (github: @joeyklee // joeyklee@nyu.edu ) 
 
 ### Time
-* DAY H:MM to H:MM
+* MONDAY, 6:30 - 9:00 pm
 * ROOM ##
-* MMM. DD - MMM. DD
+* MARCH 30 - MAY 11
 * 7 meetings // 2 Point Course
 
 ### Office Hours
@@ -30,6 +30,117 @@ The course will be conducted with open source geographic information systems and
 
 [**Link to the course listing**<br> **Category**: 2 Point, All, Elective<br>
 **Tags**: maps, geospatial, geography, data, cartography | <br>]()
+
+
+ ## Schedule
+
+| GO TO  |  DATE  | THEME | NOTES |
+| :----         |  ----  | ---- | ---- |
+| WEEK 1        |  MAR 30   | Everything is Spatial     |  n/a    |
+| WEEK 2        |  APR 06   |                           |  n/a    |
+| WEEK 3        |  APR 13   |                    |  n/a    |
+| WEEK 4        |  APR 20   |       |  n/a    |
+| WEEK 5        |  APR 27   |       |  n/a    |
+| WEEK 6        |  MAY 04   |       |  n/a    |
+| WEEK 7        |  MAY 11   | Final Review |  n/a    |
+
+
+<!-- 
+Everything is Spatial
+Cartographics
+(Counter)Mapping
+New Spatial Media 
+
+Final Reviews
+ -->
+
+# Materials
+**NOTE: the materials are subject to change**
+
+## Week 1: Everything is Spatial 
+> "instead of focusing on how we can map the subject...[we could] focus on the ways in which mapping and the cartographic gaze have coded subjects and produced identities" - Pickles, 2004
+
+### Lecture
+
+### Studio: Map Critique
+
+### Assignment: Critical Story Map
+
+**Brief**:
+
+* **Map**: 
+  + Using the Knight Lab's [StoryMaps] create a map that fulfills the following criteria:
+    + A map with accompanying media that highlights an untold or underrepresented history or current reflection of feminism, post colonialism, and/or social or environmental justice. 
+    + Your story map must be coherent and use geography as central to the telling of the story. 
+    + If time is important for your story, the order of your "slides" should be ordered appropriately to best highlight the topic of choice (chronological) -- use your discretion. 
+    + Possible prompts: US border issues, Global Climate protest/Fridays for Future, Global Protests, Greta Thunberg's Journey, Melting Sea Ice, Brexit, East/West Germany before end of the GDR, The Green New Deal, Policing issues, Women in science, etc.
++ **Reflect**: 
+  + Document your process of using StoryMaps.
+  + Reflect on what it means to research and put these points on the map. 
+  + Guiding questions:
+    + Who are the potential beneficiaries of your map and your story map?
+    + Are your locations estimations or exact coordinates?
+    + Are there potential issues for mapping these issues? Does your map endanger the people or environments in any way? Could your map lead to any false conclusions that might endanger those people or places directly or indirectly?
+
+Be prepared to discuss your experience next week.
+
+**Examples**  
++ A [Simple Example](https://uploads.knightlab.com/storymapjs/87f79e981dce082a57dfe2c482f65ad6/all-maps-lie-2020/index.html) for reference.
++ The MinnPost [Hockey, hip-hop, and other Green Line highlights](https://www.minnpost.com/stroll/2014/06/hockey-hip-hop-and-other-green-line-highlights/).
+
+***
+## Week 2: Cartographics
+> "Cartography is not what cartographers tell us it is." - Brian Harley 
+
+### Lecture
+
+### Studio: Introduction to open source web mapping
+
+### Assignment: 
+
+***
+## Week 3:  
+
+
+### Lecture
+
+### Studio
+
+### Assignment
+
+***
+## Week 4: (Counter)Mapping
+> "...Close things are more related than far things..." - Tobler's first law of geography
+
+### Lecture
+
+### Studio
+
+### Assignment
+
+***
+## Week 5:  
+
+
+### Lecture
+
+### Studio
+
+### Assignment
+
+***
+## Week 6: 
+
+### Lecture
+
+### Studio
+
+### Assignment
+
+***
+## Week 7: Final Review
+
+### Presentations
 
 
 <!-- 
@@ -44,37 +155,81 @@ Notes
 ## Week 7
 In-class Exercise / Exam || Final Presentations
 
- -->
+Everything is spatial
+(Counter)Mapping & Cartographics
 
- ## Schedule
+Experimental geography
+Radical geography
+psychogeography
+http://criticalgis.blogspot.com/2014/06/thinkingmaking-geographic-representation.html
 
-| GO TO  |  DATE  | THEME | NOTES |
-| :----         |  ----  | ---- | ---- |
-| WEEK 1        |  TBA   |  Introduction to spatial thinking     |  n/a    |
-| WEEK 2        |  TBA   |       |  n/a    |
-| WEEK 3        |  TBA   |       |  n/a    |
-| WEEK 4        |  TBA   |       |  n/a    |
-| WEEK 5        |  TBA   |       |  n/a    |
-| WEEK 6        |  TBA   |       |  n/a    |
-| WEEK 7        |  TBA   |   Final Class    |  n/a    |
+https://geography.wisc.edu/cartography/education/G370/G370SP2019.html
+https://geography.wisc.edu/cartography/education/G575/G575SP2019.html
 
-
-## Materials
-
-## Week 1 
-## Week 2 
-## Week 3
-## Week 4
-## Week 5
-## Week 6
-## Week 7
+https://gisgeography.com/map-elements-how-to-guide-map-making/
 
 
-<!-- 
+assignments
+
++ Tell a map story
++ https://storymap.knightlab.com/#examples
+
++ cowpath map
+
+Assignment 1: going the distance 
+- calculate the Manhattan distance and “as the crow flies” distance between 2 points. 
+- To get Manhattan distance you must use a routing engine to calculate the distance. You can also roll your own custom solution. 
+- Report your distances in both kilometres and miles (or smaller units if appropriate) 
+- Use the mapbox placenames API to query the distance between two places using place names. 
+- Make an interface that displace those 2 types of distances given an origin and destination and show them on a map. 
+- Bonus: display an aspatial representation of those distances. 
+
+Assignment 2: seeing geography: mapping cowpaths
+- go and collect the paths for your assigned cowpath
+
+
+# Readings
+gegraphy of hate
+
+* Politics of Design - mapping chapter
+* Mark Monmonier - How to lie with maps
+* cartography guide - axis maps - https://www.axismaps.com/guide/
+* Robin's resources - https://github.com/tolomaps/resources
+* mapschool - https://mapschool.io/
+* http://www.graphicarto.com/the-lost-art-of-critical-map-reading/
+* https://native-land.ca/
+
 Topics To cover:
 
+Start with definitions:
+
++ what are maps?
+  + “maps are graphic representations that facilitate a spatial understanding of things, concepts, conditions, processes, or events in the human world” (Harley and Woodward 1987: xvi)
++ what is cartography?
++ what is geography?
++ what is critical?
+  + Harley = "power, ideology, and surveillance"
++ What is open source?
++ Geospatial data analysis and/vs. Geospatial visualization?
++ Acknowledging land of indigenous people
++ History of mapping, roots of cartography, military connections? The weaponization of "science" in mapping...
++ dichotomies of:
+  + art/science
+  + objective/subjective
+  + scientific/ideological
++ maps as highly partisan interventions
++ GIS as technocratic positivism <==> also potential for social good
++ Critical mapping practices:
+  + carto and art, situationaists, locative art, psychogeography
+  + open source mapping
++ critique in cartograpy 
+  + late 80s
++ Maps and imperialist and post-colonial project
+
+
+
 quotes:
-- "close things are more related that far things" - tobler's first law of geography
+- "close things are more related than far things" - tobler's first law of geography
 
 # Topics:
 - Introduction
@@ -189,7 +344,7 @@ Map projections and datums
     - rectangular
     - annular
   - Analyzing and quantifying patterns
-    - Nearest Neighbor Statistic - determine whether a pattern of points is regular, random, or clustered. See book for nearest neighbor algorithm
+    - Nearest Neighbor Statistic - determine whether a pattern of points is regular, random, or clustered. See book for nearest neighbor algorithm$$
 
 
 Maps as questions and answers
