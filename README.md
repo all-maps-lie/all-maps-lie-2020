@@ -36,23 +36,14 @@ The course will be conducted with open source geographic information systems and
 
 | GO TO  |  DATE  | THEME | NOTES |
 | :----         |  ----  | ---- | ---- |
-| WEEK 1        |  MAR 30   | Everything is Spatial     |  n/a    |
-| WEEK 2        |  APR 06   |                           |  n/a    |
-| WEEK 3        |  APR 13   |                    |  n/a    |
-| WEEK 4        |  APR 20   |       |  n/a    |
-| WEEK 5        |  APR 27   |       |  n/a    |
-| WEEK 6        |  MAY 04   |       |  n/a    |
-| WEEK 7        |  MAY 11   | Final Review |  n/a    |
+| WEEK 01 | MAR 30 | Everything is Spatial     |  n/a    |
+| WEEK 02 | APR 06 | (Web) Cartographics  |  n/a    |
+| WEEK 03 | APR 13 | Geospatial (Non)Sense |  n/a    |
+| WEEK 04 | APR 20 | Locative Media |  n/a    |
+| WEEK 05 | APR 27 | (Counter)Mapping |  n/a    |
+| WEEK 06 | MAY 04 | Experimental Geography |  n/a    |
+| WEEK 07 | MAY 11 | Final Review |  n/a    |
 
-
-<!-- 
-Everything is Spatial
-Cartographics
-(Counter)Mapping
-New Spatial Media 
-
-Final Reviews
- -->
 
 # Materials
 **NOTE: the materials are subject to change**
@@ -91,7 +82,7 @@ Be prepared to discuss your experience next week.
 + The MinnPost [Hockey, hip-hop, and other Green Line highlights](https://www.minnpost.com/stroll/2014/06/hockey-hip-hop-and-other-green-line-highlights/).
 
 ***
-## Week 2: Cartographics
+## Week 2: (Web) Cartographics
 > "Cartography is not what cartographers tell us it is." - Brian Harley 
 
 ### Lecture
@@ -107,7 +98,7 @@ Be prepared to discuss your experience next week.
   * geometry
   * color
   * legend
-  * clearly stated intentions
+  * clearly stated intentions, assumptions, data sources, date of production, ... 
 * see: https://gisgeography.com/map-elements-how-to-guide-map-making/
 
 
@@ -130,7 +121,7 @@ Be prepared to discuss your experience next week.
   - Bonus:
     - Make an interface that displays those 2 types of distances given an origin and destination and show them on a map. 
     - display an aspatial representation of those distances.
-* Part 2: Aggregation
+* Part 2: Binning 
   *  Given [a dataset of set of points](), use a grid to calculate the following statistics for the property -- `____________` -- of the points:
      - min
      - median
@@ -138,53 +129,67 @@ Be prepared to discuss your experience next week.
      - max
      - standard deviation 
   * Use a grid size of `50m`, `100m`, and `200m` to see how the resolution of your grid affects your interpretation.
-* Part 3: Buffer
- - Perform a `buffer` analysis to calculate how many points in this [dataset]() would be affected by phenomenon X within `50m`, `100m`, and `200m` of this [line]().
+  * NOTE: imagine using census boundaries or neighborhood boundaries - how might this affect both the visual perception of what you're representing and how you might consider normalizing your data?
+* Part 3: Affective area
+  - Perform a `buffer` analysis to calculate how many points in this [dataset]() would be affected by phenomenon X within `50m`, `100m`, and `200m` of this [line](). 
 
 ***
-## Week 4: Reading and Writing the Map  
+## Week 4: Locative Media
 
 ### Lecture
+* Discussion on spatial data, data collection, surveillance, sousveillance, and cartographic anxiety.
 
-### Studio
+### Studio: Collecting spatial data
+* Workshop on 3 methods of spatial data collection using:
+  * Field Papers
+  * TBD
+  * TBD
 
 ### Assignment
+* Data collection assignment
 
 ***
 ## Week 5: (Counter)Mapping 
+> "Cartography as a medium through which not only to reflect existing conditions of power, but also to produce new urban relationships, became an aesthetic and geographic endeavor." - Thompson, Nato. Experimental Geography: Radical Approaches to Landscape, Cartography, and Urbanism (Kindle Locations 220-221). Melville House. Kindle Edition. 
 
 ### Lecture
 
-### Studio
+### Studio: Cartographic Styling
+* Exploration of the MapboxGL layers API for styling basemaps and data on the fly.
 
-### Assignment
+### Assignment: The Map is not the Territory
+* Counter-mapping assignment.
+
 
 ***
 ## Week 6: Experimental Geography
+> "we make the world, and in turn, the world makes us" - Nato Thomson, Experimental Geography
+>
+> "Experimental geography means practices that take on the production of space in a self-reflexive way, practices that recognize that cultural production and the production of space cannot be separated from each another,and that cultural and intellectual production is a spatial practice." - Thompson, Nato. Experimental Geography: Radical Approaches to Landscape, Cartography, and Urbanism (Kindle Locations 546-547). Melville House. Kindle Edition. 
 
 ### Lecture
+* Discussion on the history of and the increasing role of new spatial media and media art in cartography & geography.
+ 
 
 ### Studio
 
 ### Assignment
+* Final Assignment
 
 ***
 ## Week 7: Final Review
 
 ### Presentations
+* Students will present their final projects.
+
+### Conclusion
+* Where to go from here & call to action.
 
 
 <!-- 
-Notes
 
-## Week 1: Introduction to GIS
-## Week 2
-## Week 3
-## Week 4
-## Week 5
-## Week 6
-## Week 7
-In-class Exercise / Exam || Final Presentations
+* https://www.theguardian.com/science/blog/2018/mar/06/counter-mapping-cartography-that-lets-the-powerless-speak
+
 
 Everything is spatial
 (Counter)Mapping & Cartographics
@@ -389,6 +394,8 @@ Maps as questions and answers
 
 <br>
 
+***
+***
 ***
 
 <br>
