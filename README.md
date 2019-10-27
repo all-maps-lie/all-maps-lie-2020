@@ -81,6 +81,8 @@ Be prepared to discuss your experience next week.
 + A [Simple Example](https://uploads.knightlab.com/storymapjs/87f79e981dce082a57dfe2c482f65ad6/all-maps-lie-2020/index.html) for reference.
 + The MinnPost [Hockey, hip-hop, and other Green Line highlights](https://www.minnpost.com/stroll/2014/06/hockey-hip-hop-and-other-green-line-highlights/).
 
+Alternatively: https://docs.mapbox.com/mapbox-gl-js/example/scroll-fly-to/
+
 ***
 ## Week 2: (Web) Cartographics
 > "Cartography is not what cartographers tell us it is." - Brian Harley 
@@ -159,6 +161,8 @@ Be prepared to discuss your experience next week.
 
 ### Assignment: The Map is not the Territory
 * Counter-mapping assignment.
+
+Note: https://docs.mapbox.com/mapbox-gl-js/example/toggle-worldviews/
 
 
 ***
