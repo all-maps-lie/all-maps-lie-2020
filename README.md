@@ -61,6 +61,8 @@ Final Reviews
 > "instead of focusing on how we can map the subject...[we could] focus on the ways in which mapping and the cartographic gaze have coded subjects and produced identities" - Pickles, 2004
 
 ### Lecture
+* Course overview & logistics
+* Introduction to critical cartography, critique, and the politics of maps
 
 ### Studio: Map Critique
 
@@ -93,34 +95,54 @@ Be prepared to discuss your experience next week.
 > "Cartography is not what cartographers tell us it is." - Brian Harley 
 
 ### Lecture
+* Elements of (web) maps
+* How to lie with maps
 
-### Studio: Introduction to open source web mapping
+### Studio: Introduction to the geospatial web
 
-### Assignment: 
+### Assignment: An "Honest" Map
+* Make an "honest" map. Your honest map should consider all of these components:
+  * scale & "zoom"
+  * projection
+  * geometry
+  * color
+  * legend
+  * clearly stated intentions
+* see: https://gisgeography.com/map-elements-how-to-guide-map-making/
+
 
 ***
-## Week 3:  
-
-
-### Lecture
-
-### Studio
-
-### Assignment
-
-***
-## Week 4: (Counter)Mapping
+## Week 3: Geospatial (Non)Sense
 > "...Close things are more related than far things..." - Tobler's first law of geography
 
 ### Lecture
+* Introduction to spatial analysis  
 
-### Studio
+### Studio: Geospatial analysis on the web
+* Workshop on Turf.js and Mapbox API.
 
-### Assignment
+### Assignment: Calculating space
+* Part 1: Going the distance
+  - calculate the Manhattan distance and “as the crow flies” distance between 2 points. 
+  - To get Manhattan distance you must use a routing engine to calculate the distance. You can also roll your own custom solution. 
+  - Report your distances in both kilometres and miles (or smaller units if appropriate) 
+  - Use the mapbox placenames API to query the distance between two places using place names. 
+  - Bonus:
+    - Make an interface that displays those 2 types of distances given an origin and destination and show them on a map. 
+    - display an aspatial representation of those distances.
+* Part 2: Aggregation
+  *  Given [a dataset of set of points](), use a grid to calculate the following statistics for the property -- `____________` -- of the points:
+     - min
+     - median
+     - mean
+     - max
+     - standard deviation 
+  * Use a grid size of `50m`, `100m`, and `200m` to see how the resolution of your grid affects your interpretation.
+* Part 3: Buffer
+ - Perform a `buffer` analysis to calculate how many points in this [dataset]() would be affected by phenomenon X within `50m`, `100m`, and `200m` of this [line]().
 
 ***
-## Week 5:  
-
+## Week 4: Reading and Writing the Map  
 
 ### Lecture
 
@@ -129,7 +151,16 @@ Be prepared to discuss your experience next week.
 ### Assignment
 
 ***
-## Week 6: 
+## Week 5: (Counter)Mapping 
+
+### Lecture
+
+### Studio
+
+### Assignment
+
+***
+## Week 6: Experimental Geography
 
 ### Lecture
 
