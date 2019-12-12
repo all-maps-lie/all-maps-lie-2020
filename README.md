@@ -17,7 +17,7 @@ The course will be conducted with open source geographic information systems and
 
 ### Time
 * MONDAY, 6:30 - 9:00 pm
-* ROOM ##
+* 370 Jay Street, Room 411 Loc: Brooklyn Campus
 * MARCH 30 - MAY 11
 * 7 meetings // 2 Point Course
 
