@@ -64,6 +64,8 @@ All assignments will be submitted here:
 
 Students will be evaluated on effort, personal progress and growth, class participation, assignments, and the final project. It is understood that this course will be technically and conceptually challenging, therefore your effort, curiosity, and engagement is of utmost importance. You will be graded on your progress throughout the class, your ability to complete assignments on time, your interaction with peers, and your ability to justify your decisions thoughtfully.
 
+Notes can be found at this url on [How to give Feedback](https://github.com/itp-dwd/2020-spring/wiki/How-to:-Feedback) 
+
 ### GRADE CALCULATION:
 
 Here is a basic breakdown of graded tasks along that trajectory:
