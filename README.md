@@ -48,7 +48,7 @@ The course will be conducted with open source geographic information systems and
 
 
 | Assignment | Title | Due Date |
-| :---  | --- | --- | --- | 
+| :---  | --- | --- |
 | 01 | TBD | Week 2 - APR 06 | 
 | 02 | TBD | Week 3 - APR 13 | 
 | 03 | TBD | Week 4 - APR 20 | 
