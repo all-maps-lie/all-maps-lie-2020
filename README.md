@@ -64,7 +64,7 @@ All assignments will be submitted here:
 
 Students will be evaluated on effort, personal progress and growth, class participation, assignments, and the final project. It is understood that this course will be technically and conceptually challenging, therefore your effort, curiosity, and engagement is of utmost importance. You will be graded on your progress throughout the class, your ability to complete assignments on time, your interaction with peers, and your ability to justify your decisions thoughtfully.
 
-**GRADE CALCULATION**:
+### GRADE CALCULATION:
 
 Here is a basic breakdown of graded tasks along that trajectory:
 * 10% Attendance/Participation
@@ -81,7 +81,7 @@ Here's an outline of how your work will generally be evaluated. The explaners of
 | **Understanding** | There is either no substance or the student cannot explain or justify decision making | The work shows partial grasp of the concepts, but shows major gaps that could be addressed with more thought | The work is sensible and grounded and can be explained in a coherent manner | The work represents the concept well, references past and current work. The student can speak to more than 1 perspective. | The work shows strong graps of concepts and the state-of-the-art. The work is well received in both concept and implementation |
 | **Application** | The work reflects very little conceptual references to the course materials; a general lack of awareness to methodology and implementation | The work applies methodology(ies) that have some potential, but not quite relevant or effective | The work uses methods that are appropriate and thoughtful. The application of methods are standard and show good potential | The work uses methods that are appropriate, thoughtful, and well implemented. There are innovative ideas that are shown in the application. | There work shows careful methodological considerations and is beautifully crafted, designed, and presented. |
 
-**LATE ASSIGNMENTS**:
+### LATE ASSIGNMENTS:
 
 The general policy is that **late assignments will not be reviewed**. 
 
