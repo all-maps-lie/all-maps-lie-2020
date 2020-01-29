@@ -1,64 +1,77 @@
-# All Maps Lie: Introduction to Critical Mapping and Open Source Geospatial Web Analysis and Visualization
+# All Maps Lie: Introduction to Critical Mapping
 **NYU, Interactive Telecommunications Program, Spring 2020**
-
-**work in progress - plz ignore**
-
-## Course Description
-
-*All Maps Lie: Introduction to Critical Mapping and Open Source Geospatial Web Analysis and Visualization* is an introduction to critical perspectives in cartography and geospatial information systems and web technologies. This course will introduce students to the foundations of geographic data analysis and visualization, grounding practical studio based exercises and projects with critical readings and theory. Students taking this course will gain an appreciation for geographic thinking, learn to ask geographic questions, and apply basic methodologies to “make sense” of geographic data. 
-
-The course will be conducted with open source geographic information systems and web technologies. Students are not expected to enter the class with knowledge of these tools, but will be expected to learn and apply them through studio exercises and project briefings. 
-
-
-## Details
-
-### Instructor
-* [Joey Lee](https://www.jk-lee.com) (github: @joeyklee // joeyklee@nyu.edu ) 
-
-### Time
-* MONDAY, 6:30 - 9:00 pm
-* 370 Jay Street, Room 411 Loc: Brooklyn Campus
-* MARCH 30 - MAY 11
-* 7 meetings // 2 Point Course
-
-### Office Hours
-* By Appointment - DAY & DAY, H:MM-H:MMpm
-* Room: ITP FLOOR or ITP RESIDENT'S OFFICE
-* PLEASE SIGN UP: 📅 [Google Calendar Link]()
-* If you can't make those times, please send me an email and we can chat at another time or via video conference.
 
 
 [**Link to the course listing**<br> **Category**: 2 Point, All, Elective<br>
-**Tags**: maps, geospatial, geography, data, cartography | <br>]()
+**Tags**: maps, geospatial, geography, data, cartography <br>](https://itp.nyu.edu/registration/CourseInfo.php?course_id=1633)
 
+**work in progress - plz ignore**
+
+## COURSE DESCRIPTION
+
+*All Maps Lie* is an introduction to critical cartography and mapping from the perspective of media art and design. In this course, we will reflect on and respond to different "geographic prompts" that allow us to discuss the history, theory, and practice of mapping. By engaging in "mapping" and the various methods of "making sense of geography" we will develop a deeper understanding and appreciation for critical geographic histories and politics and the "situatedness" of knowledge and power. Students will be challenged to articulate the value, limitations, and possibilities for media arts practice to contribute to the critical cartographic discourse through their projects.
+
+Students taking this course can expect to gain an appreciation for geographic thinking, learn to ask critical and geographic questions, and apply basic methodologies to “make sense” of geographic data.
+
+The course will be conducted with open source tools and technologies. Students are not expected to enter the class with knowledge of these tools, but will be expected to learn and apply them through studio exercises and project briefings. 
+
+
+
+## COURSE DETAILS
+
+| Info | Detail | 
+| :-----   | -------  |       
+| Instructor| [Joey Lee](https://jk-lee.com) | 
+| Instructor Email | joeyklee@nyu.edu | 
+| Instructor Github | [@joeyklee](https://github.com/joeyklee) | 
+| Class Day | Monday   | 
+| Class Time      | 6:30 - 9:00 | 
+| Class Room      | Room **411**, 370 Jay Street, Brooklyn         | 
+| Class Dates     | Mar 30 - May 11 | 
+
+
+### Office Hours
+
+Office hours are by appointment. Please see the office hour offerings. You are also welcome to meet with ITP Residents.
+
+| Info | Details | 
+| :---  | ---   | 
+| Office Hours    | [4-5pm, TUE & THUR By Appointment](https://calendar.google.com/calendar/selfsched?sstoken=UU9QS0R3c3cybXB4fGRlZmF1bHR8OWY1YWExODk4YTc3YTNkMjM5MDg4ZTIxMmE3OTY5MjM) |
+| Location | ITP FLOOR or ITP RESIDENT'S OFFICE |
+
+* NOTE: If you can't make those times, please send either of us an email and we can chat at another time or via video conference.
+
+## CODE OF CONDUCT
+
+* ↳ [Read the Code Of Conduct here](/CODEOFCONDUCT.md)
 
 ## Weekly Schedule
 
 | GO TO  |  DATE  | THEME | NOTES |
 | :----         |  ----  | ---- | ---- |
-| WEEK 01 | MAR 30 | Everything is Spatial     |  n/a    |
-| WEEK 02 | APR 06 | (Web) Cartographics  |  n/a    |
-| WEEK 03 | APR 13 | Geospatial (Non)Sense |  n/a    |
-| WEEK 04 | APR 20 | Locative Media |  n/a    |
-| WEEK 05 | APR 27 | (Counter)Mapping |  n/a    |
-| WEEK 06 | MAY 04 | Experimental Geography |  n/a    |
+| WEEK 01 | MAR 30 | ----  | ---- | ---- |
+| WEEK 02 | APR 06 | ----  | ---- | ---- |
+| WEEK 03 | APR 13 | ----  | ---- | ---- |
+| WEEK 04 | APR 20 | ----  | ---- | ---- |
+| WEEK 05 | APR 27 | ----  | ---- | ---- |
+| WEEK 06 | MAY 04 | ----  | ---- | ---- |
 | WEEK 07 | MAY 11 | Final Review |  n/a    |
 
 ## Assignments
 
 
-| Assignment | Title | Due Date |
-| :---  | --- | --- |
-| 01 | Narrative Map | Week 2 - APR 06 | 
-| 02 | TBD | Week 3 - APR 13 | 
-| 03 | TBD | Week 4 - APR 20 | 
-| 04 | TBD | Week 5 - APR 27 | 
-| Final Project Proposal | TBD | Week 6 - MAY 04 | 
-| Final Project | TBD | Week 7 - MAY 11 | 
+| ASSIGNMENT  |  DUE DATE  | TITLE | NOTES |
+| :----         |  ----  | ---- | ---- |
+| [A1](assignments/01_assignment.md) |  ---   | ---- | ---- |
+| [A2](assignments/02_assignment.md) |  ---   | ---- | ---- |
+| [A3](assignments/03_assignment.md) |  ---   | ---- | ---- |
+| [A4](assignments/04_assignment.md) |  ---   | ---- | ---- |
+| [A5](assignments/05_assignment.md) |  ---   | ---- | ---- |
+| [FINAL PROJECT & PRESENTATION](assignments/06_final-project.md) | MAY 11  | Final Project  |   n/a   |
 
 All assignments will be submitted here:
 
-↳ 💌 [Google Form Assignment Submission](https://forms.gle/fuTEiPktsi4tVcSm8)
+↳ 💌 [Google Form Assignment Submission](#)
 
 ## Evaluation & Grading
 
@@ -91,13 +104,6 @@ As such, here are my general suggestions for working on projects and assignments
 
 - 1. **Always have something to show**: While developing your projects, always have a "minimum reviewable unit" that speaks to your project concept. Even if your project doesn't technically "work", you should always have something to present.
 - 2. **Submit on time and refine**: Submit what you have on time. If you followed suggestion #1 above, then you'll have material to discuss and explain where you're at and where you're trying to go. You can always refine and update what you have even after the deadline, but if you have nothing to show, then your effort cannot be evaluated and improved.
-
-
-<!-- The easiest thing to do is to just turn thing in on time. You get closure, I can give you careful and constructive feedback, and everyone grows. In the case you can't get you assignment in on time here is the deal:
-
-- 1. email me informing me why your assignment is not submitted on time → 
-- 2. submit documentation of what you've worked on so far, what went wrong, and what you plan to do →
-- 3. late assignments will be marked down half a letter grade (or commensurate points given the scale above) until the assignment receives a C (or equivalent). Do not expect the same quality or timeliness of feedback for late assignments.  -->
 
 
 
