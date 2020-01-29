@@ -146,6 +146,26 @@ Note: https://docs.mapbox.com/mapbox-gl-js/example/toggle-worldviews/
 
 <!-- 
 
+## Workshop
+
+* Map critique
+* hello web maps w/ geosandbox
+* cartographic styling with vector tiles 
+* 
+
+## Assignments
+
+* 01: Narrative Map
+* 02: 
+* 03: Spatial 
+
+
+
+ -->
+
+
+<!-- 
+
 * https://www.theguardian.com/science/blog/2018/mar/06/counter-mapping-cartography-that-lets-the-powerless-speak
 
 
