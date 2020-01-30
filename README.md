@@ -45,6 +45,16 @@ Office hours are by appointment. Please see the office hour offerings. You are a
 
 * ↳ [Read the Code Of Conduct here](/CODEOFCONDUCT.md)
 
+## IN ACKNOWLEDGEMENT OF THE LAND
+
+Each day at ITP and every session of this course, we are gathered on the traditional, ancestral, and unceded Indigenous land of the Lenape and Canarsie peoples. I ask you to join me in acknowledging the Lenape and Canarsie communities, their elders both past and present, and their future generations. I acknowledge that whether intentionally or through ignorance, NYU and ITP was founded upon exclusions and erasures of many Indigenous peoples, including those on whose land this institution is located.
+
+This acknowledgement demonstrates a commitment to reckoning with the history of the land upon which we are gathered and beginning the process of working to dismantle the ongoing legacies of settler colonialism. 
+
+We start this process through building our own awareness and appreciation for the land we are able to live, work, and play on and integrating these awarenesses into the art we make, the tools we build, and the work we do. 
+
+References: [Jer Thorp's Land Notice](https://github.com/blprnt/DataPublics#land-notice) & [Native-land.ca](https://native-land.ca/territory-acknowledgement/)
+
 ## OBJECTIVES
 
 * *To practice paying attention*:
@@ -72,6 +82,7 @@ Office hours are by appointment. Please see the office hour offerings. You are a
 <!-- 
 
 * Everything is Spatial - overview of mapping, what is is, what it can be, and what it means for us in media art/design.
+  * A1: Paying Attention - assignment is about paying attention: defining a phenomenon to map and observe, learn about, investigate, and report on.
 * 
 
 
@@ -81,7 +92,7 @@ Office hours are by appointment. Please see the office hour offerings. You are a
 
 | ASSIGNMENT  |  DUE DATE  | TITLE | NOTES |
 | :----         |  ----  | ---- | ---- |
-| [A1](assignments/01_assignment.md) |  APR 06   | ---- | ---- |
+| [A1](assignments/01_assignment.md) |  APR 06   | A1: Paying Attention | ---- |
 | [A2](assignments/02_assignment.md) |  APR 13   | ---- | ---- |
 | [A3](assignments/03_assignment.md) |  APR 20   | ---- | ---- |
 | [A4](assignments/04_assignment.md) |  APR 27   | ---- | ---- |
