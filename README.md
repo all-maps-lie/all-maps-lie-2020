@@ -30,7 +30,7 @@ The course will be conducted with open source tools and technologies. Students a
 | Class Dates     | Mar 30 - May 11 | 
 
 
-### Office Hours
+### OFFICE HOURS
 
 Office hours are by appointment. Please see the office hour offerings. You are also welcome to meet with ITP Residents.
 
@@ -39,35 +39,57 @@ Office hours are by appointment. Please see the office hour offerings. You are a
 | Office Hours    | [4-5pm, TUE & THUR By Appointment](https://calendar.google.com/calendar/selfsched?sstoken=UU9QS0R3c3cybXB4fGRlZmF1bHR8OWY1YWExODk4YTc3YTNkMjM5MDg4ZTIxMmE3OTY5MjM) |
 | Location | ITP FLOOR or ITP RESIDENT'S OFFICE |
 
-* NOTE: If you can't make those times, please send either of us an email and we can chat at another time or via video conference.
+* NOTE: If you can't make those times, please send me an email and we can chat at another time or via video conference.
 
 ## CODE OF CONDUCT
 
 * ↳ [Read the Code Of Conduct here](/CODEOFCONDUCT.md)
 
-## Weekly Schedule
+## OBJECTIVES
+
+* *To practice paying attention*:
+  * The class will be grounded in developing strategies to "pay attention." Through your sustained mapping and data collection efforts as part of this course, you will tune into the frequency of the world and learn to focus in on the details that might be otherwise overlooked or intentionally suppressed, repressed or erased. You will ultimately learn how "paying attention" is a crucial skill for critical engagement with mapping and media art/design practice more broadly.
+  * references: [How to win the war against seeing](https://medium.com/re-form/how-to-pay-attention-4751adb53cb6), [How to do Nothing](https://www.penguinrandomhouse.com/books/600671/how-to-do-nothing-by-jenny-odell/)
+* *To ask geographic questions*:
+  * You will learn that everything is spatial and that geography matters. To ask geographic questions means you will not only be asking questions about **space** (physical, topographic, infrastructural) and **place** (cultural, affective, emotional) but also history and power and how geography is shaped by and and comes to shape power. 
+* *To explore spatial media*:
+  * This course is structured around "making/doing/mapping" as an approach to working through key concepts related to critical cartography and the topic of critique more broadly. By creating work that explores spatial media -- media/technology/data about geography -- we humbly acknowledge that our media art and design approaches to mapping are valuable, limited, and affective all at the same time. We therefore attempt to make contributions to the discourse of mapping and geography as "outsiders" or, rather non-domain experts.
+* *To learn together*:
+  * This is a course about learning together. You will be confronted by challenging concepts, technical road bumps, and the winter cold. A core outcome of this class is to share your learning and discoveries and research with each other. 
+
+## WEEKLY SCHEDULE
 
 | GO TO  |  DATE  | THEME | NOTES |
 | :----         |  ----  | ---- | ---- |
-| WEEK 01 | MAR 30 | ----  | ---- | ---- |
-| WEEK 02 | APR 06 | ----  | ---- | ---- |
-| WEEK 03 | APR 13 | ----  | ---- | ---- |
-| WEEK 04 | APR 20 | ----  | ---- | ---- |
-| WEEK 05 | APR 27 | ----  | ---- | ---- |
-| WEEK 06 | MAY 04 | ----  | ---- | ---- |
+| WEEK 01 | MAR 30 | Everything is Spatial  | ---- |
+| WEEK 02 | APR 06 | ---- | ---- |
+| WEEK 03 | APR 13 | ----  | ---- | 
+| WEEK 04 | APR 20 | ----  | ---- | 
+| WEEK 05 | APR 27 | ----  | ---- | 
+| WEEK 06 | MAY 04 | ----  | ---- | 
 | WEEK 07 | MAY 11 | Final Review |  n/a    |
+
+<!-- 
+
+* Everything is Spatial - overview of mapping, what is is, what it can be, and what it means for us in media art/design.
+* 
+
+
+ -->
 
 ## Assignments
 
-
 | ASSIGNMENT  |  DUE DATE  | TITLE | NOTES |
 | :----         |  ----  | ---- | ---- |
-| [A1](assignments/01_assignment.md) |  ---   | ---- | ---- |
-| [A2](assignments/02_assignment.md) |  ---   | ---- | ---- |
-| [A3](assignments/03_assignment.md) |  ---   | ---- | ---- |
-| [A4](assignments/04_assignment.md) |  ---   | ---- | ---- |
-| [A5](assignments/05_assignment.md) |  ---   | ---- | ---- |
+| [A1](assignments/01_assignment.md) |  APR 06   | ---- | ---- |
+| [A2](assignments/02_assignment.md) |  APR 13   | ---- | ---- |
+| [A3](assignments/03_assignment.md) |  APR 20   | ---- | ---- |
+| [A4](assignments/04_assignment.md) |  APR 27   | ---- | ---- |
+| [A5](assignments/05_assignment.md) |  MAY 04   | ---- | ---- |
 | [FINAL PROJECT & PRESENTATION](assignments/06_final-project.md) | MAY 11  | Final Project  |   n/a   |
+
+
+
 
 All assignments will be submitted here:
 
