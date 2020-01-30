@@ -1,4 +1,4 @@
-# Week 6:
+# Week X:
 
 ## SLIDES
 * ↳ [Link to Slides]()

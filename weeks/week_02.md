@@ -1,1 +1,31 @@
 # Week 2:
+
+## ABOUT
+
+
+
+## TABLE OF CONTENTS
+
+
+## EXERCISES TO DO BEFORE CLASS
+
+
+## OUTCOMES & GOALS
+
+
+## PACING / DURATION
+
+
+
+## MATERIALS NEEDED
+
+
+## TOPICS
+
+
+## STUDIO
+
+
+## ASSIGNMENT
+
+* ↳ [Link to Assignment]().
