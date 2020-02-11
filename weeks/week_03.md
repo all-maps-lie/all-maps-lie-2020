@@ -1,9 +1,16 @@
-# Week 3:
+# Week 3: Maps as Media
 
 ## SLIDES
 * ↳ [Link to Slides]()
 
 ## ABOUT
+
+<!-- 
+* New Spatial Media:
+  * map mashups, false correlations? 
+  * open source 
+  * visualization: turf binning - grids, isolines
+ -->
 
 
 ## TABLE OF CONTENTS

@@ -6,6 +6,15 @@
 
 ## ABOUT
 
+<!-- 
+* What is a map? what can a map be?
+  * Everything is Spatial - overview of mapping, what it is/isn't, what it can be, and what it means for us in media art/design.
+  * A1: Paying Attention - assignment is about paying attention: defining a phenomenon to map and observe, learn about, investigate, and report on.
+    * this can be remotely done using aerial images 
+    * or physically based (preferred)
+
+
+ -->
 
 
 ## TABLE OF CONTENTS
@@ -25,7 +34,7 @@
 
 ## EXERCISES TO DO BEFORE CLASS
 
-* ↳ Fill out the [pre-class survey]().
+* ↳ Fill out the [pre-class survey](https://forms.gle/sQ1E9ywrJxbDskVL7).
 
 ## OUTCOMES & GOALS
 

@@ -4,3 +4,9 @@
 
 * Using your collected data:
   * A foray into geospatial abstraction of spatial data and APIs: e.g. Routing, binning, isolines, place search, bezier curves, tin, // other libraries ml5?
+
+
+<!-- 
+* Spatial Abstraction: Routing, binning, isolines, place search, bezier curves, tin, // other libraries ml5?
+
+ -->
