@@ -10,6 +10,7 @@
   * map mashups, false correlations? 
   * open source 
   * visualization: turf binning - grids, isolines
+  * https://turfjs.org/docs/#tesselate
  -->
 
 

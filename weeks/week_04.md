@@ -23,6 +23,7 @@ https://rhizome.org/editorial/2014/mar/26/locative-media-revisited/
     * Camera Restricta: https://philippschmitt.com/work/camera-restricta
     * field guide to getting lost
     * https://rhizome.org/editorial/2014/mar/26/locative-media-revisited/
+    * On Kawara: https://www.metmuseum.org/art/collection/search/284464
   * A3: 
     * Abstraction: ways of exploring geospatial data
       * Make a locative experience that prompts people to explore your data.
