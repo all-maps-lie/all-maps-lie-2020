@@ -20,6 +20,7 @@
   - [MATERIALS NEEDED](#materials-needed)
   - [TOPICS](#topics)
   - [STUDIO](#studio)
+  - [READINGS](#readings)
   - [ASSIGNMENT](#assignment)
 
 ## EXERCISES TO DO BEFORE CLASS
@@ -42,6 +43,9 @@
 ## STUDIO
 
 * ↳ [Link to Studio]()
+
+## READINGS
+
 
 ## ASSIGNMENT
 

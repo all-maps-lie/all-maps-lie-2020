@@ -71,20 +71,66 @@ References: [Jer Thorp's Land Notice](https://github.com/blprnt/DataPublics#land
 
 | GO TO  |  DATE  | THEME | NOTES |
 | :----         |  ----  | ---- | ---- |
-| WEEK 01 | MAR 30 | Everything is Spatial  | ---- |
-| WEEK 02 | APR 06 | ---- | ---- |
-| WEEK 03 | APR 13 | ----  | ---- | 
-| WEEK 04 | APR 20 | ----  | ---- | 
-| WEEK 05 | APR 27 | ----  | ---- | 
-| WEEK 06 | MAY 04 | ----  | ---- | 
-| WEEK 07 | MAY 11 | Final Review |  n/a    |
+| WEEK 01 | MAR 30 | Everything is Spatial  |  What is a map? what can a map be? |
+| WEEK 02 | APR 06 | Countermaps & Cartographics | What is on a map? What power do maps wield? |
+| WEEK 03 | APR 13 | Maps as Media  | What are opportunities for rethinking spatial representation? How do we think out space? | 
+| WEEK 04 | APR 20 | Locative Media  | What are opportunities for rethinking geographic interaction & experiences? | 
+| WEEK 05 | APR 27 | Figure-Ground | How do we see geography from afar? | 
+| WEEK 06 | MAY 04 | Experimental Geography  | How do we situate our spatial media practice? | 
+| WEEK 07 | MAY 11 | Final Class |  n/a    |
+
+
 
 <!-- 
 
-* Everything is Spatial - overview of mapping, what is is, what it can be, and what it means for us in media art/design.
+* What is a map? what can a map be?
+  * Everything is Spatial - overview of mapping, what it is/isn't, what it can be, and what it means for us in media art/design.
   * A1: Paying Attention - assignment is about paying attention: defining a phenomenon to map and observe, learn about, investigate, and report on.
-* 
+    * this can be remotely done using aerial images 
+    * or physically based (preferred)
 
+
+* what's on a map? and what power do maps wield?
+  * Countermaps & Cartographics: 
+    * On geographic knowledge, geography, cartography, mapping & GIS: Overview of GIS, Geography, and Discipline of Cartography - and where we fit in
+    * Countermaps:
+      * What can maps do? 
+      * Examples of ways in which maps make space and knowledge
+    * Cartographics: "A Map is not the territory" - https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation
+      * Elements of a map? 
+      * Mark Monmonier - How to lie with maps ==> about cartographic considerations
+    * Studio:
+      * getting coordinates from photo metadata and saving to a file
+    * A2: Points on the map 
+      * continue data collection, go through geosandbox 
+      * publish your map with images that explain what you have collected so far.
+
+* New Spatial Media:
+  * map mashups, false correlations? 
+  * open source 
+  * visualization: turf binning - grids, isolines
+
+* Locative Media
+  * Examples
+    * https://www.metmuseum.org/art/collection/search/284464 - On Kawara, I got Up
+    * location based light painting: https://vimeo.com/103748794
+    * 360 degree weather: https://vimeo.com/93982348
+    * better weather compass: http://stephanbogner.de/projects/besserwetterkompass
+    * FataLATour: http://stephanbogner.de/projects/the-fatalatour-app
+    * Camera Restricta: https://philippschmitt.com/work/camera-restricta
+    * field guide to getting lost
+    * https://rhizome.org/editorial/2014/mar/26/locative-media-revisited/
+  * A3: 
+    * Abstraction: ways of exploring geospatial data
+      * Make a locative experience that prompts people to explore your data.
+      
+
+* figure-ground:
+  * remote sensing, aerial imagery, photography and views from above
+  * dronestagram
+  * US border, prison system - Josh Begley
+  * Jenny odell
+  * 
 
  -->
 
@@ -92,15 +138,21 @@ References: [Jer Thorp's Land Notice](https://github.com/blprnt/DataPublics#land
 
 | ASSIGNMENT  |  DUE DATE  | TITLE | NOTES |
 | :----         |  ----  | ---- | ---- |
-| [A1](assignments/01_assignment.md) |  APR 06   | A1: Paying Attention | ---- |
-| [A2](assignments/02_assignment.md) |  APR 13   | ---- | ---- |
-| [A3](assignments/03_assignment.md) |  APR 20   | ---- | ---- |
-| [A4](assignments/04_assignment.md) |  APR 27   | ---- | ---- |
-| [A5](assignments/05_assignment.md) |  MAY 04   | ---- | ---- |
-| [FINAL PROJECT & PRESENTATION](assignments/06_final-project.md) | MAY 11  | Final Project  |   n/a   |
+| [A1](assignments/01_assignment.md) |  APR 06   | Paying Attention | Begin Data Collection |
+| [A2](assignments/02_assignment.md) |  APR 13   | Map Mashups  | Intro to Web Maps |
+| [A3](assignments/03_assignment.md) |  APR 20   | Spatial Abstraction | (Ab)using Geospatial APIs   |
+| [A4](assignments/04_assignment.md) |  APR 27   | Locative Media | Put Yourself on the Map |
+| [A5](assignments/05_assignment.md) |  MAY 04   | Spatial Gaze | Looking up and looking down |
+| [FINAL](assignments/06_final-project.md) | MAY 11  | Final Project  | Synthesis & Documentation for Zine  |
 
 
+<!-- 
+* Paying Attention: collect data about 1 thing - use your camera phone to collect spatial imagery, organize, annotate, tag, and reflect on what you're seeing. ==> studio time for collecting coordinates.
+* Map Mashups: Intro to web maps / geosandbox , data collection continued ==> points on a map, popups, images on the map
+* Spatial Abstraction: Routing, binning, isolines, place search, bezier curves, tin, // other libraries ml5?
+* 
 
+ -->
 
 All assignments will be submitted here:
 
