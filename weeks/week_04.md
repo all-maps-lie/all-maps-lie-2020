@@ -55,4 +55,4 @@ https://rhizome.org/editorial/2014/mar/26/locative-media-revisited/
 
 ## ASSIGNMENT
 
-* ↳ [Link to Assignment]().
+* ↳ [Link to Assignment](../assignments/assignment_04.md).

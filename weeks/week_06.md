@@ -31,4 +31,4 @@
 
 ## ASSIGNMENT
 
-* ↳ [Link to Assignment]().
+* ↳ [Link to Assignment](../assignments/final.md).

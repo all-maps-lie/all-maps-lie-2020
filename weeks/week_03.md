@@ -39,4 +39,4 @@
 
 ## ASSIGNMENT
 
-* ↳ [Link to Assignment]().
+* ↳ [Link to Assignment](../assignments/assignment_03.md).

@@ -77,7 +77,7 @@ References: [Jer Thorp's Land Notice](https://github.com/blprnt/DataPublics#land
 | WEEK 04 | APR 20 | Locative Media  | What are opportunities for rethinking geographic interaction & experiences? | 
 | WEEK 05 | APR 27 | Figure-Ground | How do we see geography from afar? | 
 | WEEK 06 | MAY 04 | Experimental Geography  | How do we situate our spatial media practice? | 
-| WEEK 07 | MAY 11 | Final Class |  n/a    |
+| WEEK 07 | MAY 11 | Final Class |  How do you map?   |
 
 
 ## Assignments
@@ -94,7 +94,7 @@ References: [Jer Thorp's Land Notice](https://github.com/blprnt/DataPublics#land
 
 All assignments will be submitted here:
 
-↳ 💌 [Google Form Assignment Submission](#)
+↳ 💌 [Google Form Assignment Submission](https://forms.gle/1tAfHZXEejZDubHg9)
 
 ## Evaluation & Grading
 
@@ -106,9 +106,8 @@ Notes can be found at this url on [How to give Feedback](https://github.com/itp-
 
 Here is a basic breakdown of graded tasks along that trajectory:
 * 10% Attendance/Participation
-* 50% Assignments
-* 10% Project Proposal
-* 30% Final Project, completed on conclusion of the course
+* 60% Assignments
+* 30% Final Project Documentation
 * TOTAL: 100%
 
 Here's an outline of how your work will generally be evaluated. The explaners of each category are rough guidelines for how I assign numbers (or quantify 😉) to the work you are producing in this class. Inspired by [cmda-tt course](https://github.com/cmda-tt/course-17-18/tree/master/assessment-3).

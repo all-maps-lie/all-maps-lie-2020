@@ -44,4 +44,4 @@
 
 ## ASSIGNMENT
 
-* ↳ [Link to Assignment]().
+* ↳ [Link to Assignment](../assignments/assignment_02.md).
