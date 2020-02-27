@@ -42,41 +42,41 @@ These seemingly simple questions are the starting point for many other questions
 * How they relate to current culture and politics?
 * What do they tell about the history of the phenomenon? Or about the history of the place?
 
+## A few helpful notes
+
+Neff & Nafus in “The Self-Tracking” (ch.3) identify 10 practice tracking considerations: 
+
+* Start with brevity
+* Focus on one thing (or two things maximum!)
+* Name those things with care
+* Time and location are good data curators
+* Be realistic about the work
+* Numbers, words, and pictures all count
+* Numbers have qualities
+* Words and pictures have quantities
+* Self-tracking tools do not have to be fancy
+* Do a few trial runs
+
+Data collection is a habit and takes practice. You can think about ways to help make data collection a part of your habits, particularly if the phenomenon of interest for you is something you want to explore over the long term. Some helpful tips:
+
+* Build Reward structures and mechanisms for encouragement
+* Trial and error is common - finding out the best mechanisms for you takes time
+* Define a baseline from which you can explore or measure change. Do you have a baseline? The importance of baselines is best described in [Control Earth (2016), P. Edwards](https://placesjournal.org/article/control-earth/)
 
 # TECHNICAL
 
-* See: [Camera Phone Guide](./camera-phone-guide.md)
-
-***
-***
-***
-## GOOGLE FORMS 
-
-### DATA COLLECTION
-
-### DATA PROCESSING
+* [Camera Phone Guide](./camera-phone-guide.md) // Photography
+* [Field Papers Guide](./fieldpapers-guide.md) // paper mapping
+* [Analog Data Collection - Pen & Paper](./analog-data-collection-guide.md)
+* [Google Form Guide](./google-form-guide.md)
 
 ***
 ***
 ***
 
-## NOTEBOOK & PAPER 
 
-### DATA COLLECTION
+# REFERENCES
 
-### DATA PROCESSING
-
-
-***
-***
-***
-
-## FieldPapers: Paper Mapping
-
-### DATA COLLECTION
-
-* [FieldNotes](fieldpapers.org/)
-
-### DATA PROCESSING
-
-
+* [Rob Walker's How To Pay Attention: 20 Ways To Win The War Against Seeing](https://medium.com/re-form/how-to-pay-attention-4751adb53cb6)
+* [Data Walking, D. Hunter](http://datawalking.com/)
+* [Data Walking for Social Research, A. Powell](http://www.datawalking.org/)

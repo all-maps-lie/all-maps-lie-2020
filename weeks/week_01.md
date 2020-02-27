@@ -27,8 +27,6 @@
   - [MATERIALS NEEDED](#materials-needed)
   - [TOPICS](#topics)
   - [REFERENCES](#references)
-    - [READINGS](#readings)
-    - [PROJECTS](#projects)
   - [STUDIO](#studio)
   - [ASSIGNMENT](#assignment)
 
@@ -51,7 +49,7 @@
 
 ## PACING / DURATION
 
-
+TBA
 
 ## MATERIALS NEEDED
 
@@ -59,17 +57,11 @@ N/A
 
 ## TOPICS
 
-
+TBA
 
 ## REFERENCES
 
-### READINGS
-
-* ...
-
-### PROJECTS
-
-* See [Week 1 Project References](../BIBLIOGRAPHY.md)
+* See [Week 1 Readings and Project References](../BIBLIOGRAPHY.md#week-01-everything-is-spatial).
 
 ***
 ***
@@ -77,7 +69,7 @@ N/A
 
 ## STUDIO
 
-* ↳ [Link to Studio](#)
+* ↳ [Link to Studio](../guides/paying-attention-guide.md).
 
 ***
 ***

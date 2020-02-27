@@ -33,7 +33,7 @@ To get a bit more detailed:
 2. All photos will include metadata description of the information in the image and any notes collected about that image.
 
 To get even more detailed and sophisticated:
-1. Every time a photo is loaded to my computer, I will run a script that will export a JSON file that includes, for each image, the name of the image, the location information, and any associated metadata. The script will also generate an interactive map of those locations.
+1. Every time a photo is loaded to my computer, I will run a script that will export a JSON file that includes, for each image, the name of the image, the location information, and any associated metadata. The script will also generate an interactive map of those locations. You can use tools like [img2meta by @JoeyKlee](https://github.com/joeyklee/img2meta) to get the metadata from your images.
 
 ### Helpful Tools
 
