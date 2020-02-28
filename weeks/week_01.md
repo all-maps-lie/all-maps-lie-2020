@@ -3,6 +3,15 @@
 <!-- 
 * What is a map? what can a map be?
   * Everything is Spatial - overview of mapping, what it is/isn't, what it can be, and what it means for us in media art/design.
+  * * Setting the stage:
+  * What is a map? And Why it doesn't matter
+  * Why do we map?
+  * Who maps?
+* Course goals:
+  * To practice paying attention 
+  * To ask geographic questions 
+  * To explore spatial media
+  * To learn together
  -->
 
 > “A map does not just chart, it unlocks and formulates meaning; it forms bridges between here and there, between disparate ideas that we did not know were previously connected.” ― Reif Larsen, The Selected Works of T.S. Spivet 
@@ -17,9 +26,9 @@
 
 Welcome!
 
-If you're here, this means you're taking All Maps Lie. 
+If you're here, this means you're taking All Maps Lie. Let's learn together.
 
-This week we are going to get acquainted with mapping and cartography *through the lens of design & media art and critical perspectives*. 
+This week we are going to get acquainted with mapping and cartography *through the lens of design & media art and critical perspectives*. We are going to challenge our conceptions and definitions of what a map is, what they can be, who is mapping, what maps say, and what maps do. This week our goal is to "[align our compass](http://www.wordsinspace.net/mapsmedia/fall2018/portfolio/august-29-calibrating-the-compass/)" and begin aligning our media art practices with critical cartographic discourse.
 
 
 ## TABLE OF CONTENTS
@@ -32,6 +41,9 @@ This week we are going to get acquainted with mapping and cartography *through t
   - [OUTCOMES & GOALS](#outcomes--goals)
   - [PACING / DURATION](#pacing--duration)
   - [TOPICS](#topics)
+    - [A](#a)
+    - [B](#b)
+    - [C](#c)
   - [REFERENCES](#references)
   - [STUDIO](#studio)
   - [ASSIGNMENT](#assignment)
@@ -43,15 +55,9 @@ This week we are going to get acquainted with mapping and cartography *through t
 ## OUTCOMES & GOALS
 
 * Overview of Course Logistics
-* Setting the stage:
-  * What is a map? And Why it doesn't matter
-  * Why do we map?
-  * Who maps?
-* Course goals:
-  * To practice paying attention 
-  * To ask geographic questions 
-  * To explore spatial media
-  * To learn together
+* Introducing Critical Cartography and Mapping
+* Selecting a subject to observe
+* Defining how to pay attention
 
 ## PACING / DURATION
 
@@ -64,23 +70,20 @@ This week we are going to get acquainted with mapping and cartography *through t
 
 ## TOPICS
 
-TBA
+### A 
+
+### B
+
+### C
 
 ## REFERENCES
 
 * See [Week 1 Readings and Project References](../BIBLIOGRAPHY.md#week-01-everything-is-spatial).
 
-***
-***
-***
-
 ## STUDIO
 
 * ↳ [Link to Studio](../guides/paying-attention-guide.md).
 
-***
-***
-***
 
 ## ASSIGNMENT
 
