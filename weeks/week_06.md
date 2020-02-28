@@ -9,10 +9,23 @@
 
 ## ABOUT
 
+This week our theme is "Experimental Geography." This refers to artwork that lives at the intersections of art, design, architecture, science, and the humanities as well as to the approach we've been taking in this class. The discussion this week will be on articulating what it means to be "critical," how it relates to cartographic and mapping practices, and more generally to how we read the world. 
+
+This week we will focus on documenting our work, synthesizing our experiences, and making sense of our projects. The outcomes will be included in our class zine.
+
 
 ## TABLE OF CONTENTS
 
-
+- [Week 6: Experimental Geography](#week-6-experimental-geography)
+  - [SLIDES](#slides)
+  - [ABOUT](#about)
+  - [TABLE OF CONTENTS](#table-of-contents)
+  - [OUTCOMES & GOALS](#outcomes--goals)
+  - [PACING / DURATION](#pacing--duration)
+  - [TOPICS](#topics)
+  - [REFERENCES](#references)
+  - [STUDIO](#studio)
+  - [ASSIGNMENT](#assignment)
 
 ## OUTCOMES & GOALS
 

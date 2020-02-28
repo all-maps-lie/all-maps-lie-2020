@@ -195,7 +195,9 @@
 * [Satellite, J. Odell](http://www.jennyodell.com/satellite.html)
 * [LA Swimmer, Groß & Lee](https://vimeo.com/68121915)
 * [Re-enactments (2009), J. Odell](http://www.jennyodell.com/reenactments-series.html)
-
+* [Avena Test Bed, B. Groß](https://benedikt-gross.de/projects/avena-test-bed-agricultural-printing-and-altered-landscapes)
+* [9 eyes of Google Street Car, Jon Rafman](https://anthology.rhizome.org/9-eyes)
+* [Mapping Sewage Flows in the Gowanus Canal after Sandy flood damages - the sequel](https://publiclab.org/notes/eymund-diegel/12-18-2012/mapping-sewage-flows-gowanus-canal-after-sandy-flood-damages-sequel)
 
 ***
 ***
@@ -258,6 +260,7 @@ There's so much we didn't get to discuss in this class, but I hope the course wa
 * Classes about Maps, Mapping, Cartography and Media:
   * [Maps as Media II (2016), S. Mattern](http://wordsinspace.net/shannon/2016/12/19/maps-as-media-2/)
   * [Maps as Media I (2015), S. Mattern](http://wordsinspace.net/shannon/2015/12/22/maps-as-media/)
+  * [Designing the Post natural, T. Brain](https://wp.nyu.edu/postnatural/)
 ***
 ***
 ***
