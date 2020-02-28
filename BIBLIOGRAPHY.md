@@ -199,6 +199,9 @@
 * [Avena Test Bed, B. Groß](https://benedikt-gross.de/projects/avena-test-bed-agricultural-printing-and-altered-landscapes)
 * [9 eyes of Google Street Car, Jon Rafman](https://anthology.rhizome.org/9-eyes)
 * [Mapping Sewage Flows in the Gowanus Canal after Sandy flood damages - the sequel](https://publiclab.org/notes/eymund-diegel/12-18-2012/mapping-sewage-flows-gowanus-canal-after-sandy-flood-damages-sequel)
+* [Big Atlas of LA Pools, Gross & Lee](https://benedikt-gross.de/projects/the-big-atlas-of-la-pools)
+  * [Big Atlas of LA Pools in the LA Times](https://www.latimes.com/local/la-me-c1-swimming-pools-20131202-dto-htmlstory.html)
+* [Geography of Hidden Faces, J. Lee](https://geo.hidden-faces.net/)
 
 ***
 ***
@@ -309,6 +312,7 @@ There's so much we didn't get to discuss in this class, but I hope the course wa
     * [Awesome List: GIS](https://github.com/sshuair/awesome-gis)
     * [Deck.GL](https://github.com/uber/deck.gl)
       * [Vis Academy](http://vis.academy/#/)
+    * [Google Earth Engine](https://earthengine.google.com/)
 
 ## My Geo Stack
 
