@@ -5,16 +5,9 @@
 
 ## ABOUT
 
+The theme this week is "figure-ground." Figure-ground is often referred to ways we perceive what is in an image as differentiated as the subject and background. This is a fitting frame of reference for ways that we read maps in the form of aerial images and remotely sensed data. 
 
-<!-- 
-
-* figure-ground:
-  * remote sensing, aerial imagery, photography and views from above
-  * dronestagram
-  * US border, prison system - Josh Begley
-  * Jenny odell
-  * 
- -->
+This week we will focus on "remotely sensed" data in the form of images. Using the data you have been collecting, you will explore imagery from the top-down and the bottom-up, juxtaposing views collected from aerial imagery and those from streetview data services.
 
 ## TABLE OF CONTENTS
 
@@ -54,3 +47,13 @@
 ## ASSIGNMENT
 
 * ↳ [Link to Assignment](../assignments/assignment_05.md).
+
+<!-- 
+
+* figure-ground:
+  * remote sensing, aerial imagery, photography and views from above
+  * dronestagram
+  * US border, prison system - Josh Begley
+  * Jenny odell
+  * 
+ -->

@@ -13,7 +13,7 @@
 
 This week our theme is "Maps as Media." We build off of our discussions from last week to dive deeper into ways that space is "calculated," how that manifests in shaping the world, and what that means for us as those who are simultaneously mapping and being mapped.
 
-This week we will focus on spatial abstraction and how we can use and abuse different geospatial tools and APIs to explore spatial data. Using the data we have been collecting and our exposure to web mapping from last week, we will take a look at various methods for calculating space.
+This week we will focus on spatial abstraction and how we can use and abuse different geospatial tools and APIs to explore spatial data. Using the data we have been collecting and our exposure to web mapping from last week, we will take a look at various methods for calculating space using turf.js.
 
 ## TABLE OF CONTENTS
 

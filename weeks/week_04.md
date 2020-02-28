@@ -7,30 +7,9 @@
 
 ## ABOUT
 
-<!-- 
+The theme this week is "locative media." The discussion will be focused around the ways that mapping can be experienced outside of the screen /paper. We will examine the geographies of spatial data and the power of "seeing" data in space. Exploring the geography of spatial data means looking at both physical spaces and digital infrastructures.
 
-https://rhizome.org/editorial/2014/mar/26/locative-media-revisited/
-
-* Julian oliver - border bumping
-* quotidian record - Brian House
-* 
-
-* Locative Media
-  * Examples
-    * https://www.metmuseum.org/art/collection/search/284464 - On Kawara, I got Up
-    * location based light painting: https://vimeo.com/103748794
-    * 360 degree weather: https://vimeo.com/93982348
-    * better weather compass: http://stephanbogner.de/projects/besserwetterkompass
-    * FataLATour: http://stephanbogner.de/projects/the-fatalatour-app
-    * Camera Restricta: https://philippschmitt.com/work/camera-restricta
-    * field guide to getting lost
-    * https://rhizome.org/editorial/2014/mar/26/locative-media-revisited/
-    * On Kawara: https://www.metmuseum.org/art/collection/search/284464
-  * A3: 
-    * Abstraction: ways of exploring geospatial data
-      * Make a locative experience that prompts people to explore your data.
- -->
-
+This week we will focus on getting "out of the screen" and into space. Using the data you have been collecting, you will explore ways of creating interventions or provocations in physical space that highlight, visualize, or prompt engagement with your data.
 
 ## TABLE OF CONTENTS
 
@@ -70,3 +49,14 @@ https://rhizome.org/editorial/2014/mar/26/locative-media-revisited/
 ## ASSIGNMENT
 
 * ↳ [Link to Assignment](../assignments/assignment_04.md).
+
+<!-- 
+
+https://rhizome.org/editorial/2014/mar/26/locative-media-revisited/
+
+* Julian oliver - border bumping
+* quotidian record - Brian House
+  * A3: 
+    * Abstraction: ways of exploring geospatial data
+      * Make a locative experience that prompts people to explore your data.
+ -->

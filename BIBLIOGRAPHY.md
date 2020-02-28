@@ -147,13 +147,13 @@
 * Required:
   * [Chapter 9: Geosurveillance and Spying with Maps, pg. 112 - 128, Mapping: A Critical Introduction to Cartography and Mapping, J. Crampton (2010)](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=4433111&ppg=126)
   * [Chapter 10: Cyberspace and Virtual Worlds, pg. 128 - 144, Mapping: A Critical Introduction to Cartography and Mapping, J. Crampton (2010)](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=4433111&ppg=142)
-  * [Laura Kurgan, “Mapping Considered as a Problem of Theory and Practice,” “Representation and the Necessity of Interpretation,” & “From Military Surveillance to the Public Sphere” in Up Close at a Distance: Mapping, Technology and Politics (New York: Zone Books, 2012): 9-54.](https://www.dropbox.com/s/rf5zfjiy7zrr5kk/Kurgan_UpClose_IntroLexicon.pdf?dl=0)
-* Related to locative media:
   * [Locative Media Revisted, Rhizome](https://rhizome.org/editorial/2014/mar/26/locative-media-revisited/)
+* Optional:
 
 ### Supplemental:
 * [Field guide to getting lost, R. Solnit](https://www.goodreads.com/book/show/76479.A_Field_Guide_to_Getting_Lost)
 * [How to Do Nothing: Resisting the Attention Economy, J. Odell](https://www.goodreads.com/book/show/42771901-how-to-do-nothing?from_search=true&qid=QNLBXDpc4o&rank=1)
+* [Code Space, Kitchen & Dodge](https://mitpress.mit.edu/books/codespace)
 
 ### WORKS CITED
 
@@ -177,8 +177,14 @@
 
 ### READINGS
 
-* [Chapter 11: The Cartographic Construction of Race and Identity, pg. 144 - 160, Mapping: A Critical Introduction to Cartography and Mapping, J. Crampton (2010)](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=4433111&ppg=158)
-* [Chapter 12: The poetics of Space: Art, Beauty, and Imagination, pg. 160 - 177, Mapping: A Critical Introduction to Cartography and Mapping, J. Crampton (2010)](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=4433111&ppg=174)
+* Required:
+  * [Chapter 11: The Cartographic Construction of Race and Identity, pg. 144 - 160, Mapping: A Critical Introduction to Cartography and Mapping, J. Crampton (2010)](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=4433111&ppg=158)
+  * [Chapter 12: The poetics of Space: Art, Beauty, and Imagination, pg. 160 - 177, Mapping: A Critical Introduction to Cartography and Mapping, J. Crampton (2010)](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=4433111&ppg=174)
+  * [Laura Kurgan, “Mapping Considered as a Problem of Theory and Practice,” “Representation and the Necessity of Interpretation,” & “From Military Surveillance to the Public Sphere” in Up Close at a Distance: Mapping, Technology and Politics (New York: Zone Books, 2012): 9-54.](https://www.dropbox.com/s/rf5zfjiy7zrr5kk/Kurgan_UpClose_IntroLexicon.pdf?dl=0)
+* Optional:
+  * John Pickles, “[The Cartographic Gaze, Global Visions and Modalities of Visual Culture](http://www.wordsinspace.net/secure/Pickles75_91pdf.pdf)” in *A History of Spaces: Cartographic Reason, Mapping and the Geo-Coded World* (New York: Routledge, 2004): 75-91.
+  * On satellite art: “[Seeing the World Through Google’s Eyes](https://exposingtheinvisible.org/resources/seeing-the-world-through-googles),” *Exposing the Invisible* (n.d.).
+  * On indigenous communities’ use of drone mapping: Clayton Aldern, “[Cartographers Without Borders](https://logicmag.io/03-cartographers-without-borders/),” *LOGIC* 4 (2018).
 
 ### WORKS CITED
 
