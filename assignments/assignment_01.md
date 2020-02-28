@@ -52,10 +52,11 @@ Additional Methodological considerations:
 
 ### Part 4: Create a spatial dataset of your points
 
-Create a spatial dataset from your images. 
+Create a spatial dataset, specifically a `geojson` file from your images. Open that geojson file in [geojson.io](http://geojson.io/), a web service that allows you to easily view and make geospatial data, to visualize your data.
 
-* **Automated** process: Ideally you can automate this process by using [img2meta](https://github.com/joeyklee/img2meta) to create a `.geojson` dataset from a folder of images (use the `true` flag). With the `img_metadata.geojson` you can drag-and-drop it into [geojson.io](http://geojson.io/), a web service that allows you to easily view and make geospatial data.
+* **Automated** process: Ideally you can automate this process by using [img2meta](https://github.com/joeyklee/img2meta) to create a `.geojson` dataset from a folder of images (use the `true` flag). With the `img_metadata.geojson` you can drag-and-drop it into [geojson.io](http://geojson.io/).
 * **Manual** process: Otherwise, there are analog methods for retrieving the metadata from your images as seen in [How to See an Image’s EXIF Data in Windows and macOS, How-To Geek](https://www.howtogeek.com/289712/how-to-see-an-images-exif-data-in-windows-and-macos/) in which you can create a `.csv` file or spreadsheet where you can manually create your data. Notes on structuring your spreadsheet data as a CSV and converting it to geojson can be found in the [CSV to GeoJSON Guide](../guides/csv-to-geojson-guide.md).
+
 
 
 ## Submission
