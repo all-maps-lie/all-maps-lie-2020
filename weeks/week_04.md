@@ -1,5 +1,7 @@
 # Week 4: Locative Media
 
+> “If you break from cartesian space what new perspectives will be thrown up?... what strange conjunctions and serendipitous new knowledges?” - Crampton (2010)
+
 ## SLIDES
 * ↳ [Link to Slides]()
 

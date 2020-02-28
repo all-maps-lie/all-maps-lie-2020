@@ -1,5 +1,12 @@
 # Week 2: Countermaps and Cartographics
 
+> “Cartography is not what cartographers tell us it is” ― Brian Harley, 
+>
+> “Maps are creative statements about the world, not merely degraded reflections of it” ― Liben & Downs (1989)
+>
+>“Maps are graphic representations that facilitate spatial understanding of things, concepts, conditions, processes or events in the human world (Harley & woodward 1987)” - via Crampton (2010) 
+
+
 ## ABOUT
 
 <!-- 

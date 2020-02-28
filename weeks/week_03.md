@@ -1,5 +1,11 @@
 # Week 3: Maps as Media
 
+> Maps are not representational by “processual” - that is they emerge on through practices and not through definitions - (Kitchen & dodge 2007)
+>
+> “Is it possible to think of a map not as a representation of reality but as a tool to produce reality?” - Kanarinka (2006)
+>
+> “In the process, [map amateurs] are reshaping the world of mapmaking and collectively creating a new atlas that is lieky to be both richer and messier than any other” - Helft 2007, New York Times
+
 ## SLIDES
 * ↳ [Link to Slides]()
 

@@ -2,6 +2,9 @@
 
 ## Brief:
 
+*   * A1: Paying Attention - assignment is about paying attention: defining a phenomenon to map and observe, learn about, investigate, and report on.
+    * this can be remotely done using aerial images 
+    * or physically based (preferred)
 * collect data about 1 thing - use your camera phone to collect spatial imagery, organize, annotate, tag, and reflect on what you're seeing. ==> studio time for collecting coordinates.
 
 ## Readings

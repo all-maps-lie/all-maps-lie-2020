@@ -164,7 +164,6 @@
 * [On Kawara, I got Up](https://www.metmuseum.org/art/collection/search/284464)
 * [Drone Shadows, J. Bridle](http://www.jamesbridle.com/works/drone-shadow-iwm)
 * [Urban Data Flaneur, H. Otten](http://www.heikeotten.de/portfolio/urban-data-flaneur/)
-    
 
 ***
 ***
@@ -186,6 +185,8 @@
 * [Officer Involved, J. Begley](https://theintercept.co/officer-involved/)
 * [Satellite, J. Odell](http://www.jennyodell.com/satellite.html)
 * [LA Swimmer, Groß & Lee](https://vimeo.com/68121915)
+* [Re-enactments (2009), J. Odell](http://www.jennyodell.com/reenactments-series.html)
+
 
 ***
 ***

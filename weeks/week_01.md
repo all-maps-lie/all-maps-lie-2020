@@ -1,18 +1,25 @@
 # Week 1: Everything is Spatial
 
+<!-- 
+* What is a map? what can a map be?
+  * Everything is Spatial - overview of mapping, what it is/isn't, what it can be, and what it means for us in media art/design.
+ -->
+
+> “A map does not just chart, it unlocks and formulates meaning; it forms bridges between here and there, between disparate ideas that we did not know were previously connected.” ― Reif Larsen, The Selected Works of T.S. Spivet 
+> 
+> “If the theoretical critique cleared conceptual space for alternative mappings it has fallen to a variety of practices, most of them outside of the academy… 2 developments are especially notable: artistic appropriations of mapping and the storming success of map hacking, mashups, and the geospatial web” - Cramton (2010)
+
 ## SLIDES
 * ↳ [Link to Week 1 Slides]()
 
 
 ## ABOUT
 
-<!-- 
-* What is a map? what can a map be?
-  * Everything is Spatial - overview of mapping, what it is/isn't, what it can be, and what it means for us in media art/design.
-  * A1: Paying Attention - assignment is about paying attention: defining a phenomenon to map and observe, learn about, investigate, and report on.
-    * this can be remotely done using aerial images 
-    * or physically based (preferred)
- -->
+Welcome!
+
+If you're here, this means you're taking All Maps Lie. 
+
+This week we are going to get acquainted with mapping and cartography *through the lens of design & media art and critical perspectives*. 
 
 
 ## TABLE OF CONTENTS
@@ -24,7 +31,6 @@
   - [EXERCISES TO DO BEFORE CLASS](#exercises-to-do-before-class)
   - [OUTCOMES & GOALS](#outcomes--goals)
   - [PACING / DURATION](#pacing--duration)
-  - [MATERIALS NEEDED](#materials-needed)
   - [TOPICS](#topics)
   - [REFERENCES](#references)
   - [STUDIO](#studio)
@@ -38,7 +44,7 @@
 
 * Overview of Course Logistics
 * Setting the stage:
-  * What is a map?
+  * What is a map? And Why it doesn't matter
   * Why do we map?
   * Who maps?
 * Course goals:
@@ -49,11 +55,12 @@
 
 ## PACING / DURATION
 
-TBA
+* :20m - course logistics
+* :50m - lecture & discussion
+* :10m - Break
+* :30m - studio
+* :10m - assignment overview
 
-## MATERIALS NEEDED
-
-N/A
 
 ## TOPICS
 
