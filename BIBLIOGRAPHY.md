@@ -26,6 +26,7 @@
   - [UNSORTED](#unsorted)
   - [General References](#general-references)
   - [Technical References](#technical-references)
+  - [My Geo Stack](#my-geo-stack)
   - [Readings from Shannon Mattern's Maps as Media Course](#readings-from-shannon-matterns-maps-as-media-course)
 
 
@@ -98,6 +99,7 @@
 * Optional:
   * [The Map and the Development of the History of Cartography, J.B. Harley](https://www.press.uchicago.edu/books/HOC/HOC_V1/HOC_VOLUME1_chapter1.pdf)
   * [The Lost Art of Critical Map Reading, J. Foster](http://www.graphicarto.com/the-lost-art-of-critical-map-reading/)
+  * [Views on Digital Maps and Open Data, H. Jo](https://medium.com/seoul-libre-maps/views-on-digital-maps-and-open-data-f225afc81412)
 
 ### WORKS CITED
 
@@ -164,6 +166,7 @@
 * [On Kawara, I got Up](https://www.metmuseum.org/art/collection/search/284464)
 * [Drone Shadows, J. Bridle](http://www.jamesbridle.com/works/drone-shadow-iwm)
 * [Urban Data Flaneur, H. Otten](http://www.heikeotten.de/portfolio/urban-data-flaneur/)
+* [Logged-in From, B. Ricks](https://beccaricks.space/Logged-in-from)
 
 ***
 ***
@@ -253,7 +256,7 @@ There's so much we didn't get to discuss in this class, but I hope the course wa
 ***
 ***
 
-## Technical References    
+## Technical References
 
 * Technical Tools and Resources & Tutorials:
   * Map Design:
@@ -274,6 +277,11 @@ There's so much we didn't get to discuss in this class, but I hope the course wa
       * [Mapbox - Tutorials](https://docs.mapbox.com/help/tutorials/)
     * [Mapbox Studio](https://www.mapbox.com/mapbox-studio/)
       * [Mapbox - Tutorials](https://docs.mapbox.com/help/tutorials/)
+    * [Kepler.gl](https://kepler.gl/)
+      * [Kepler.gl user guide](https://github.com/keplergl/kepler.gl/blob/master/docs/user-guides/j-get-started.md)
+      * [Animating 40 years of Earthquake data](https://medium.com/vis-gl/animating-40-years-of-california-earthquakes-e4ffcdd4a289)
+    * [DataWrapper](https://www.datawrapper.de/)
+      * [DataWrapper Academy](https://academy.datawrapper.de/)
     * [Carto](https://carto.com/)
       * [Carto Help](https://carto.com/help/)
     * [D3](https://d3js.org/) - **advanced**
@@ -286,6 +294,38 @@ There's so much we didn't get to discuss in this class, but I hope the course wa
     * [Cartoframes - Python x Carto](https://carto.com/cartoframes/)
   * Color:
     * [ColorBrewer 2](http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
+  * Other:
+    * [MapShaper](https://mapshaper.org/)
+    * [Awesome List: GIS](https://github.com/sshuair/awesome-gis)
+    * [Deck.GL](https://github.com/uber/deck.gl)
+      * [Vis Academy](http://vis.academy/#/)
+
+## My Geo Stack
+
+* My "Stack": Here's what I use most regularly
+  * The usual setup and recommendations:
+    * Web Mapping Interfaces:
+      * [Kepler.gl](https://kepler.gl/)
+    * Web Mapping Visualization Libraries
+      * [MapboxGL.js](https://docs.mapbox.com/mapbox-gl-js/overview/)
+      * [Leaflet.js](https://leafletjs.com/)
+      * [D3](https://d3js.org/)
+    * Web-based Geospatial Data Processing
+      * [Turf.js](https://turfjs.org/)
+  * If more complex data processing and analysis are necessary:
+    * Desktop GIS:
+      * [QGIS](https://www.qgis.org/en/site/)
+    * Commandline tools:
+      * [GDAL - Geospatial Data Abstraction Library](https://gdal.org/)
+      * [Tippecanoe - Generate Vector Tiles from GeoJSON](https://github.com/mapbox/tippecanoe)
+    * Spatial Analysis:
+      * [Turf.js in Node](https://turfjs.org/)
+      * GeoPandas or CartoFrames for Python or R for spatial statistics
+      * Excel or google spreadsheets (believe it or not!)
+    * Raster and Vector Tile Server:
+      * [Tilehut.js](https://github.com/b-g/tilehut)
+    * Sketch App for Mac:
+      * For working with PDFs and SVGs for refining maps
 
 
 

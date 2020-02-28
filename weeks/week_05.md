@@ -18,8 +18,16 @@
 
 ## TABLE OF CONTENTS
 
-
-## EXERCISES TO DO BEFORE CLASS
+- [Week 5: Figure-Ground](#week-5-figure-ground)
+  - [SLIDES](#slides)
+  - [ABOUT](#about)
+  - [TABLE OF CONTENTS](#table-of-contents)
+  - [OUTCOMES & GOALS](#outcomes--goals)
+  - [PACING / DURATION](#pacing--duration)
+  - [TOPICS](#topics)
+  - [REFERENCES](#references)
+  - [STUDIO](#studio)
+  - [ASSIGNMENT](#assignment)
 
 
 ## OUTCOMES & GOALS
@@ -27,9 +35,10 @@
 
 ## PACING / DURATION
 
-
-
-## MATERIALS NEEDED
+* :60m - lecture & discussion
+* :10m - break
+* :70m - intro to Google Streetview API & Mapbox Static API
+* :10m - assignment overview
 
 
 ## TOPICS

@@ -13,17 +13,16 @@
 ## TABLE OF CONTENTS
 
 
-## EXERCISES TO DO BEFORE CLASS
-
 
 ## OUTCOMES & GOALS
 
 
 ## PACING / DURATION
 
-
-
-## MATERIALS NEEDED
+* :60m - lecture & discussion
+* :10m - break
+* :70m - documentation studio
+* :10m - assignment overview
 
 
 ## TOPICS

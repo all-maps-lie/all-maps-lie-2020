@@ -24,12 +24,11 @@
 
 ## ABOUT
 
-Welcome!
-
-If you're here, this means you're taking All Maps Lie. Let's learn together.
+Welcome! If you're here, this means you're taking All Maps Lie. Let's learn together.
 
 This week we are going to get acquainted with mapping and cartography *through the lens of design & media art and critical perspectives*. We are going to challenge our conceptions and definitions of what a map is, what they can be, who is mapping, what maps say, and what maps do. This week our goal is to "[align our compass](http://www.wordsinspace.net/mapsmedia/fall2018/portfolio/august-29-calibrating-the-compass/)" and begin aligning our media art practices with critical cartographic discourse.
 
+This week we will focus on "paying attention" through environmental observations and data collection.
 
 ## TABLE OF CONTENTS
 

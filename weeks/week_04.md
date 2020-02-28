@@ -34,8 +34,16 @@ https://rhizome.org/editorial/2014/mar/26/locative-media-revisited/
 
 ## TABLE OF CONTENTS
 
-
-## EXERCISES TO DO BEFORE CLASS
+- [Week 4: Locative Media](#week-4-locative-media)
+  - [SLIDES](#slides)
+  - [ABOUT](#about)
+  - [TABLE OF CONTENTS](#table-of-contents)
+  - [OUTCOMES & GOALS](#outcomes--goals)
+  - [PACING / DURATION](#pacing--duration)
+  - [TOPICS](#topics)
+  - [REFERENCES](#references)
+  - [STUDIO](#studio)
+  - [ASSIGNMENT](#assignment)
 
 
 ## OUTCOMES & GOALS
@@ -43,9 +51,10 @@ https://rhizome.org/editorial/2014/mar/26/locative-media-revisited/
 
 ## PACING / DURATION
 
-
-
-## MATERIALS NEEDED
+* :60m - lecture & discussion
+* :10m - break
+* :70m - intro to Compass.js
+* :10m - assignment overview
 
 
 ## TOPICS

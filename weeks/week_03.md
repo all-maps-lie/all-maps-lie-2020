@@ -11,19 +11,22 @@
 
 ## ABOUT
 
-<!-- 
-* New Spatial Media:
-  * map mashups, false correlations? 
-  * open source 
-  * visualization: turf binning - grids, isolines
-  * https://turfjs.org/docs/#tesselate
- -->
+This week our theme is "Maps as Media." We build off of our discussions from last week to dive deeper into ways that space is "calculated," how that manifests in shaping the world, and what that means for us as those who are simultaneously mapping and being mapped.
 
+This week we will focus on spatial abstraction and how we can use and abuse different geospatial tools and APIs to explore spatial data. Using the data we have been collecting and our exposure to web mapping from last week, we will take a look at various methods for calculating space.
 
 ## TABLE OF CONTENTS
 
-
-## EXERCISES TO DO BEFORE CLASS
+- [Week 3: Maps as Media](#week-3-maps-as-media)
+  - [SLIDES](#slides)
+  - [ABOUT](#about)
+  - [TABLE OF CONTENTS](#table-of-contents)
+  - [OUTCOMES & GOALS](#outcomes--goals)
+  - [PACING / DURATION](#pacing--duration)
+  - [TOPICS](#topics)
+  - [REFERENCES](#references)
+  - [STUDIO](#studio)
+  - [ASSIGNMENT](#assignment)
 
 
 ## OUTCOMES & GOALS
@@ -31,9 +34,10 @@
 
 ## PACING / DURATION
 
-
-
-## MATERIALS NEEDED
+* :60m - lecture & discussion
+* :10m - break
+* :70m - intro to turf.js
+* :10m - assignment overview
 
 
 ## TOPICS
@@ -50,3 +54,12 @@
 ## ASSIGNMENT
 
 * ↳ [Link to Assignment](../assignments/assignment_03.md).
+
+
+<!-- 
+* New Spatial Media:
+  * map mashups, false correlations? 
+  * open source 
+  * visualization: turf binning - grids, isolines
+  * https://turfjs.org/docs/#tesselate
+ -->
