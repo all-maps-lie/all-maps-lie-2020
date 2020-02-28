@@ -1,4 +1,4 @@
-# Week 6:
+# Week 6: Experimental Geography
 
 ## SLIDES
 * ↳ [Link to Slides]()
@@ -25,9 +25,13 @@
 ## TOPICS
 
 
+## REFERENCES
+
+* See [Week 6 Readings and Project References](../BIBLIOGRAPHY.md#week-06-experimental-geography).
+
 ## STUDIO
 
-* ↳ [Link to Studio]()
+* ↳ [Link to Studio](#)
 
 ## ASSIGNMENT
 

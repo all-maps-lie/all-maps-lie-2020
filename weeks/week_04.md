@@ -48,10 +48,13 @@ https://rhizome.org/editorial/2014/mar/26/locative-media-revisited/
 
 ## TOPICS
 
+## REFERENCES
+
+* See [Week 4 Readings and Project References](../BIBLIOGRAPHY.md#week-04-locative-media).
 
 ## STUDIO
 
-* ↳ [Link to Studio]()
+* ↳ [Link to Studio](#)
 
 ## ASSIGNMENT
 

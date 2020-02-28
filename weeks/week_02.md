@@ -39,8 +39,21 @@
 ## TOPICS
 
 
+## REFERENCES
+
+* See [Week 2 Readings and Project References](../BIBLIOGRAPHY.md#week-02-countermaps--cartographics).
+
+***
+***
+***
+
 ## STUDIO
 
+* ↳ [Link to Studio](#).
+
+***
+***
+***
 
 ## ASSIGNMENT
 

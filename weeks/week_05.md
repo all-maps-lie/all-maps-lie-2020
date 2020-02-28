@@ -34,10 +34,13 @@
 
 ## TOPICS
 
+## REFERENCES
+
+* See [Week 5 Readings and Project References](../BIBLIOGRAPHY.md#week-05-figure-ground).
 
 ## STUDIO
 
-* ↳ [Link to Studio]()
+* ↳ [Link to Studio](#)
 
 ## ASSIGNMENT
 

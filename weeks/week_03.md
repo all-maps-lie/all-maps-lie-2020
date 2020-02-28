@@ -33,9 +33,13 @@
 ## TOPICS
 
 
+## REFERENCES
+
+* See [Week 3 Readings and Project References](../BIBLIOGRAPHY.md#week-03-maps-as-media).
+
 ## STUDIO
 
-* ↳ [Link to Studio]()
+* ↳ [Link to Studio](#)
 
 ## ASSIGNMENT
 

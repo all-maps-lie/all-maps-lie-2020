@@ -1,1 +1,1 @@
-# Week 7: Final Presentations
+# Week 7: Final Class
