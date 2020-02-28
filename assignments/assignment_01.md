@@ -1,12 +1,5 @@
 # A1: Paying Attention
 
-<!-- 
-*   * A1: Paying Attention - assignment is about paying attention: defining a phenomenon to map and observe, learn about, investigate, and report on.
-    * this can be remotely done using aerial images 
-    * or physically based (preferred)
-* collect data about 1 thing - use your camera phone to collect spatial imagery, organize, annotate, tag, and reflect on what you're seeing. ==> studio time for collecting coordinates. 
-* -->
-
 ## Brief:
 
 This week your assignment is to begin observing the environment using your location-enabled cameraphone. Your task will be to **define ONE subject/phenomenon of interest** and catalog it with photographs, the accompanying geo-metadata that is created with that image, and any additional observational annotations. This practice will continue throughout the duration of the course; the data you collect will be central to grounding the theoretical and practical aspects of this course. 
@@ -57,6 +50,14 @@ Create a project folder and set it up such that you can keep your data and obser
 Additional Methodological considerations:
 * [Googleform guide](../guids/../guides/google-form-guide.md)
 
+### Part 4: Create a spatial dataset of your points
+
+Create a spatial dataset from your images. 
+
+* **Automated** process: Ideally you can automate this process by using [img2meta](https://github.com/joeyklee/img2meta) to create a `.geojson` dataset from a folder of images (use the `true` flag). With the `img_metadata.geojson` you can drag-and-drop it into [geojson.io](http://geojson.io/), a web service that allows you to easily view and make geospatial data.
+* **Manual** process: Otherwise, there are analog methods for retrieving the metadata from your images as seen in [How to See an Image’s EXIF Data in Windows and macOS, How-To Geek](https://www.howtogeek.com/289712/how-to-see-an-images-exif-data-in-windows-and-macos/) in which you can create a `.csv` file or spreadsheet where you can manually create your data. Notes on structuring your spreadsheet data as a CSV and converting it to geojson can be found in the [CSV to GeoJSON Guide](../guides/csv-to-geojson-guide.md).
+
+
 ## Submission
 
 ↳ 💌 [Google Form Assignment Submission](https://forms.gle/1tAfHZXEejZDubHg9)
@@ -64,3 +65,10 @@ Additional Methodological considerations:
 <!-- 
 * Paying Attention: collect data about 1 thing - use your camera phone to collect spatial imagery, organize, annotate, tag, and reflect on what you're seeing. ==> studio time for collecting coordinates.
  -->
+
+<!-- 
+*   * A1: Paying Attention - assignment is about paying attention: defining a phenomenon to map and observe, learn about, investigate, and report on.
+    * this can be remotely done using aerial images 
+    * or physically based (preferred)
+* collect data about 1 thing - use your camera phone to collect spatial imagery, organize, annotate, tag, and reflect on what you're seeing. ==> studio time for collecting coordinates. 
+* -->

@@ -37,6 +37,7 @@ To get even more detailed and sophisticated:
 
 ### Helpful Tools
 
+* [How to See an Image’s EXIF Data in Windows and macOS, How-To Geek](https://www.howtogeek.com/289712/how-to-see-an-images-exif-data-in-windows-and-macos/)
 * [img2meta by @JoeyKlee](https://github.com/joeyklee/img2meta)
   * Commandline tool to get the image metadata from your images (tested on iphone 5 and 7)
 * [MacOS Photos App](https://www.apple.com/macos/photos/)
