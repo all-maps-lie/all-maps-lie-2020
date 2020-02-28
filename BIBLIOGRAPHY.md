@@ -27,6 +27,7 @@
   - [General References](#general-references)
   - [Technical References](#technical-references)
   - [My Geo Stack](#my-geo-stack)
+  - [Data](#data)
   - [Readings from Shannon Mattern's Maps as Media Course](#readings-from-shannon-matterns-maps-as-media-course)
 
 
@@ -44,7 +45,7 @@
     * [Data Walking, D. Hunter](http://datawalking.com/)
     * [Data Walking for Social Research, A. Powell](http://www.datawalking.org/)
 * Optional: 
-    * [Jenny Odell, How to do Nothing, EYEO 2017](https://vimeo.com/232544904)
+    * [Jenny Odell, How to do Nothing, EYEO 2017](https://vimeo.com/232544904) or the blog post version [How to Do Nothing, J. Odell](https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb)
     * [PathoMap, Mason et. al](http://www.pathomap.org/)
 
 ### WORKS CITED
@@ -337,6 +338,10 @@ There's so much we didn't get to discuss in this class, but I hope the course wa
       * For working with PDFs and SVGs for refining maps
 
 
+## Data
+
+* [BuzzFeedNews/everything](https://github.com/BuzzFeedNews/everything)
+* [Carto - Data Observatory](https://carto.com/developers/data-observatory/)
 
 *** 
 <!-- 

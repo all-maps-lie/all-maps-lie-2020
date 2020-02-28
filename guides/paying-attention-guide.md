@@ -69,6 +69,8 @@ Data collection is a habit and takes practice. You can think about ways to help 
 * [Field Papers Guide](./fieldpapers-guide.md) // paper mapping
 * [Analog Data Collection - Pen & Paper](./analog-data-collection-guide.md)
 * [Google Form Guide](./google-form-guide.md)
+* [iNaturalist](https://www.inaturalist.org/)
+
 
 ***
 ***
@@ -80,3 +82,4 @@ Data collection is a habit and takes practice. You can think about ways to help 
 * [Rob Walker's How To Pay Attention: 20 Ways To Win The War Against Seeing](https://medium.com/re-form/how-to-pay-attention-4751adb53cb6)
 * [Data Walking, D. Hunter](http://datawalking.com/)
 * [Data Walking for Social Research, A. Powell](http://www.datawalking.org/)
+* [How to Do Nothing, J. Odell](https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb)
