@@ -135,6 +135,7 @@
 * [All Roads Lead to X, J. Bridle](http://www.jamesbridle.com/works/all-roads-lead-to-x)
 * [Shifted Maps, Otten & Hildebrandt](http://www.heikeotten.de/portfolio/shiftedmaps/)
 * [St. Louis Map Room, J. Thorp](https://www.jerthorp.com/stlmaproom)
+* [Landscapes of Inequality, H. Scherabon](https://www.fastcompany.com/3066731/to-tackle-big-urban-issues-this-architect-became-a-data-designer)
 
 ***
 ***
@@ -202,6 +203,9 @@
 * [Big Atlas of LA Pools, Gross & Lee](https://benedikt-gross.de/projects/the-big-atlas-of-la-pools)
   * [Big Atlas of LA Pools in the LA Times](https://www.latimes.com/local/la-me-c1-swimming-pools-20131202-dto-htmlstory.html)
 * [Geography of Hidden Faces, J. Lee](https://geo.hidden-faces.net/)
+* [Landfall, M. Kahenner](https://mishkahenner.com/Landfall)
+* [Feedlots, M. Kahenner](https://mishkahenner.com/Feedlots)
+* [Dutch Landscapes, M. Kahenner](https://mishkahenner.com/Dutch-Landscapes)
 
 ***
 ***
