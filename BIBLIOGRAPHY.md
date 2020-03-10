@@ -37,6 +37,8 @@
 ### READINGS
 
 * Required:
+  * Setting the stage:
+    * [Gaps in the Map: The Topologies of Cartography, S. Mattern, 2015](http://wordsinspace.net/shannon/2015/09/18/gaps-in-the-map-why-were-mapping-everything-and-why-not-everything-can-or-should-be-mapped/)
   * Introduction to critical mapping: 
     * [Chapter 1: Maps — A perverse sense of the unseemly, Mapping: A Critical Introduction to Cartography and Mapping, pg. 1 - 12](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=4433111&ppg=15)
     * [Chapter 2: What is Critique?, Mapping: A Critical Introduction to Cartography and Mapping, J. Crampton (2010), pg. 13 - 24](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=4433111&ppg=27)
@@ -46,7 +48,6 @@
     * [Data Walking for Social Research, A. Powell](http://www.datawalking.org/)
 * Optional: 
     * [Jenny Odell, How to do Nothing, EYEO 2017](https://vimeo.com/232544904) or the blog post version [How to Do Nothing, J. Odell](https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb)
-    * [PathoMap, Mason et. al](http://www.pathomap.org/)
 
 ### WORKS CITED
 
@@ -62,6 +63,7 @@
   * [Maptic (2006), Emilios Farrington-Arnas](https://emilios.co.uk/portfolio-maptic.html)
   * [BeeLine - smart navigation](https://beeline.co/), [BeeLine Kickstarter](https://www.kickstarter.com/projects/ridebeeline/beeline-smart-navigation-for-bicycles-made-simple)
   * [Marshall Island Stick Maps (first described to western audience in 1800s)](https://en.wikipedia.org/wiki/Marshall_Islands_stick_chart)
+  * [PathoMap, Mason et. al](http://www.pathomap.org/)
 * Alternative Views of mapping:
   * [Everything Sings (2010), Wood](http://sigliopress.com/book/everything-sings/)
   * [Deprocess (2006), Fry](https://www.benfry.com/deprocess/)
@@ -299,10 +301,12 @@ There's so much we didn't get to discuss in this class, but I hope the course wa
       * [Animating 40 years of Earthquake data](https://medium.com/vis-gl/animating-40-years-of-california-earthquakes-e4ffcdd4a289)
     * [DataWrapper](https://www.datawrapper.de/)
       * [DataWrapper Academy](https://academy.datawrapper.de/)
-    * [Carto](https://carto.com/)
+    * [Carto](https://carto.com/) // // powerful for bigger datasets that you want a server to handle your geo operations on with also fast rendering. 
       * [Carto Help](https://carto.com/help/)
     * [D3](https://d3js.org/) - **advanced**
       * [Mapping With D3.js](https://mappingwithd3.com/getting-started/)
+    * [Tangram](https://github.com/tangrams/tangram)
+    * [Mapshaper](https://mapshaper.org/) // handy tool for exploring geodata and working on geospatial operations like simplification and other geospatial manipulation.
   * Desktop GIS
     * [GDAL - Geospatial Data Abstraction Library]()
     * [QGIS](https://www.qgis.org/en/site/)
@@ -323,14 +327,19 @@ There's so much we didn't get to discuss in this class, but I hope the course wa
 * My "Stack": Here's what I use most regularly
   * The usual setup and recommendations:
     * Web Mapping Interfaces:
-      * [Kepler.gl](https://kepler.gl/)
+      * [Kepler.gl](https://kepler.gl/) // snappy interface running on mapboxgl with really nice exporting functions 
     * Web Mapping Visualization Libraries
-      * [MapboxGL.js](https://docs.mapbox.com/mapbox-gl-js/overview/)
-      * [Leaflet.js](https://leafletjs.com/)
+      * [MapboxGL.js](https://docs.mapbox.com/mapbox-gl-js/overview/) // super powerful and snappy, but the GL aspect of it all can sometimes feel tricky.
+      * [Leaflet.js](https://leafletjs.com/) // my preference is leaflet.js over mapboxgl mostly because I think the documentation is more approachable and a bit easier to bend to your will
       * [D3](https://d3js.org/)
     * Web-based Geospatial Data Processing
-      * [Turf.js](https://turfjs.org/)
-  * If more complex data processing and analysis are necessary:
+      * [Turf.js](https://turfjs.org/) // Turfjs for running on the server or browser. 
+  * Maps these days rarely live by themselves:
+    * [ChartJS](https://www.chartjs.org/) // friendly canvas based rendering
+    * [Plotly - JavaScript](https://plot.ly/javascript/) // svg based rendering
+  * If more complex data processing, visualization, and analysis are necessary:
+    * Web Mapping:
+      * [D3.js](https://github.com/d3/d3-geo-projection/) // probably can't beat d3's projection library
     * Desktop GIS:
       * [QGIS](https://www.qgis.org/en/site/)
     * Commandline tools:
@@ -339,19 +348,53 @@ There's so much we didn't get to discuss in this class, but I hope the course wa
     * Spatial Analysis:
       * [Turf.js in Node](https://turfjs.org/)
       * GeoPandas or CartoFrames for Python or R for spatial statistics
-      * Excel or google spreadsheets (believe it or not!)
+      * Excel or google spreadsheets (believe it or not!) - [Spreadsheets tutorial by the NYT](https://open.nytimes.com/how-we-helped-our-reporters-learn-to-love-spreadsheets-adc43a93b919)
+      * R + ggplot2 // R for stats and ggplot2 are kind of unbeatable IMHO when it comes to having a swiss army knife for data analysis and visualization. 
+      * Python + Pandas + ggplot2 // Python and Pandas for data analysis and ggplot2 for python also are fine/ok. 
+      * Cartoframes: https://carto.com/developers/cartoframes/ // also a neat blend between python and Carto, the mapping framework.
     * Raster and Vector Tile Server:
-      * [Tilehut.js](https://github.com/b-g/tilehut)
+      * [Tilehut.js](https://github.com/b-g/tilehut) // if you need to serve up and host your own raster and vector tiles. Pairs will with [Tippecanoe](https://github.com/mapbox/tippecanoe).
     * Sketch App for Mac:
       * For working with PDFs and SVGs for refining maps
+  * Other Helpful tools:
+    * These are some of charting frameworks I think tend to be pretty great for data exploration and visualization.
+      * [RawGraphs](https://rawgraphs.io/) // nice user interface for exploring data and making visualizations quickly.
+      * [Data Wrapper](https://www.datawrapper.de/) // also a nice interface for exploring data and making visualizations quickly. 
 
 
 ## Data
 
 * [BuzzFeedNews/everything](https://github.com/BuzzFeedNews/everything)
 * [Carto - Data Observatory](https://carto.com/developers/data-observatory/)
+* [Propublica Datastore](https://www.propublica.org/datastore)
+* [Jeremy Singer-Vine’s, Data is Plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit) | [Join the newsletter](https://tinyletter.com/data-is-plural)
+* [Awesome Lists, public data](https://github.com/awesomedata/awesome-public-datasets)
+* [Google Earth Engine](https://developers.google.com/earth-engine/datasets) // Google Earth Engine is prob the most accessible way of getting satellite and aerial imagery data
+* [OpenStreetMap - Overpass Turbo](https://overpass-turbo.eu/) // OSM overpass turbo API for getting data back from OSM
+
 
 *** 
+***
+***
+
+Charting libraries
+
+
+Charting Frameworks/Interfaces:
+
+For Data Analysis & Visualization:
+
+
+
+And lastly, I honestly think Excel and Google Sheets are super powerful. Many times these would be my first go-to recommendation. 
+
+As for data:
+
+
+
+***
+***
+***
 <!-- 
 ## Readings from Shannon Mattern's Maps as Media Course 
 - Week 1: Calibrating the Compass
