@@ -1,10 +1,6 @@
 # OpenStreetMap Overpass API
 
-* [Overpass Turbo](https://overpass-turbo.eu/) - tool for querying and retrieving data from the Overpass API.
-
-
-
-
+This is a guide about [Overpass Turbo](https://overpass-turbo.eu/) - a tool and API for querying and retrieving data from the OpenStreetMap.
 
 ## Vocabulary
 
