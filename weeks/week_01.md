@@ -16,7 +16,7 @@
 
 > “A map does not just chart, it unlocks and formulates meaning; it forms bridges between here and there, between disparate ideas that we did not know were previously connected.” ― Reif Larsen, The Selected Works of T.S. Spivet 
 > 
-> “If the theoretical critique cleared conceptual space for alternative mappings it has fallen to a variety of practices, most of them outside of the academy… 2 developments are especially notable: artistic appropriations of mapping and the storming success of map hacking, mashups, and the geospatial web” - Cramton (2010)
+> “If the theoretical critique cleared conceptual space for alternative mappings it has fallen to a variety of practices, most of them outside of the academy… 2 developments are especially notable: artistic appropriations of mapping and the storming success of map hacking, mashups, and the geospatial web” - Crampton (2010)
 
 ## SLIDES
 * ↳ [Link to Week 1 Slides]()
@@ -24,7 +24,7 @@
 
 ## ABOUT
 
-Welcome! If you're here, this means you're taking All Maps Lie. Let's learn together.
+Welcome! If you're here, this means you're taking All Maps Lie. Thanks for being here.
 
 This week we are going to get acquainted with mapping and cartography *through the lens of design & media art and critical perspectives*. We are going to challenge our conceptions and definitions of what a map is, what they can be, who is mapping, what maps say, and what maps do. This week our goal is to "[align our compass](http://www.wordsinspace.net/mapsmedia/fall2018/portfolio/august-29-calibrating-the-compass/)" and begin aligning our media art practices with critical cartographic discourse.
 
@@ -40,9 +40,12 @@ This week we will focus on "paying attention" through environmental observations
   - [OUTCOMES & GOALS](#outcomes--goals)
   - [PACING / DURATION](#pacing--duration)
   - [TOPICS](#topics)
-    - [A](#a)
-    - [B](#b)
-    - [C](#c)
+    - [Logistics](#logistics)
+      - [Syllabus Review](#syllabus-review)
+      - [Defining Student Blocks and Groups](#defining-student-blocks-and-groups)
+      - [Final Project](#final-project)
+    - [Introduction to the course and Critical Cartography and Mapping](#introduction-to-the-course-and-critical-cartography-and-mapping)
+    - [How to Pay Attention](#how-to-pay-attention)
   - [REFERENCES](#references)
   - [STUDIO](#studio)
   - [ASSIGNMENT](#assignment)
@@ -69,11 +72,50 @@ This week we will focus on "paying attention" through environmental observations
 
 ## TOPICS
 
-### A 
+### Logistics 
 
-### B
+#### Syllabus Review
 
-### C
+#### Defining Student Blocks and Groups
+* Block 1
+  * Group A: Cruelty Jam
+    * First Last
+    * First Last
+    * First Last
+    * First Last
+  * Group B: Tsunami Sundae
+    * First Last
+    * First Last
+    * First Last
+    * First Last
+* Block 2
+  * Group C: Fist of the Raisin
+    * First Last
+    * First Last
+    * First Last
+    * First Last
+  * Group D: Rage Pancake
+    * First Last
+    * First Last
+    * First Last
+    * First Last
+
+#### Final Project
+
+Your final project for this course starts today. Everything that you do will be in service of a final, cohesive work that speaks to the final project briefing. Each of the assignments will be a part of your final project and therefore it is crucial to keep in mind what we are building towards. 
+
+The [final project briefing can be found here](../assignments/final.md).
+
+
+### Introduction to the course and Critical Cartography and Mapping
+
+TBD
+
+### How to Pay Attention
+
+TBD
+
+
 
 ## REFERENCES
 
