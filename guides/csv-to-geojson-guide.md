@@ -31,7 +31,14 @@ to a geojson that looks like this: **my-data.geojson**
 
 ## Prep your data
 
+* **header row**: you'll want to make sure that your data has a header row, e.g. the column names. The best practice for column names are:
+  * no spaces - use underscores (`_`) or camel case
+  * no weird characters - just numbers and letters
+  * for spatial CSV, you'll want to have a columns called **latitude** and **longitude** with the relevant values as floating point numbers.
+* **Make sure your data is formatted properly**: If you're using or creating CSV data, quite likely you're using some kind of spreadsheet program like Google Sheets, Numbers, Excel, or Open Office. If not, you're probably then getting outputs from some program or just using your text editor. Regardless, you'll probably want some way to make sure your CSV data is structured properly. You can run your data through a linter that will check to see if your data are properly formatted: 
+  * [CSV Lint](https://csvlint.io/)
 
+Once your data is ready to go, it's time to convert it!
 
 
 ## Convert your data!

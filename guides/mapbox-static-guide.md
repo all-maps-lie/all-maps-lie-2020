@@ -1,0 +1,3 @@
+# Mapbox Static Guide
+
+TBD
