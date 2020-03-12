@@ -43,7 +43,7 @@ This week we will focus on "paying attention" through environmental observations
     - [Logistics](#logistics)
       - [Syllabus Review](#syllabus-review)
       - [Defining Student Blocks and Groups](#defining-student-blocks-and-groups)
-      - [Final Project](#final-project)
+      - [Final Project Brief](#final-project-brief)
     - [Introduction to the course and Critical Cartography and Mapping](#introduction-to-the-course-and-critical-cartography-and-mapping)
     - [How to Pay Attention](#how-to-pay-attention)
   - [REFERENCES](#references)
@@ -103,7 +103,7 @@ You may choose to work in groups IF you'd like (no more than 2 per group), howev
     * First Last
     * First Last
 
-#### Final Project
+#### Final Project Brief
 
 Your final project for this course starts today. Everything that you do will be in service of a final, cohesive work that speaks to the final project briefing. Each of the assignments will be a part of your final project and therefore it is crucial to keep in mind what we are building towards. 
 

@@ -82,14 +82,17 @@ References: [Jer Thorp's Land Notice](https://github.com/blprnt/DataPublics#land
 
 ## Assignments
 
+The course is structured around **one project** described in detail here in the [Final Project Brief](assignments/final-project.md). Each of the assignments will be part of this larger project briefing. 
+
 | ASSIGNMENT  |  DUE DATE  | TITLE | NOTES |
 | :----         |  ----  | ---- | ---- |
+| [Final Project Brief](assignments/final-project.md) | MAR 30 - MAY 11 | Mapping Urban Media | Course Project Briefing |
 | [A1](assignments/assignment_01.md) |  APR 06   | Paying Attention | Begin Data Collection |
 | [A2](assignments/assignment_02.md) |  APR 13   | Map Mashups  | Intro to Web Maps |
 | [A3](assignments/assignment_03.md) |  APR 20   | Spatial Abstraction | (Ab)using Geospatial APIs   |
 | [A4](assignments/assignment_04.md) |  APR 27   | Locative Media | Put Yourself on the Map |
 | [A5](assignments/assignment_05.md) |  MAY 04   | Spatial Gaze | Looking up and looking down |
-| [FINAL](assignments/final.md) | MAY 11  | Final Project  | Synthesis & Documentation for Zine  |
+| [FINAL](assignments/assignment_06.md) | MAY 11  | Documentation  | Synthesis & Documentation for Zine  |
 
 
 All assignments will be submitted here:
