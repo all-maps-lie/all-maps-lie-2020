@@ -14,13 +14,17 @@ On a simple level, you can think of your camera phone as:
 
 To get a bit more detailed, you can start defining rules like:
 1. All photos are taken in landscape mode (vs. portrait mode).
-2. All subjects in the photo are centered directly in the middle.
+2. All subjects in the photo are centered directly in the middle of the frame.
 3. All photos will be in color (as opposed to black and white).
 4. Photos can be taken in nighttime and daytime.
+5. The GPS location data must always be available in the metadata of the image.
 
    
 And to get even more detailed still, you can add to your list of rules:
-1. TBD
+1. The subject will be at least 6ft (~2m) away from the camera. 
+2. The camera must always be level with ground and not angled more than X degrees upwards or downwards.
+3. The focal length of the camera must always be set at Xmm. 
+4. ... ( and you can continue defining the details)
 
 ### DATA PROCESSING
 

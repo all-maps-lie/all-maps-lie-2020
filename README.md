@@ -77,7 +77,7 @@ References: [Jer Thorp's Land Notice](https://github.com/blprnt/DataPublics#land
 | [WEEK 04](../all-maps-lie-2020/weeks/week_04.md) | APR 20 | Locative Media  | What are opportunities for rethinking geographic interaction & experiences? | 
 | [WEEK 05](../all-maps-lie-2020/weeks/week_05.md) | APR 27 | Figure-Ground | How do we see geography from afar? | 
 | [WEEK 06](../all-maps-lie-2020/weeks/week_06.md) | MAY 04 | Experimental Geography  | How do we situate our spatial media practice? | 
-| [WEEK 07](../all-maps-lie-2020/weeks/week_07.md)| MAY 11 | Final Class |  How do you map?   |
+| [WEEK 07](../all-maps-lie-2020/weeks/week_07.md) | MAY 11 | Final Class |  How do you map?   |
 
 
 ## Assignments
@@ -92,7 +92,7 @@ The course is structured around **one project** described in detail here in the 
 | [A3](assignments/assignment_03.md) |  APR 20   | Spatial Abstraction | (Ab)using Geospatial APIs   |
 | [A4](assignments/assignment_04.md) |  APR 27   | Locative Media | Put Yourself on the Map |
 | [A5](assignments/assignment_05.md) |  MAY 04   | Spatial Gaze | Looking up and looking down |
-| [FINAL](assignments/assignment_06.md) | MAY 11  | Documentation  | Synthesis & Documentation for Zine  |
+| [A6](assignments/assignment_06.md) | MAY 11  | Documentation  | Synthesis & Documentation for Zine  |
 
 
 All assignments will be submitted here:
