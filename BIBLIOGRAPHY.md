@@ -48,6 +48,7 @@
     * [Data Walking for Social Research, A. Powell](http://www.datawalking.org/)
 * Optional: 
     * [Jenny Odell, How to do Nothing, EYEO 2017](https://vimeo.com/232544904) or the blog post version [How to Do Nothing, J. Odell](https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb)
+    * [Deep Mapping the Media City, Mattern](https://www.upress.umn.edu/book-division/books/deep-mapping-the-media-city)
 
 ### WORKS CITED
 

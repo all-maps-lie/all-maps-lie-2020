@@ -77,6 +77,9 @@ This week we will focus on "paying attention" through environmental observations
 #### Syllabus Review
 
 #### Defining Student Blocks and Groups
+
+You may choose to work in groups IF you'd like (no more than 2 per group), however, these blocks and groups are more for scheduling meeting times on a bi-weekly basis. 
+
 * Block 1
   * Group A: Cruelty Jam
     * First Last
@@ -103,6 +106,8 @@ This week we will focus on "paying attention" through environmental observations
 #### Final Project
 
 Your final project for this course starts today. Everything that you do will be in service of a final, cohesive work that speaks to the final project briefing. Each of the assignments will be a part of your final project and therefore it is crucial to keep in mind what we are building towards. 
+
+* ↳ [Final Project Brief](../assignments/final-project.md)
 
 The [final project briefing can be found here](../assignments/final.md).
 
