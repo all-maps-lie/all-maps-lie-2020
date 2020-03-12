@@ -26,7 +26,7 @@ The course will be conducted with open source tools and technologies. Students a
 | Instructor Github | [@joeyklee](https://github.com/joeyklee) | 
 | Class Day | Monday   | 
 | Class Time      | 6:30 - 9:00 | 
-| Class Room      | Room **411**, 370 Jay Street, Brooklyn         | 
+| Class Room      | <s>Room **411**, 370 Jay Street, Brooklyn </s> Will meet remote via Zoom | 
 | Class Dates     | Mar 30 - May 11 | 
 
 
@@ -37,7 +37,7 @@ Office hours are by appointment. Please see the office hour offerings. You are a
 | Info | Details | 
 | :---  | ---   | 
 | Office Hours    | [4-5pm, TUE & THUR By Appointment](https://calendar.google.com/calendar/selfsched?sstoken=UU9QS0R3c3cybXB4fGRlZmF1bHR8OWY1YWExODk4YTc3YTNkMjM5MDg4ZTIxMmE3OTY5MjM) |
-| Location | ITP FLOOR or ITP RESIDENT'S OFFICE |
+| Location | <s>ITP FLOOR or ITP RESIDENT'S OFFICE </s> via Zoom or Google Hangouts |
 
 * NOTE: If you can't make those times, please send me an email and we can chat at another time or via video conference.
 
@@ -71,13 +71,13 @@ References: [Jer Thorp's Land Notice](https://github.com/blprnt/DataPublics#land
 
 | GO TO  |  DATE  | THEME | NOTES |
 | :----         |  ----  | ---- | ---- |
-| WEEK 01 | MAR 30 | Everything is Spatial  |  What is a map? what can a map be? |
-| WEEK 02 | APR 06 | Countermaps & Cartographics | What is on a map? What power do maps wield? |
-| WEEK 03 | APR 13 | Maps as Media  | What are opportunities for rethinking spatial representation? How do we think out space? | 
-| WEEK 04 | APR 20 | Locative Media  | What are opportunities for rethinking geographic interaction & experiences? | 
-| WEEK 05 | APR 27 | Figure-Ground | How do we see geography from afar? | 
-| WEEK 06 | MAY 04 | Experimental Geography  | How do we situate our spatial media practice? | 
-| WEEK 07 | MAY 11 | Final Class |  How do you map?   |
+| [WEEK 01](../all-maps-lie-2020/weeks/week_01.md) | MAR 30 | Everything is Spatial  |  What is a map? what can a map be? |
+| [WEEK 02](../all-maps-lie-2020/weeks/week_02.md) | APR 06 | Countermaps & Cartographics | What is on a map? What power do maps wield? |
+| [WEEK 03](../all-maps-lie-2020/weeks/week_03.md) | APR 13 | Maps as Media  | What are opportunities for rethinking spatial representation? How do we think out space? | 
+| [WEEK 04](../all-maps-lie-2020/weeks/week_04.md) | APR 20 | Locative Media  | What are opportunities for rethinking geographic interaction & experiences? | 
+| [WEEK 05](../all-maps-lie-2020/weeks/week_05.md) | APR 27 | Figure-Ground | How do we see geography from afar? | 
+| [WEEK 06](../all-maps-lie-2020/weeks/week_06.md) | MAY 04 | Experimental Geography  | How do we situate our spatial media practice? | 
+| [WEEK 07](../all-maps-lie-2020/weeks/week_07.md)| MAY 11 | Final Class |  How do you map?   |
 
 
 ## Assignments
