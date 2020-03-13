@@ -45,3 +45,4 @@ To get even more detailed and sophisticated:
 * [img2meta by @JoeyKlee](https://github.com/joeyklee/img2meta)
   * Commandline tool to get the image metadata from your images (tested on iphone 5 and 7)
 * [MacOS Photos App](https://www.apple.com/macos/photos/)
+* [Carrying a Camera, Tom MacWright](https://macwright.org/2017/11/03/carrying-a-camera.html) // I do agree that a dedicated camera creates intentionality about what we are looking at, however, I do think the camera phones, particularly those with GPS enabled, provide us different outcomes than just capturing what is in our field of view. 

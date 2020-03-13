@@ -40,12 +40,10 @@ This week we will focus on "paying attention" through environmental observations
   - [OUTCOMES & GOALS](#outcomes--goals)
   - [PACING / DURATION](#pacing--duration)
   - [TOPICS](#topics)
-    - [Logistics](#logistics)
-      - [Syllabus Review](#syllabus-review)
-      - [Defining Student Blocks and Groups](#defining-student-blocks-and-groups)
-      - [Final Project Brief](#final-project-brief)
-    - [Introduction to the course and Critical Cartography and Mapping](#introduction-to-the-course-and-critical-cartography-and-mapping)
-    - [How to Pay Attention](#how-to-pay-attention)
+    - [Course Logistics & Syllabus](#course-logistics--syllabus)
+    - [Defining Student Blocks and Groups](#defining-student-blocks-and-groups)
+    - [Final Project Brief](#final-project-brief)
+    - [Course Introduction](#course-introduction)
   - [REFERENCES](#references)
   - [STUDIO](#studio)
   - [ASSIGNMENT](#assignment)
@@ -63,7 +61,7 @@ This week we will focus on "paying attention" through environmental observations
 
 ## PACING / DURATION
 
-* :20m - course logistics
+* :20m - course logistics & syllabus
 * :50m - lecture & discussion
 * :10m - Break
 * :30m - studio
@@ -72,11 +70,14 @@ This week we will focus on "paying attention" through environmental observations
 
 ## TOPICS
 
-### Logistics 
+### Course Logistics & Syllabus
 
-#### Syllabus Review
+* Introductions - hello!
+* Code of Conduct and Expectations Setting
+* Syllabus Overview
 
-#### Defining Student Blocks and Groups
+
+### Defining Student Blocks and Groups
 
 You may choose to work in groups IF you'd like (no more than 2 per group), however, these blocks and groups are more for scheduling meeting times on a bi-weekly basis. 
 
@@ -103,23 +104,23 @@ You may choose to work in groups IF you'd like (no more than 2 per group), howev
     * First Last
     * First Last
 
-#### Final Project Brief
+### Final Project Brief
 
 Your final project for this course starts today. Everything that you do will be in service of a final, cohesive work that speaks to the final project briefing. Each of the assignments will be a part of your final project and therefore it is crucial to keep in mind what we are building towards. 
 
 * ↳ [Final Project Brief](../assignments/final-project.md)
 
-The [final project briefing can be found here](../assignments/final.md).
 
+### Course Introduction
 
-### Introduction to the course and Critical Cartography and Mapping
-
-TBD
-
-### How to Pay Attention
-
-TBD
-
+* Situating "mapping"
+  * Who maps? 
+  * What is being mapped? 
+  * and to what ends?
+* Situating our approach: Artists shaping (and being shaped by) spatial media
+  * Why are we are mapping?
+  * What will we be mapping?
+  * How will we be mapping?
 
 
 ## REFERENCES
@@ -133,4 +134,5 @@ TBD
 
 ## ASSIGNMENT
 
+* ↳ [Read the Final Project Briefing](../assignments/final-project.md).
 * ↳ [Link to Assignment](../assignments/assignment_01.md).

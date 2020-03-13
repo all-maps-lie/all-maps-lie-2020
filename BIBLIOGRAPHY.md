@@ -372,7 +372,10 @@ There's so much we didn't get to discuss in this class, but I hope the course wa
 * [Awesome Lists, public data](https://github.com/awesomedata/awesome-public-datasets)
 * [Google Earth Engine](https://developers.google.com/earth-engine/datasets) // Google Earth Engine is prob the most accessible way of getting satellite and aerial imagery data
 * [OpenStreetMap - Overpass Turbo](https://overpass-turbo.eu/) // OSM overpass turbo API for getting data back from OSM
-
+* Street views:
+  * [Google Street View - Static API](https://developers.google.com/maps/documentation/streetview/intro)
+  * [Mapillary](https://www.mapillary.com/pricing) // Kind of expensive now IMHO - they used to be open source I think?
+  * [Bing Static Maps](https://docs.microsoft.com/en-us/bingmaps/rest-services/imagery/get-a-static-map) | [Bing Maps API Key](https://docs.microsoft.com/en-us/bingmaps/getting-started/bing-maps-dev-center-help/getting-a-bing-maps-key)
 
 *** 
 ***
