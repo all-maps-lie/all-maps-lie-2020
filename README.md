@@ -1,4 +1,4 @@
-# All Maps Lie: Introduction to Critical Mapping
+# All Maps Lie: Critical Introduction to Mapping
 **NYU, Interactive Telecommunications Program, Spring 2020**
 
 
@@ -7,9 +7,13 @@
 
 **work in progress - plz ignore**
 
+## COURSE WEBSITE
+
+[All Maps Lie Course Website - 2020](https://all-maps-lie-2020.netlify.com/#/) - Hosted by Netlify
+
 ## COURSE DESCRIPTION
 
-*All Maps Lie* is an introduction to critical cartography and mapping from the perspective of media art and design. In this course, we will reflect on and respond to different "geographic prompts" that allow us to discuss the history, theory, and practice of mapping. By engaging in "mapping" and the various methods of "making sense of geography" we will develop a deeper understanding and appreciation for critical geographic histories and politics and the "situatedness" of knowledge and power. Students will be challenged to articulate the value, limitations, and possibilities for media arts practice to contribute to the critical cartographic discourse through their projects.
+*All Maps Lie* is a critical introduction to cartography and mapping from the perspective of media art and creative technology. In this course, we will reflect on and respond to different "geographic prompts" that allow us to discuss the history, theory, and practice of mapping. By engaging in "mapping" and the various methods of "making sense of geography" we will develop a deeper understanding and appreciation for critical geographic histories and politics and the "situatedness" of knowledge and power. Students will be challenged to articulate the value, limitations, and possibilities for media arts practice to contribute to the critical cartographic discourse through their projects.
 
 Students taking this course can expect to gain an appreciation for geographic thinking, learn to ask critical and geographic questions, and apply basic methodologies to “make sense” of geographic data.
 
