@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+  <!-- Edit on Github -->
+  <script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    const config = {
+        editOnGithub: {
+          docBase: 'https://github.com/all-maps-lie/all-maps-lie-2020/tree/source/',
+          docEditBase: 'https://all-maps-lie.github.io/all-maps-lie-2020',
+          title: 'Edit document',
+        },
+      };
+
+    window.$docsify = {
+      name: 'moretrees - docs',
+      repo: 'https://github.com/all-maps-lie/all-maps-lie-2020',
+      loadSidebar: true,
+      maxLevel: 3,
+      auto2top: true,
+      routerMode: 'hash', // default: 'hash'
+      plugins: [
+          EditOnGithubPlugin.create(config.editOnGithub.docBase, null, config.editOnGithub.title),
+        ],
+    }
+  </script>
+  <script src="./assets/libraries/docsify.min.js"></script>
+  <script src="./assets/libraries/docsify-sidebar-collapse.min.js"></script>
+</body>
+</html>

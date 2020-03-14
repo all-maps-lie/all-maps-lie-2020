@@ -71,13 +71,13 @@ References: [Jer Thorp's Land Notice](https://github.com/blprnt/DataPublics#land
 
 | GO TO  |  DATE  | THEME | NOTES |
 | :----         |  ----  | ---- | ---- |
-| [WEEK 01](../all-maps-lie-2020/weeks/week_01.md) | MAR 30 | Everything is Spatial  |  What is a map? what can a map be? |
-| [WEEK 02](../all-maps-lie-2020/weeks/week_02.md) | APR 06 | Countermaps & Cartographics | What is on a map? What power do maps wield? |
-| [WEEK 03](../all-maps-lie-2020/weeks/week_03.md) | APR 13 | Maps as Media  | What are opportunities for rethinking spatial representation? How do we think out space? | 
-| [WEEK 04](../all-maps-lie-2020/weeks/week_04.md) | APR 20 | Locative Media  | What are opportunities for rethinking geographic interaction & experiences? | 
-| [WEEK 05](../all-maps-lie-2020/weeks/week_05.md) | APR 27 | Figure-Ground | How do we see geography from afar? | 
-| [WEEK 06](../all-maps-lie-2020/weeks/week_06.md) | MAY 04 | Experimental Geography  | How do we situate our spatial media practice? | 
-| [WEEK 07](../all-maps-lie-2020/weeks/week_07.md) | MAY 11 | Final Class |  How do you map?   |
+| [WEEK 01](weeks/week_01.md) | MAR 30 | Everything is Spatial  |  What is a map? what can a map be? |
+| [WEEK 02](weeks/week_02.md) | APR 06 | Countermaps & Cartographics | What is on a map? What power do maps wield? |
+| [WEEK 03](weeks/week_03.md) | APR 13 | Maps as Media  | What are opportunities for rethinking spatial representation? How do we think out space? | 
+| [WEEK 04](.weeks/week_04.md) | APR 20 | Locative Media  | What are opportunities for rethinking geographic interaction & experiences? | 
+| [WEEK 05](weeks/week_05.md) | APR 27 | Figure-Ground | How do we see geography from afar? | 
+| [WEEK 06](weeks/week_06.md) | MAY 04 | Experimental Geography  | How do we situate our spatial media practice? | 
+| [WEEK 07](weeks/week_07.md) | MAY 11 | Final Class |  How do you map?   |
 
 
 ## Assignments
