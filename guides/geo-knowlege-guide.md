@@ -104,8 +104,8 @@ via [NASA JPL](https://asterweb.jpl.nasa.gov/content/03_data/05_Application_Exam
 
 Remote Sensing is really about the physics of light and how it interacts with features on the earth's surface or atmosphere. (Remote sensing is spectacularly interesting!). Remote sensing is about sensing from afar, whether that is taking images of the earth in the visible spectrum (think RGB images like those we can take on our phones) as well as "imaging" other wavelengths of light. People doing Remote Sensing study everything from physics to chemistry and how different wavelengths of light interact with features of interest - e.g. absorption of near-infrared and infrared is high for water whereas reflection of near-infrared/infrared wavelengths of light are high for plants. 
 There are two types of remote sensing:
-* [Active remote sensing]() explores technologies like RADAR and LiDAR to actively sense the environment by producing the source of light or energy to sense what is in its **Field-of-View (FOV).**
-* [Passive remote sensing ]() is passive in the sense that it is only sensing light or energy that is reflected back to its sensors from its **Field-of-View (FOV).**
+* [Active remote sensing](https://www.nrcan.gc.ca/maps-tools-publications/satellite-imagery-air-photos/remote-sensing-tutorials/introduction/passive-vs-active-sensing/14639) explores technologies like RADAR and LiDAR to actively sense the environment by producing the source of light or energy to sense what is in its **Field-of-View (FOV).**
+* [Passive remote sensing ](https://www.nrcan.gc.ca/maps-tools-publications/satellite-imagery-air-photos/remote-sensing-tutorials/introduction/passive-vs-active-sensing/14639) is passive in the sense that it is only sensing light or energy that is reflected back to its sensors from its **Field-of-View (FOV).**
 
 
 ***
@@ -124,7 +124,13 @@ This roadmap is divided into 4 sections:
 
 ## Domain Knowledge
 
+This is probably the most important thing of all. You gotta read! Embrace your inner nerd. Dork out on your interests. Watch movies. Educate yourself! Learn as much about a topic as possible. Knowing about the thing you're mapping (or learning about it on the way) is crucial. Your role as a mapper is to speak truth to power. The only way to do this is to know as much about the thing you're mapping as possible. 
+
+Maps are a tool to help you understand something. Maps lie all the time because data lie all the time. We are shaped by our experiences (or ignorances) and the tools we use - e.g. statistics, discrete color choices, categorizations. The best thing you can do is to invest as much time (or more) into learning about some subject - e.g. pollution, music, literature, anything! - as you do learning mapping tools. The way I see it, if you can't can't explain in a reasonable way what you're rendering onto a map, you probably should be wary of publishing your maps. Additionally, if you're totally confident about your map, you should be questioning all the things that make you confident about your map - have you covered *all* your bases? Have you made sure your map doesn't have unintended consequences for you or for the people and places you're mapping?
+
 ## Front-end
+
+
 
 ## Back-end
 

@@ -16,22 +16,34 @@
   * [Assignment 5](assignments/assignment_05.md)
   * [Assignment 6](assignments/assignment_06.md)
 * Guides
-  * [analog-data-collection-guide.md](guides/analog-data-collection-guide.md)
-  * [camera-phone-guide.md](guides/camera-phone-guide.md)
-  * [course-materials-guide.md](guides/course-materials-guide.md)
-  * [critical-mapping-guide.md](guides/critical-mapping-guide.md)
-  * [csv-to-geojson-guide.md](guides/csv-to-geojson-guide.md)
-  * [data-documentation-guide.md](guides/data-documentation-guide.md)
-  * [fieldpapers-guide.md](guides/fieldpapers-guide.md)
-  * [geojson-io.md](guides/geojson-io.md)
-  * [geospatial-data-guide.md](guides/geospatial-data-guide.md)
-  * [google-form-guide.md](guides/google-form-guide.md)
-  * [google-streetview-guide.md](guides/google-streetview-guide.md)
-  * [keplergl-guide.md](guides/keplergl-guide.md)
-  * [leafletjs-guide.md](guides/leafletjs-guide.md)
-  * [mapbox-static-guide.md](guides/mapbox-static-guide.md)
-  * [mapboxgl-guide.md](guides/mapboxgl-guide.md)
-  * [osm-overpass-api.md](guides/osm-overpass-api.md)
-  * [paying-attention-guide.md](guides/paying-attention-guide.md)
-  * [turfjs-guide.md](guides/turfjs-guide.md)
-  * [zine-submission-guide.md](guides/zine-submission-guide.md)
+  * Setup
+    * [Course Materials](guides/course-materials-guide.md)
+  * General
+    * [Geo Knowledge Guide](guides/geo-knowlege-guide.md)
+    * [Geospatial Data Guide](guides/geospatial-data-guide.md)
+    * [Projections Guide](guides/projections-guide.md)
+  * Data Collection
+    * [Paying Attention Guide](guides/paying-attention-guide.md)
+    * [Analog Data Collection](guides/analog-data-collection-guide.md)
+    * [Camera Phone Data Guide](guides/camera-phone-guide.md)
+    * [Paper Mapping - Field Papers](guides/fieldpapers-guide.md)
+    * [Google Form Guide](guides/google-form-guide.md)
+    * [Overpass API - OSM](guides/osm-overpass-api.md) 
+  * Data Processing
+    * [Converting CSVs to GeoJSON](guides/csv-to-geojson-guide.md)
+    * [GeoJSON.io Guide](guides/geojson-io.md)
+  * Documentation
+    * [Data Documentation Guide](guides/data-documentation-guide.md)
+    * [Zine Submission Guide](guides/zine-submission-guide.md)
+  * Web Mapping
+    * [Kepler.gl Guide](guides/keplergl-guide.md)
+    * [Leafletjs Guide](guides/leafletjs-guide.md)
+    * [Mapbox Static Imagery Guide](guides/mapbox-static-guide.md)
+    * [MapboxGL Guide](guides/mapboxgl-guide.md)
+    * [Google Streetview Guide](guides/google-streetview-guide.md)
+  * Geoprocessing
+    * [Turfjs Guide](guides/turfjs-guide.md)
+  * Uncategorized
+    * [critical-mapping-guide.md](guides/critical-mapping-guide.md)
+  
+  
