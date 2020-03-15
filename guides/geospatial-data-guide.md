@@ -2,7 +2,9 @@
 
 ## What are spatial data?
 
-Spatial data can be considered anything that has location information associated with it. In some ways *all data are spatial* - since all things happen somewhere - however there are some data that are perhaps *more spatial* than others.
+Spatial data can be considered anything that has location information associated with it. In some ways *all data are spatial* - since all things happen somewhere - however there are some data that are perhaps *more spatial* than others. 
+
+For the purpose of this guide, let's define spatial data as any data that either have geographic coordinates or those that can be related to a geospatial database (e.g. addressing systems). 
 
 ## What ways things can be spatial?
 
@@ -53,7 +55,48 @@ Vector data are represented in the form of: points, lines, and areas.
 
 ### Raster
 
-Raster data (a.k.a bitmaps, images) are essentially image data - pixels or grid cells - about some kind of geographic area - usually taken from a satellite, airplane, drone, or balloon. Raster data often represent some kind of **continuous data** - e.g. topography, elevation, air pollution - but can also represent **discrete data** - e.g. land cover or land use. 
+Raster data (a.k.a bitmaps, images) are essentially image data - a grid of evenly sized pixels or grid cells - about some kind of geographic area - usually taken from a satellite, airplane, drone, and even balloons. Each grid cell of a raster represents a location and some kind of attribute value.
+
+
+Raster data often represent some kind of **continuous data** - e.g. topography, elevation, air pollution...
+
+Imagine if this matrix represented air pollution values for a given area:
+```
+[
+  5,  20, 51, 10,
+  6,  40, 46, 20,
+  10, 8,  41, 30,
+  8,  2,  1,  20
+]
+```
+where:
+* 0 - 10: good
+* 11 - 50: moderate
+* 50>: bad
+
+
+...but can also represent **discrete data** - e.g. land cover or land use. 
+
+Imagine if this matrix represented a land cover classification of a satellite image:
+```
+[
+  0, 1, 2, 2,
+  0, 1, 1, 2,
+  0, 0, 1, 1,
+  0, 0, 0, 1
+]
+```
+where:
+* 0: ocean
+* 1: beach/sand
+* 2: grass
+
+* [Raster Defined - ESRI](https://support.esri.com/en/other-resources/gis-dictionary/search/raster)
+
+
+## Vector vs. Raster?
+
+
 
 ## References
 
