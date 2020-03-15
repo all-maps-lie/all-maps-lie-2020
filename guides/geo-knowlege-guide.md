@@ -58,7 +58,78 @@ What's exciting is that at least by recognizing the existence of such discipline
 ***
 ***
 
-# Cartography, GIS, Mapping 
+# Mapping: Cartography, GIS, & Remote Sensing
+
+This section is dedicated to highlighting some key aspects of mapping from the disciplinary perspective and the skills involved.
+
+## Definitions
+
+I will preface this by saying that the boundaries aren't clear cut and defined.  
+
+### Mapping
+
+![Aerial Bold ABC Book](https://benedikt-gross.de/thumbs/projects/abc-the-alphabet-from-the-sky/b-2400x1230-q80.jpg)
+
+*Mapping* is maybe the broadest and most inclusive word for describing the process of collecting "data" and representing those data relative to one another. It doesn't necessarily need to refer to geographic mapping - e.g. stakeholder mapping, projection mapping, etc - but this is mostly what we'll be talking about in this class. 
+
+Axis Maps has an approachable and thoughtful answer to this question of "what is a map?" in their [Cartography Guide](https://www.axismaps.com/guide/general/what-is-a-map/) which says that a "a map is a representation of a place." If we apply this to the term **mapping**, we can consider that **mapping** is about the process of representing places. 
+
+In this class, we are most concerned with **mapping** and making **maps**. To do our *mapping* we will consider cartographic methodologies and those from our own media art and creative tech backgrounds. 
+
+### Cartography
+
+![Census Map](https://www.axismaps.com/guide/general/what-is-a-map/thematic_map.png)
+via [Axis Maps](https://www.axismaps.com/guide/general/what-is-a-map/)
+
+Cartography may be best defined as the study and practice of making maps. Cartographers are concerned with the mapping process - from  data collection to representation. As a focal point, cartographic representation can include a number of considerations such as how geographic data and their context are visualized (symbology), generalized (scale), labeled, and projected (taking a 3D world and making it flat).
+
+The lines may be fuzzy between where Cartography, GIS, and Remote Sensing start and end, but ultimately, if maps are involved, so it cartography.
+
+As will be revealed to you in Jeremy Crampton's [Critical Introduction to Cartography and Mapping]() there are are LOTS of feelings and thoughts about how cartography is framed. 
+
+### Geographic Information Systems (GIS)
+
+![QGIS Screenshot](https://i.stack.imgur.com/SSqLZ.png)
+vis [GIS Stack Exchange](https://gis.stackexchange.com/questions/210684/qgis-2-14-6-processing-extension-polygonize-tool-missing)
+
+GIS refers both to a discipline and the tools. **As a tool**, a GIS is basically a system - software, tools, and methods - of collecting and managing geographic information. Like any other software, a GIS might take the form of a database with additional capabilities of handling spatial data or doing geoprocessing that are accessed through a desktop software and/or web application. Some examples of GIS software include QGIS, ESRI's ArcGIS, and Carto (as an interface to PostGRES and PostGIS)
+
+**As a domain**, GIS is a realm of study focused on the development and application of geographic information systems for research purposes and/or for industrial uses. Here, people might be developing new algorithms to optimize things like geographic point clustering, route optimization, spatial geometry simplification, and more. Often times people contributing to GIS come from fields like computer science and engineering. 
+
+
+### Remote Sensing
+
+![NASA JPL - Aster image](https://asterweb.jpl.nasa.gov/content/03_data/05_Application_Examples/urban/fig3.jpg)
+via [NASA JPL](https://asterweb.jpl.nasa.gov/content/03_data/05_Application_Examples/urban/default.htm)
+
+Remote Sensing is really about the physics of light and how it interacts with features on the earth's surface or atmosphere. (Remote sensing is spectacularly interesting!). Remote sensing is about sensing from afar, whether that is taking images of the earth in the visible spectrum (think RGB images like those we can take on our phones) as well as "imaging" other wavelengths of light. People doing Remote Sensing study everything from physics to chemistry and how different wavelengths of light interact with features of interest - e.g. absorption of near-infrared and infrared is high for water whereas reflection of near-infrared/infrared wavelengths of light are high for plants. 
+There are two types of remote sensing:
+* [Active remote sensing]() explores technologies like RADAR and LiDAR to actively sense the environment by producing the source of light or energy to sense what is in its **Field-of-View (FOV).**
+* [Passive remote sensing ]() is passive in the sense that it is only sensing light or energy that is reflected back to its sensors from its **Field-of-View (FOV).**
+
+
+***
+***
+***
+
+# Mapping Roadmap
+
+This mapping roadmap is about meant to lay out some of the key technical skills that be involved in helping you with your mapping endeavors. 
+
+This roadmap is divided into 4 sections:
+1. Domain Knowledge
+2. Front-end
+3. Back-end
+4. DevOps
+
+## Domain Knowledge
+
+## Front-end
+
+## Back-end
+
+## DevOps
+
 
 
 ## Geographic Data
@@ -79,9 +150,7 @@ What's exciting is that at least by recognizing the existence of such discipline
 ***
 ***
 
-# Remote Sensing
 
-Remote sensing gets its own category because in the end, Remote Sensing is really about physics (of light), chemistry, and computation. 
 
 ***
 ***
