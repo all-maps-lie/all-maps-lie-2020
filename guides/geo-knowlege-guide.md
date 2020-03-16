@@ -132,7 +132,42 @@ Maps are a tool to help you understand something. Maps lie all the time because 
 
 I'm calling this the "front-end" since conceptually this part of the roadmap has more to do with the visualization or representational parts of mapping.
 
+### Cartographic Fundamentals
+
+I'm basically re-iterating what is outlined in the [Axis Maps - cartography guide](https://www.axismaps.com/guide/)
+
+#### Symbology / Visual Variables
+
+#### Projections
+
+#### Color & Maps
+
+#### Scale & Generalization
+
+#### Labeling and text
+
+### Reference Map Types
+
+Reference maps are probably the first thing we think of when we think of maps. Reference maps are maps that are more about navigation and the locations of things. These could be maps that you might use for hiking that show the topography and the hiking trails in a national park or a tourist map of a city showing the the street plan and key landmarks.
+
+### Thematic Map Types
+
+I'm basically re-iterating what is outlined in the [Axis Maps - cartography guide](https://www.axismaps.com/guide/).
+
+[Thematic maps](https://en.wikipedia.org/wiki/Thematic_map) are maps of a geographic area focused on "a particular theme or subject area." These themes or subject areas tend to represent some kind of statistical data or classifications. Thematic maps tend to represent **numerical** (anything countable or measurable), **nominal** (anything classifiable or nameable), or **ordinal** (anything that can be ordered relative to eachother) data.
+
+#### Choropleth maps
+
+#### Proportional Symbols
+
+#### Dot Density
+
+#### Cartograms
+
+
 ### Web Mapping
+
+These days the web is how most geographic data are visualized and published. Having a web mapping framework handy is crucial to having a means of increasing access to your map. Not all web maps need to be interactive and certainly web maps aren't always a replacement for a really good static print map, but web maps do offer a lot of possibilities for communication. 
 
 #### Pick a web mapping framework
 
@@ -143,18 +178,49 @@ A lot of things are being built on top of MapboxGL so that is definitely worth s
 * My recommendations:
   * [Leaflet.js]() // my recommendation to get started
   * [MapboxGL.js]() 
+  * [D3.js]() // much more advanced but definitely offers a lot of opportunities to get out of web mercator projection.
 * Other Options:
   * [OpenLayers]()
   * [Deck.gl](https://deck.gl/#/) // for those of you who are into React.js
+  * [Carto.js]()
 
-#### Handy 
+#### Pick a web mapping tool
+
+* Kepler.gl
+* Carto
+
 
 
 ## Back-end
 
 I'm calling this the "back-end" since conceptually this part of the roadmap has more to do with data processing, analysis, and generally all the things that happen before you get to the visualization or representational parts of mapping. 
 
-### 
+### Geographic Data
+
+
+
+### APIs
+
+#### Static Imagery
+
+* Mapbox static imagery
+* Google static imagery
+
+#### Routing
+
+* Mapbox routing
+* Google routing
+* Graphopper routing
+
+#### Placename Search
+
+* Mapbox search and geocoding API
+* Google search and geocoding API
+
+#### Datasets
+
+* Openstreetmap
+
 
 
 ## DevOps
