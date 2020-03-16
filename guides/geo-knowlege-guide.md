@@ -118,8 +118,8 @@ This mapping roadmap is about meant to lay out some of the key technical skills 
 
 This roadmap is divided into 4 sections:
 1. Domain Knowledge
-2. Front-end
-3. Back-end
+2. Front-end (TBD - not sure if this is the right name)
+3. Back-end (TBD - not sure if this is the right name)
 4. DevOps
 
 ## Domain Knowledge
@@ -130,14 +130,39 @@ Maps are a tool to help you understand something. Maps lie all the time because 
 
 ## Front-end
 
+I'm calling this the "front-end" since conceptually this part of the roadmap has more to do with the visualization or representational parts of mapping.
+
+### Web Mapping
+
+#### Pick a web mapping framework
+
+Pick one or two of these and learn them well. 
+
+A lot of things are being built on top of MapboxGL so that is definitely worth spending some time with. 
+
+* My recommendations:
+  * [Leaflet.js]() // my recommendation to get started
+  * [MapboxGL.js]() 
+* Other Options:
+  * [OpenLayers]()
+  * [Deck.gl](https://deck.gl/#/) // for those of you who are into React.js
+
+#### Handy 
 
 
 ## Back-end
 
+I'm calling this the "back-end" since conceptually this part of the roadmap has more to do with data processing, analysis, and generally all the things that happen before you get to the visualization or representational parts of mapping. 
+
+### 
+
+
 ## DevOps
 
+I'm calling this the "devOps" since conceptually this part of the roadmap has more to do with the kinds of skills related to geospatial infrastructure. 
 
 
+<!-- 
 ## Geographic Data
 
 ## Projections
@@ -150,18 +175,10 @@ Maps are a tool to help you understand something. Maps lie all the time because 
 
 ## Web Mapping
 
-### Desktop GIS
+### Desktop GIS 
+-->
 
-***
-***
-***
-
-
-
-***
-***
-***
-
+<!-- 
 # Everything Besides the Map
 
 No one told me when I started getting into maps that basically mapping is about more than "just" putting things on a map. There's a whole "stack" of things that are not directly related to "maps" per se, but are totally essential for making mapping possible.
@@ -174,6 +191,7 @@ No one told me when I started getting into maps that basically mapping is about 
 
 ### Data Visualization
 
-### Domain Expertise
+### Domain Expertise 
+-->
 
 
