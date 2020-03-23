@@ -68,7 +68,8 @@ Document your process, you understanding or questions about the code, and begin 
 As part of your week 2 documentation you will submit the following:
 1. A blog post that:
    1. **Provides a clear update about your data collection and research activities**: "e.g. This week, I continued my data collection of street trees. Since last Monday, I have collected an addtional 40 trees. I have started to identify some trends and patterns based on the data I've collected so far. So far, I have noticed: ... In reading the literature on urban vegetation, I've found that street tree health is related to many factors such as availablity of water which on a microscale can be influenced by the building density and materials of the buildings surrounding the tree... Street trees provide many benefits according to research published in X..."
-   2. **Provides the link to your published web map**: 
+   2. **Provides the link to your published web map**: In your blog post you will provide screenshots of your web map describing what you did to produce the map. You will provide references to code you used and/or any additional materials of relevance. e.g. "Here is a web map I produced using the tutorial provided here..."
+   3. **Provides at least 3 points of reflection on the usage of open source mapping tools**: Provide some feedback about why open source mapping tools may or may not be important or relevant for research.
 
 ## Submission
 
