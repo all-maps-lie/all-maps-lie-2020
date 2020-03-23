@@ -8,6 +8,7 @@
     - [Option 1: Field Work](#option-1-field-work)
     - [Option 2: Remote Sensing](#option-2-remote-sensing)
   - [Requirements](#requirements)
+  - [Ready?! Go to Assignment #1](#ready-go-to-assignment-1)
   - [References](#references)
   - [FAQ](#faq)
     - [Can I change my selected urban media focus after week 1?](#can-i-change-my-selected-urban-media-focus-after-week-1)
@@ -166,6 +167,11 @@ NOTE: Given the need for remote class work and social-isolation during the coron
 | ☑️ | Data Submission | You must submit the data you collected to a centralized repository. Your data - images and otherwise - must be [well documented](../guides/data-documentation-guide.md)! |
 | ☑️ | Content Submission | You must submit your research in a coherent form as specified in the [Zine submission guide](../guides/zine-submission-guide.md) if you want your work to be included in the class zine. |
 | ☑️ | Blog posts and reflections | You will be documenting your learning through your blogs. A submission indexing all of your posts will be required. |
+
+
+## Ready?! Go to Assignment #1
+
+* [Assignment #1](assignments/assignment_01.md)
 
 ## References
 
