@@ -1,5 +1,16 @@
 # A1: Paying Attention
 
+- [A1: Paying Attention](#a1-paying-attention)
+  - [Brief:](#brief)
+  - [Readings](#readings)
+  - [Requirements](#requirements)
+    - [Part 1: Selecting a Subject](#part-1-selecting-a-subject)
+    - [Part 2: Begin - Observation](#part-2-begin---observation)
+    - [Part 3: Export a GeoJSON of your findings and plot them on a map.](#part-3-export-a-geojson-of-your-findings-and-plot-them-on-a-map)
+    - [Part 4: Begin Research](#part-4-begin-research)
+    - [Part 5: Documentation](#part-5-documentation)
+  - [Submission](#submission)
+
 ## Brief:
 
 <s>This week your assignment is to begin observing the environment using your location-enabled cameraphone. Your task will be to **define ONE subject/phenomenon of interest** and catalog it with photographs, the accompanying geo-metadata that is created with that image, and any additional observational annotations. This practice will continue throughout the duration of the course; the data you collect will be central to grounding the theoretical and practical aspects of this course.</s>
@@ -103,13 +114,13 @@ Additional Methodological considerations:
 
 As part of your week 1 documentation you will submit the following:
 1. A blog post that:
-   1. Clearly introduces the subject of urban media you will be studying: e.g. "For my project, I will be focusing my attention on **street trees**. I define street trees as being..."
-   2. Clearly explains your methodology for data collection: e.g. "I will be collecting data about **street trees** using Google Streetview. As part of the data collection on **street trees**, I will also collect locations where a tree bed exists but where no tree currently exists. I will start in the Park Slope neighborhood in Brooklyn, then work towards completing Crown heights, then..."
-   3. Clearly shows that you have started to collect data about your subject. e.g. "In 1 week, I have collected 60 street tree locations. Here is a screenshot of my progress..."
-   4. Articulates at least 3 questions or reflections about:
+   1. **Clearly introduces the subject of urban media you will be studying**: e.g. "For my project, I will be focusing my attention on **street trees**. I define street trees as being..."
+   2. **Clearly explains your methodology for data collection**: e.g. "I will be collecting data about **street trees** using Google Streetview. As part of the data collection on **street trees**, I will also collect locations where a tree bed exists but where no tree currently exists. I will start in the Park Slope neighborhood in Brooklyn, then work towards completing Crown heights, then..."
+   3. **Clearly shows that you have started to collect data about your subject**. e.g. "In 1 week, I have collected 60 street tree locations. Here is a screenshot of my progress..."
+   4. **Articulates at least 3 questions or reflections about**:
       1. The usage of Google Streetview as a data source and mapping platform.
       2. The subject your are studying and what you are curious to discover
-   5. References at least 3 primary or secondary resources - articles, videos, interviews - about your subject of interest.
+   5. **References at least 3 primary or secondary resources** - articles, videos, interviews - about your subject of interest.
 
 
 ## Submission

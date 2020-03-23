@@ -25,10 +25,10 @@
     * [Projections Guide](guides/projections-guide.md)
   * Data Collection
     * [Paying Attention Guide](guides/paying-attention-guide.md)
-    * [Analog Data Collection](guides/analog-data-collection-guide.md)
-    * [Camera Phone Data Guide](guides/camera-phone-guide.md)
-    * [Paper Mapping - Field Papers](guides/fieldpapers-guide.md)
-    * [Google Form Guide](guides/google-form-guide.md)
+    <!-- * [Analog Data Collection](guides/analog-data-collection-guide.md) -->
+    <!-- * [Camera Phone Data Guide](guides/camera-phone-guide.md) -->
+    <!-- * [Paper Mapping - Field Papers](guides/fieldpapers-guide.md) -->
+    <!-- * [Google Form Guide](guides/google-form-guide.md) -->
     * [Overpass API - OSM](guides/osm-overpass-api.md) 
   * Data Processing
     * [Converting CSVs to GeoJSON](guides/csv-to-geojson-guide.md)

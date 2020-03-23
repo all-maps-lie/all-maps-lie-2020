@@ -2,7 +2,7 @@
 
 ## Brief:
 
-This week your assignment is to create a web map of the data you collected in you one week of data collection (see: [Assignment #1](./assignment_01.md)).
+This week your assignment is to create a web map of the data you collected in you one week of data collection (see: [Assignment #1](assignments/assignment_01.md)).
 
 The point here is to explore the web mapping libraries [Leaflet.js](https://leafletjs.com/) and [MapboxGL.js](https://docs.mapbox.com/mapbox-gl-js/api/) using the [GeoSandbox](https://joeyklee.github.io/geosandbox/) and to get feeling for how you can write JavaScript code to put your data "on the map."
 
@@ -18,15 +18,15 @@ You are more than welcome to try using [Kepler.gl](https://kepler.gl/) to explor
 
 ## Requirements
 
-### Part 0: Create data from your images
+### Part 1: Continue data collection & research
 
-If you have not already done so, create a `.geojson` file that includes the EXIF metadata from your images. You can use the [img2meta]() tool to do this.
+Continue your **data collection** and **research** you started last week, this should occur in parallel with your web mapping exercises this week.
 
-As a quick test, drag-and-drop your `.geojson` file onto [Geojson.io](http://geojson.io/) to see if your data creation was successful. 
+### Part 2: Export your Streetview Mapper Data
 
-📸 Take a screenshot as documentation.
+If you have not already done so, do [Assignment 1, Part 3](assignments/assignment_01.md#part-3-export-a-geojson-of-your-findings-and-plot-them-on-a-map). If you have continued your data collection, you can export the latest dataset so you have all the data you've collected thus far.
 
-### Part 1: Create a web map of your photographed locations
+### Part 3: Create a web map of your streetview locations
 
 Create a web map. Your web map will include the following elements:
 1. [Scalebar](https://leafletjs.com/reference-1.6.0.html#control-scale)
@@ -41,7 +41,7 @@ Create a web map. Your web map will include the following elements:
    * Where to inlcude:
      * [ ] You can include this in the body of your HTML or you can use the [Leaflet Sidebar V2](https://github.com/nickpeihl/leaflet-sidebar-v2/) for a nice and responsive UI element on your map.
 
-### Part 2: Add data and interactivity to your map
+### Part 4: Add data and interactivity to your map
 
 Now that you have your map, you will:
 * add your data to the map and 
@@ -51,19 +51,28 @@ In this step you will:
 1. Add data: Add your `.geojson` data as a layer on your the map.
 2. Add interactivity: For each point add a popup that will show the image that was taken in that location. You will write a loop that will attach the [popup to each marker](https://leafletjs.com/reference-1.6.0.html#popup).
 
-
-### Part 3: Documentation & Organization
-
 Pat yourself on the back! This mapping stuff can be challenging!
+
+### Part 5: Deploy your map to Glitch:
+
+Deploy your map to Glitch. 
+
+* If you're using Git/Github, great! You can deploy to glitch by [following these instructions](https://github.com/itp-dwd/2020-spring/blob/master/guides/glitch.md)
+* If you're not using Git/Github, you can simply upload your files using the file uploader. Once you make a blank project in glitch you can use the sidebar to **upload a file** with your `index.html` and other javascript and css files.
+
+
+### Part 6: Documentation & Organization
 
 Document your process, you understanding or questions about the code, and begin remarking on any patterns you might see when viewing your data on the map. Document this on your blog.
 
-* Key questions:
-  * ...
-  * ...
-  * ...
+As part of your week 2 documentation you will submit the following:
+1. A blog post that:
+   1. **Provides a clear update about your data collection and research activities**: "e.g. This week, I continued my data collection of street trees. Since last Monday, I have collected an addtional 40 trees. I have started to identify some trends and patterns based on the data I've collected so far. So far, I have noticed: ... In reading the literature on urban vegetation, I've found that street tree health is related to many factors such as availablity of water which on a microscale can be influenced by the building density and materials of the buildings surrounding the tree... Street trees provide many benefits according to research published in X..."
+   2. **Provides the link to your published web map**: 
 
 ## Submission
+
+You will submit a link to your blog post to the link below, specifying which assignment you are submitting:
 
 ↳ 💌 [Google Form Assignment Submission](https://forms.gle/1tAfHZXEejZDubHg9)
 
