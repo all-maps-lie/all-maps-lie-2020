@@ -18,9 +18,10 @@ Your final project for this course starts now, at week 1. Everything that you do
 
 There will be a total of 5 assignments this semester that are designed to help you generate the touch points of your final work. Each of the assignments are designed to help you unpack what it means to be *mapping urban media*. 
 
-You will use the assignments as prompts to support your urban [media archaeology](https://en.wikipedia.org/wiki/Media_archaeology); you will attempt to understand and communicate about one super specific aspect of urban media. Through the process of simultaneously researching and creating work about the urban media of your choice, you will document and catalog your discoveries about *what you've come to know and understand about your urban phenomenon* and what social, cultural, political, and environmental processes and histories are/have been at play in shaping your urban media and vice versa. 
+You will use the assignments as prompts to support what scholar Shannon Mattern calls, an **urban media archaeology** ([1](#)[2](#)). You will attempt to understand and communicate about one super specific aspect of urban media - some feature of infrastructure - and its relations to a broader geographic, environmental, political, media, and historical context. Through the process of simultaneously researching and creating work about the urban media of your choice, you will document and catalog your discoveries about *what you've come to know and understand about your urban phenomenon*. Furthermore you will help to unpack what social, cultural, political, and environmental processes and histories are/have been at play in shaping your urban media and vice versa. 
 
 The result of this exercise will be the production of a body of work that uses mapping and maps and to inform your understanding the geography of your selected urban media. Upon the submission of your final work, your findings will be published as part of a [class zine](https://github.com/joeyklee/all-maps-lie-2020-zine). 
+
 
 ## Background
 
@@ -41,12 +42,12 @@ These works highlight examples of projects that in one shape or another require 
 
 Similarly, scholars like [Shannon Mattern](http://wordsinspace.net/shannon/about/) and [Jeremy Crampton](https://www.ncl.ac.uk/apl/staff/profile/jeremycramptonnewcastleacuk.html#background) are asking questions about the world - about power, infrastructure, and politics - through the lens of different media and geographies and proposing methodologies and frameworks through which we might better understand society, culture, and space. What these more academic contributions offer is a set of conceptual frameworks and methodological tools to really unpack context, history, and the geography of the things that are interesting and important in our lives.
 
-Drawing inspiration and methodologies from these varying worlds - from cartography to media archaeology and media art to creative technology - we will embark on understanding *what mapping means*, *what mapping does*, and *what our role as cartographic outsiders is in shaping spatial thinking*. Taking the lessons from David, Rob, and Jenny, we will practice paying attention through intentional (small) data collection and mapping efforts. Drawing inspiration from scholars like Shannon and Jeremy, we will practice researching and writing about *things* - their form, their materiality, their histories, and their geographies, and their politics. Taken together, we will practice our skills as researchers and makers of spatial media. 
+Drawing inspiration and methodologies from these varying worlds - from critical cartography to urban media archaeology and media art to creative technology - we will embark on understanding *what mapping means*, *what mapping does*, and *what our role as cartographic outsiders is in shaping spatial thinking*. Taking the lessons from David, Rob, and Jenny, we will practice paying attention through intentional (small) data collection and mapping efforts. Drawing inspiration from scholars like Shannon and Jeremy, we will practice researching and writing about *things* - their form, their materiality, their histories, and their geographies, and their politics. Taken together, we will practice our skills as researchers and makers of spatial media. 
 
 
 ## Mapping Urban Media
 
-What is *urban media*? In the context of this course and this project briefing, we can consider *urban media* as any kind of infrastructure - natural or built, static or interactive - that exists in urban space. The size of these urban media can be range - e.g. fire hydrants vs. street tree vs. bus shelters vs. telephone poles - as well as the spatial scale - e.g. street level vs. block level vs. neighborhood level - that may be relevant for best understanding your selected urban media. 
+What is *urban media*? In the context of this course and this project briefing, we can consider *urban media* as any kind of infrastructure - natural or built, static or interactive - that exists in urban space. The size of these urban media can range - e.g. fire hydrants vs. street tree vs. bus shelters vs. telephone poles - as well as the spatial scale - e.g. street level vs. block level vs. neighborhood level - that may be relevant for best understanding your selected urban media. 
 
 The key constraint here is that **you must be able to photograph or document individual instances** of that urban feature whether in person (with your camera phone) or remotely (e.g. aerial images, street view, or found images from the web or social media). 
 
@@ -66,12 +67,16 @@ Some urban media that would be fair game:
 * Empty tree beds (Joey will be doing this!)
 * Graffiti
 
-Notice how these are all things that you might encounter every day on your commutes, on walks to the grocery store, or while walking your dog. 
+Notice how these are all things that you might encounter every day on your commutes, on walks to the grocery store, in Google Streetview, or while walking your dog. 
 
 
 ## Overview
 
-There are **two options** for structuring your urban media mapping project, one that is more "field work" based and the other that is more "remote sensing" based. Both options will require you to *pay attention* to some kind of urban phenomenon. Both options will challenge you to dig deep into the *processes, histories, and politics* that have shaped your focal point. 
+<s>There are **two options** for structuring your urban media mapping project, one that is more "field work" based and the other that is more "remote sensing" based. Both options will require you to *pay attention* to some kind of urban phenomenon. Both options will challenge you to dig deep into the *processes, histories, and politics* that have shaped your focal point. </s>
+
+For your projects this semester, you will be exploring "urban media" through the lens of Google Streetview and other geospatial data. In exploring Streetview, each of you will focus on **one** aspect of urban space. The project will challenge you to dig deep into the *processes, histories, and politics* that have shaped your subject of interest as well as prompt you to question the ways in which Google Streetview shapes what you can know about your subject of interest.
+
+NOTE: I acknowledge that Streetview does place a number of constraints on our mapping abilities and offers a very specific lens of *seeing*, however, those constraints and lenses are also opportunities for practicing important data awarenesses such as understanding sampling bias, temporal bias, data licensing and so on.
 
 A successful project will:
 1. **Showcase substantial effort and thoughtfulness in data collection and mapping**
@@ -89,15 +94,19 @@ A successful project will:
 
 These three criteria for evaluation should help inform you along the way. Please make sure to refer back to this through out the duration of the project. 
 
-Below are the two options/tracks for project development:
+<s>Below are the two options/tracks for project development:</s>
+Below you will find a general schedule for the final project development:
 
+<s>
 ### Option 1: Field Work
+
+NOTE: Given the need for remote class work and social-isolation during the coronavirus pandemic we may rework the mechanisms and methods of "data collection." As your instructor, I cannot in good conscience or by mandate of the University assign work that would otherwise endanger you. Therefore, please see **option 2**.
 
 **Option 1** is your "field work" option/track. In this option you will do data collection by directly mapping your selected urban media in-person, out in the world. 
 
 * Week 1: 
   * Begin data collection: mapping an element of urban media
-  * Begin your [media archaeology](https://en.wikipedia.org/wiki/Media_archaeology) →  
+  * Begin your [urban media archaeology](https://en.wikipedia.org/wiki/Media_archaeology) →  
 * Week 2: 
   * Create a web map which displays the data you've been collecting
   * Continue your media research and 
@@ -116,7 +125,8 @@ Below are the two options/tracks for project development:
   * Conclude data collection →
 * Week 6:
   * Document and synthesize your "urban media" mapping for submission.
-  * Teach your classmates something new. 
+  * Teach your classmates something new.  
+</s>
 
 
 ### Option 2: Remote Sensing
@@ -127,7 +137,7 @@ NOTE: Given the need for remote class work and social-isolation during the coron
 
 * Week 1: 
   * Begin data collection: mapping an element of urban media using aerial imagery and street view
-  * begin your [media archaeology](https://en.wikipedia.org/wiki/Media_archaeology) →  
+  * begin your [urban media archaeology](https://en.wikipedia.org/wiki/Media_archaeology) →  
 * Week 2: 
   * Create a web map which displays the data you've been collecting
   * Continue your media research and 
@@ -149,7 +159,6 @@ NOTE: Given the need for remote class work and social-isolation during the coron
   * Teach your classmates something new. 
 
 ## Requirements
-
 
 
 | ☑️ | Requirement | Description |
