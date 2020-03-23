@@ -39,16 +39,15 @@
 * Required:
   * Setting the stage:
     * [Gaps in the Map: The Topologies of Cartography, S. Mattern, 2015](http://wordsinspace.net/shannon/2015/09/18/gaps-in-the-map-why-were-mapping-everything-and-why-not-everything-can-or-should-be-mapped/)
+    * You can either read the text [Deep Mapping the Media City](https://www.upress.umn.edu/book-division/books/deep-mapping-the-media-city) or watch the talk version [Video, ~1hr - Shannon Mattern Digital Dialogue: Strata of Sentience: Deep Mapping the Media City, 2015](https://vimeo.com/120827621)
   * Introduction to critical mapping: 
     * [Chapter 1: Maps — A perverse sense of the unseemly, Mapping: A Critical Introduction to Cartography and Mapping, pg. 1 - 12](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=4433111&ppg=15)
     * [Chapter 2: What is Critique?, Mapping: A Critical Introduction to Cartography and Mapping, J. Crampton (2010), pg. 13 - 24](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=4433111&ppg=27)
-  * On Paying Attention:
+* Optional: 
+    * [Jenny Odell, How to do Nothing, EYEO 2017](https://vimeo.com/232544904) or the blog post version [How to Do Nothing, J. Odell](https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb)
     * [Paying Attention Guide, R. Walker](https://medium.com/re-form/how-to-pay-attention-4751adb53cb6)
     * [Data Walking, D. Hunter](http://datawalking.com/)
     * [Data Walking for Social Research, A. Powell](http://www.datawalking.org/)
-* Optional: 
-    * [Jenny Odell, How to do Nothing, EYEO 2017](https://vimeo.com/232544904) or the blog post version [How to Do Nothing, J. Odell](https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb)
-    * [Deep Mapping the Media City, Mattern](https://www.upress.umn.edu/book-division/books/deep-mapping-the-media-city)
 
 ### WORKS CITED
 

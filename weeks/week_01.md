@@ -41,8 +41,8 @@ This week we will focus on "paying attention" through environmental observations
   - [PACING / DURATION](#pacing--duration)
   - [TOPICS](#topics)
     - [Course Logistics & Syllabus](#course-logistics--syllabus)
-    - [Defining Student Blocks and Groups](#defining-student-blocks-and-groups)
     - [Final Project Brief](#final-project-brief)
+    - [Defining Student Blocks and Groups](#defining-student-blocks-and-groups)
     - [Course Introduction](#course-introduction)
   - [REFERENCES](#references)
   - [STUDIO](#studio)
@@ -76,10 +76,16 @@ This week we will focus on "paying attention" through environmental observations
 * Code of Conduct and Expectations Setting
 * Syllabus Overview
 
+### Final Project Brief
+
+Your final project for this course starts today. Everything that you do will be in service of a final, cohesive work that speaks to the final project briefing. Each of the assignments will be a part of your final project and therefore it is crucial to keep in mind what we are building towards. 
+
+* ↳ [Final Project Brief](../assignments/final-project.md)
+
 
 ### Defining Student Blocks and Groups
 
-You may choose to work in groups IF you'd like (no more than 2 per group), however, these blocks and groups are more for scheduling meeting times on a bi-weekly basis. 
+You may choose to work in groups IF you'd like (no more than 2 per group), however, these blocks and groups are more for assigning to help create some structure of accountability between yourselves. Consider the people in your groups as your first points of contact for questions and feedback. 
 
 * Block 1
   * Group A: Cruelty Jam
@@ -103,12 +109,6 @@ You may choose to work in groups IF you'd like (no more than 2 per group), howev
     * First Last
     * First Last
     * First Last
-
-### Final Project Brief
-
-Your final project for this course starts today. Everything that you do will be in service of a final, cohesive work that speaks to the final project briefing. Each of the assignments will be a part of your final project and therefore it is crucial to keep in mind what we are building towards. 
-
-* ↳ [Final Project Brief](../assignments/final-project.md)
 
 
 ### Course Introduction
