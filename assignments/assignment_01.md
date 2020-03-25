@@ -87,7 +87,27 @@ Create a spatial dataset, specifically a `geojson` file from your images. Open t
 
 By now you will have spent some time exploring Streetview and observing instances of your subject of interest. Depending on what you've decided to study, you might on one hand be learning/thinking about that subject for the first time or on the other hand you will have a deep, long history with that subject. Either way, this part of the assignment is to begin researching your subject and articulating your knowledge and findings. 
 
-As with any research, it is time to do some reading, watching, and digging. 
+You will use the [Implosion Methodology](https://journal.culanth.org/index.php/ca/article/view/ca29.2.09/301) to create a "map" - not the geographic kind, but a conceptual one - of the dimensions of your subject. 
+
+In this step, your goal is to go through 14 dimensions of researching a subject to help answer *How Is the World in “It” and How Is “It” in the World?*. You will try your best to answer the questions associated with each of these dimensions as articulated in the [Implosion Methodology Article](https://journal.culanth.org/index.php/ca/article/view/ca29.2.09/301). Try to limit this to a maximum of 2hrs. The point here is that this will provide you with a valuable framework for knowing what you know, acknowledging what you do not, and providing a roadmap for what you might discover throughout the process of mapping:
+* Labor dimensions
+* Professional/Epistemological dimensions
+* Material dimensions
+* Technological dimension
+* Context and situatednes
+* Political dimensions
+* Economic dimensions
+* Textual dimensions
+* Bodily/organic dimensions
+* Historical dimensions
+* Particle Dimensions
+* Educational dimensions
+* Mythological dimensions
+* Symbolic dimensions
+ 
+You will share the results of your "implosion" in your weekly blog post as described in the next step.
+
+<!-- As with any research, it is time to do some reading, watching, and digging. 
 1. To start, try doing a web search (in your preferred search engine) and seeing what comes up with you put in, for example: "New York city bus stop" or "Hong Kong protest sites" or "Chile public space." You might append additional search terms like: "geography of" or "history of" or "analysis of" etc. 
 2. Another starting point would be to examine the academic literature. You can search popular academic article search engines such as (note you will have to VPN into NYU or sign in to your account):
   - The NYU Library
@@ -96,7 +116,7 @@ As with any research, it is time to do some reading, watching, and digging.
 
 As you research, begin to organize your findings, take ample screenshots, and keep track of quotes and references you find useful or meaningful. 
 
-If you've not done the reading, this is also a good time to do so. In particular, **Deep Mapping the Media City** and **Gaps in the Map: The Topologies of Cartography** by Shannon Mattern will help to frame our methdological approaches to the research we are conducting; we use maps and mapping (cartographic methods) as our tools to "excavate" the histories and stories our media subjects might tell (media archaeology).
+If you've not done the reading, this is also a good time to do so. In particular, **Deep Mapping the Media City** and **Gaps in the Map: The Topologies of Cartography** by Shannon Mattern will help to frame our methdological approaches to the research we are conducting; we use maps and mapping (cartographic methods) as our tools to "excavate" the histories and stories our media subjects might tell (media archaeology). -->
 
 <!-- 
 Create a project folder and set it up such that you can keep your data and observations tidy. Document your images in a blog. Add any relevant annotations and notes, reflections, and questions that might be starting to arise about the subject, the methodologies, and anything else that comes to mind.
@@ -117,10 +137,16 @@ As part of your week 1 documentation you will submit the following:
    1. **Clearly introduces the subject of urban media you will be studying**: e.g. "For my project, I will be focusing my attention on **street trees**. I define street trees as being..."
    2. **Clearly explains your methodology for data collection**: e.g. "I will be collecting data about **street trees** using Google Streetview. As part of the data collection on **street trees**, I will also collect locations where a tree bed exists but where no tree currently exists. I will start in the Park Slope neighborhood in Brooklyn, then work towards completing Crown heights, then..."
    3. **Clearly shows that you have started to collect data about your subject**. e.g. "In 1 week, I have collected 60 street tree locations. Here is a screenshot of my progress..."
-   4. **Articulates at least 3 questions or reflections about**:
-      1. The usage of Google Streetview as a data source and mapping platform.
-      2. The subject your are studying and what you are curious to discover
-   5. **References at least 3 primary or secondary resources** - articles, videos, interviews - about your subject of interest.
+   4. **Clearly shows that you have begin your research using the Implosion Method as described in step 5**
+
+<!-- 
+While you're documenting, it is worth thinking about:
+* **Articulates at least 3 questions or reflections about**:
+   1. The usage of Google Streetview as a data source and mapping platform.
+   2. The subject your are studying and what you are curious to discover
+* **References at least 3 primary or secondary resources** - articles, videos, interviews - about your subject of interest. 
+* 
+* -->
 
 
 ## Submission

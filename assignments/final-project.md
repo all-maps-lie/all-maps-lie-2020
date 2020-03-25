@@ -19,7 +19,7 @@ Your final project for this course starts now, at week 1. Everything that you do
 
 There will be a total of 5 assignments this semester that are designed to help you generate the touch points of your final work. Each of the assignments are designed to help you unpack what it means to be *mapping urban media*. 
 
-You will use the assignments as prompts to support what scholar Shannon Mattern calls, an **urban media archaeology** ([1](#)[2](#)). You will attempt to understand and communicate about one super specific aspect of urban media - some feature of infrastructure - and its relations to a broader geographic, environmental, political, media, and historical context. Through the process of simultaneously researching and creating work about the urban media of your choice, you will document and catalog your discoveries about *what you've come to know and understand about your urban phenomenon*. Furthermore you will help to unpack what social, cultural, political, and environmental processes and histories are/have been at play in shaping your urban media and vice versa. 
+You will use the assignments as prompts to support what scholar Shannon Mattern calls, an **urban media archaeology** ([1](#)[2](#)). You will attempt to understand and communicate about one super specific aspect of urban media - some feature of infrastructure - and its relations to a broader geographic, environmental, political, media, and historical context. Through the process of simultaneously researching and creating work about the urban media of your choice, you will document and catalog your discoveries about *what you've come to know and understand about your urban phenomenon*. Furthermore you will help to unpack what social, cultural, political, and environmental processes and histories are/have been at play in shaping your urban media and vice versa. You will use the [Implosion Methodology](https://journal.culanth.org/index.php/ca/article/view/ca29.2.09/301) to help you to work through the multi-facetedness, non-linearness, and complexities of your media.
 
 The result of this exercise will be the production of a body of work that uses mapping and maps and to inform your understanding the geography of your selected urban media. Upon the submission of your final work, your findings will be published as part of a [class zine](https://github.com/joeyklee/all-maps-lie-2020-zine). 
 
@@ -45,6 +45,8 @@ Similarly, scholars like [Shannon Mattern](http://wordsinspace.net/shannon/about
 
 Drawing inspiration and methodologies from these varying worlds - from critical cartography to urban media archaeology and media art to creative technology - we will embark on understanding *what mapping means*, *what mapping does*, and *what our role as cartographic outsiders is in shaping spatial thinking*. Taking the lessons from David, Rob, and Jenny, we will practice paying attention through intentional (small) data collection and mapping efforts. Drawing inspiration from scholars like Shannon and Jeremy, we will practice researching and writing about *things* - their form, their materiality, their histories, and their geographies, and their politics. Taken together, we will practice our skills as researchers and makers of spatial media. 
 
+For many of you this will be the first time exercising these ways of thinking and making -- *breathe*, everyone started somewhere. 
+
 
 ## Mapping Urban Media
 
@@ -67,6 +69,9 @@ Some urban media that would be fair game:
 * Cracks in the sidewalk
 * Empty tree beds (Joey will be doing this!)
 * Graffiti
+* Trash bins
+* Subway Entrances
+* Bodegas
 
 Notice how these are all things that you might encounter every day on your commutes, on walks to the grocery store, in Google Streetview, or while walking your dog. 
 
@@ -87,7 +92,7 @@ A successful project will:
 2. **Educate your peers**
    - **Quality**: Did you make enough effort to synthesize and summarize your work such that others can engage with your focal point?
    - **Understanding**: Were you able to successfully synthesize and summarize your findings? 
-   - **Application**: Were you able to create, collect, and make sense of materials - in the form of your projects and primary and secondary research - in coherent and appropriate manner?
+   - **Application**: Were you able to create, collect, and make sense of materials - in the form of your projects and primary and secondary research - in coherent and appropriate manner? How well were you able to employ the [Implosion Methodology](https://journal.culanth.org/index.php/ca/article/view/ca29.2.09/301) to understand your subject.
 3. **Surprise and delight**
    - **Quality**: Did you make an effort to prepare your materials in a manner that expresses care for how your peers and audience will experience your research?
    - **Understanding**: Did you engage with your focal point enough to arrive at potentially new perspectives? 
@@ -107,7 +112,7 @@ NOTE: Given the need for remote class work and social-isolation during the coron
 
 * Week 1: 
   * Begin data collection: mapping an element of urban media
-  * Begin your [urban media archaeology](https://en.wikipedia.org/wiki/Media_archaeology) →  
+  * Begin applying the [Implosion Methodology](https://journal.culanth.org/index.php/ca/article/view/ca29.2.09/301) to your subject →  
 * Week 2: 
   * Create a web map which displays the data you've been collecting
   * Continue your media research and 
