@@ -107,6 +107,8 @@ In this step, your goal is to go through 14 dimensions of researching a subject 
  
 You will share the results of your "implosion" in your weekly blog post as described in the next step.
 
+You can use the [Implosion Project Template](templates/implosion-method-template.md) to try to answer as many questions as possible.
+
 <!-- As with any research, it is time to do some reading, watching, and digging. 
 1. To start, try doing a web search (in your preferred search engine) and seeing what comes up with you put in, for example: "New York city bus stop" or "Hong Kong protest sites" or "Chile public space." You might append additional search terms like: "geography of" or "history of" or "analysis of" etc. 
 2. Another starting point would be to examine the academic literature. You can search popular academic article search engines such as (note you will have to VPN into NYU or sign in to your account):

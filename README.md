@@ -5,7 +5,6 @@
 [**Link to the course listing**<br> **Category**: 2 Point, All, Elective<br>
 **Tags**: maps, geospatial, geography, data, cartography <br>](https://itp.nyu.edu/registration/CourseInfo.php?course_id=1633)
 
-**work in progress - plz ignore**
 
 ## COURSE WEBSITE
 
@@ -40,10 +39,14 @@ Office hours are by appointment. Please see the office hour offerings. You are a
 
 | Info | Details | 
 | :---  | ---   | 
-| Office Hours    | [4-5pm, TUE & THUR By Appointment](https://calendar.google.com/calendar/selfsched?sstoken=UU9QS0R3c3cybXB4fGRlZmF1bHR8OWY1YWExODk4YTc3YTNkMjM5MDg4ZTIxMmE3OTY5MjM) |
+| Office Hours    | [4-5pm, TUE & THUR && By Appointment](https://calendar.google.com/calendar/selfsched?sstoken=UU9QS0R3c3cybXB4fGRlZmF1bHR8OWY1YWExODk4YTc3YTNkMjM5MDg4ZTIxMmE3OTY5MjM) |
 | Location | <s>ITP FLOOR or ITP RESIDENT'S OFFICE </s> via Zoom or Google Hangouts |
 
 * NOTE: If you can't make those times, please send me an email and we can chat at another time or via video conference.
+
+### COMMUNICATION
+
+Hey! We're on [Discord](https://discord.gg/Xsb2pRC). This will be the place for any informal chatter and Q&A. Please sign up and tune in!
 
 ## CODE OF CONDUCT
 
