@@ -139,6 +139,7 @@ As part of your week 1 documentation you will submit the following:
    3. **Clearly shows that you have started to collect data about your subject**. e.g. "In 1 week, I have collected 60 street tree locations. Here is a screenshot of my progress..."
    4. **Clearly shows that you have begin your research using the Implosion Method as described in step 5**
 
+Be sure to note any questions you may have about terminology that you've come across, any concepts that seem confusing, or any technical issues you've encountered. 
 <!-- 
 While you're documenting, it is worth thinking about:
 * **Articulates at least 3 questions or reflections about**:
