@@ -6,7 +6,7 @@
 
 ## SLIDES & NOTES
 * ↳ [Link to Week 1 Slides]()
-* ↳ [Link to Notes]()
+* ↳ [Link to Notes](https://docs.google.com/document/d/1Eh7NamHQQ8GW5zhG6vMBfZKNen9LYZduoy5Tl7ETjPA/edit?usp=sharing)
 
 ## ABOUT
 

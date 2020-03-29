@@ -6,8 +6,7 @@
   - [Situating Streetview](#situating-streetview)
     - [Choosing a subject](#choosing-a-subject)
   - [Overview](#overview)
-    - [Option 1: Field Work](#option-1-field-work)
-    - [Option 2: Remote Sensing](#option-2-remote-sensing)
+    - [Streetview Mapping](#streetview-mapping)
   - [Requirements](#requirements)
   - [Ready?! Go to Assignment #1](#ready-go-to-assignment-1)
   - [References](#references)
@@ -81,8 +80,6 @@ Some examples that might be interesting to explore:
 
 ## Overview
 
-<s>There are **two options** for structuring your urban media mapping project, one that is more "field work" based and the other that is more "remote sensing" based. Both options will require you to *pay attention* to some kind of urban phenomenon. Both options will challenge you to dig deep into the *processes, histories, and politics* that have shaped your focal point. </s>
-
 For your projects this semester, you will be exploring a subject of interest through the lens of Google Streetview and other geospatial data. In exploring Streetview, each of you will focus on **one** aspect as seen through Streetview. The project will challenge you to dig deep into the *processes, histories, and politics* that have shaped your subject of interest as well as prompt you to question the ways in which Google Streetview shapes what you can know about your subject of interest.
 
 NOTE: I acknowledge that Streetview does place a number of constraints on our mapping abilities and offers a very specific lens of *seeing*, however, those constraints and lenses are also opportunities for practicing important data awarenesses such as understanding sampling bias, temporal bias, data licensing and so on.
@@ -103,68 +100,35 @@ A successful project will:
 
 These three criteria for evaluation should help inform you along the way. Please make sure to refer back to this through out the duration of the project. 
 
-<s>Below are the two options/tracks for project development:</s>
 Below you will find a general schedule for the final project development:
 
-<s>
-### Option 1: Field Work
-
-NOTE: Given the need for remote class work and social-isolation during the coronavirus pandemic we may rework the mechanisms and methods of "data collection." As your instructor, I cannot in good conscience or by mandate of the University assign work that would otherwise endanger you. Therefore, please see **option 2**.
-
-**Option 1** is your "field work" option/track. In this option you will do data collection by directly mapping your selected urban media in-person, out in the world. 
-
-* Week 1: 
-  * Begin data collection: mapping an element of urban media
-  * Begin applying the [Implosion Methodology](https://journal.culanth.org/index.php/ca/article/view/ca29.2.09/301) to your subject →  
-* Week 2: 
-  * Create a web map which displays the data you've been collecting
-  * Continue your media research and 
-  * Continue data collection → 
-* Week 3: 
-  * Begin looking at other ways of understanding the spatial context of your urban media through spatial abstraction and/or supplemental data, 
-  * Continue your media research and 
-  * Continue data collection → 
-* Week 4:
-  * Use aerial imagery and streetview imagery to work through 
-  * Continue your media research and 
-  * Continue data collection → 
-* Week 5:
-  * Build a narrative that orients us physically in space
-  * Continue your media research and 
-  * Conclude data collection →
-* Week 6:
-  * Document and synthesize your "urban media" mapping for submission.
-  * Teach your classmates something new.  
-</s>
-
-
-### Option 2: Remote Sensing
+### Streetview Mapping
 
 NOTE: Given the need for remote class work and social-isolation during the coronavirus pandemic we may rework the mechanisms and methods of "data collection." As your instructor, I cannot in good conscience or by mandate of the University assign work that would otherwise endanger you. 
 
 **Option 2** is our "remote sensing" option/track. In this option you will do data collection remotely by mapping your selected urban media using secondary sources such as found data, images, videos, and 3rd-party APIs and services. 
 
 * Week 1: 
-  * Begin data collection: mapping an element of urban media using aerial imagery and street view
-  * begin your [urban media archaeology](https://en.wikipedia.org/wiki/Media_archaeology) →  
+  * Begin data collection: start your "savenger hunt"
+  * Begin your subject research →
 * Week 2: 
   * Create a web map which displays the data you've been collecting
-  * Continue your media research and 
+  * Continue your subject research and 
   * Continue data collection → 
 * Week 3: 
   * Begin looking at other ways of understanding the spatial context of your urban media through spatial abstraction and/or supplemental data, 
-  * Continue your media research and 
+  * Continue your subject research and 
   * Continue data collection → 
 * Week 4:
   * Use aerial imagery and streetview imagery to work through 
-  * Continue your media research and 
+  * Continue your subject research and 
   * Continue data collection → 
 * Week 5:
   * Build a narrative that orients us physically in space
-  * Continue your media research and 
+  * Continue your subject research and 
   * Conclude data collection →
 * Week 6:
-  * Document and synthesize your "urban media" mapping for submission.
+  * Document and synthesize your mapping and research for submission.
   * Teach your classmates something new. 
 
 ## Requirements

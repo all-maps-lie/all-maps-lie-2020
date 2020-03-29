@@ -6,9 +6,14 @@
 **Tags**: maps, geospatial, geography, data, cartography <br>](https://itp.nyu.edu/registration/CourseInfo.php?course_id=1633)
 
 
-## COURSE WEBSITE
+## COURSE WEBSITE & QUICK LINKS
 
-[All Maps Lie Course Website - 2020](https://all-maps-lie-2020.netlify.com/#/) - Hosted by Netlify
+* Course Website:
+  * [All Maps Lie Course Website - 2020](https://all-maps-lie-2020.netlify.com/#/) - Hosted by Netlify
+* Github Repo:
+  * [All Maps Lie Course Github Repo - 2020](https://github.com/all-maps-lie/all-maps-lie-2020)
+  * [All Maps Lie Course Github Issues - 2020](https://github.com/all-maps-lie/all-maps-lie-2020/issues)
+  * [All Maps Lie Course Github Wiki - 2020](https://github.com/all-maps-lie/all-maps-lie-2020/wiki)
 
 ## COURSE DESCRIPTION
 
@@ -47,6 +52,31 @@ Office hours are by appointment. Please see the office hour offerings. You are a
 ### COMMUNICATION
 
 Hey! We're on [Discord](https://discord.gg/Xsb2pRC). This will be the place for any informal chatter and Q&A. Please sign up and tune in!
+
+To my students: Please jump into your group's respective channels!
+* Block 1
+  * Group A: Paper Town
+    * Max
+    * Ji
+    * Caleb
+    * Paulami
+  * Group B: Bermuda Triangle
+    * Winnie
+    * Emma
+    * Julian
+    * Ruixian
+* Block 2
+  * Group C: Null Island
+    * Guillermo
+    * Sydney
+    * Monni
+    * Martin
+  * Group D: Mind Map
+    * Karina
+    * Tirta
+    * Tianxu
+    * Pablo
+
 
 ## CODE OF CONDUCT
 
