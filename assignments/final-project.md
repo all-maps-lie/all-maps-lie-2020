@@ -15,6 +15,8 @@
 
 ## Brief
 
+![Streetview glitch in Paris](../assets/images/final-project-brief--01.png)
+
 Your final project for this course starts now, at week 1. Everything that you do in this course - every assignment and reading - will be in service of shaping a final, cohesive work. The course project for this 7-week semester is themed: *Situating Streeview*.
 
 There will be a total of 6 assignments this semester that are designed to help you generate the touch points of your final work. Each of the assignments are designed to help you unpack what it means to be *situating streetview*. 
@@ -61,6 +63,9 @@ For many of you this will be the first time exercising these ways of thinking an
 *Situating Streetview* is about 2 simultaneous endeavors. The first endeavor is this project is an exploration of one subject as seen from Google's Streetview service. By mapping a subject through Streetview, you will embark on a research process to learn as much about that subject as possible. The second endeavor is an exploration of Google's Streetview itself. 
 
 ### Choosing a subject
+
+![Streetview shoes](../assets/images/final-project-brief--02.png)
+
 What you decide to map is up to you. It can be any kind of artifact - natural or built, human or nonhuman - that is viewable through Streetview. The key constraint here is that **you must be able to take snapshots of/document individual instances** of your subject interest through Streetview. 
 
 Some examples that might be interesting to explore:
@@ -120,11 +125,11 @@ NOTE: Given the need for remote class work and social-isolation during the coron
   * Continue your subject research and 
   * Continue data collection → 
 * Week 4:
-  * Use aerial imagery and streetview imagery to work through 
+  * Geospatial APIs - geocoding, routing, and more
   * Continue your subject research and 
   * Continue data collection → 
 * Week 5:
-  * Build a narrative that orients us physically in space
+  * Aerial imagery exploration
   * Continue your subject research and 
   * Conclude data collection →
 * Week 6:
