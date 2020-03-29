@@ -24,6 +24,7 @@
     - [READINGS](#readings-6)
     - [WORKS CITED](#works-cited-6)
   - [UNSORTED](#unsorted)
+  - [Geo Conferences & talks:](#geo-conferences--talks)
   - [General References](#general-references)
   - [Technical References](#technical-references)
   - [My Geo Stack](#my-geo-stack)
@@ -38,6 +39,7 @@
 
 * Required:
   * Setting the stage:
+    * [Feminism and Geographic Information Systems: From  a  Missing  Object  to  a  Mapping  Subject](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1749-8198.2007.00028.x)
     * [Gaps in the Map: The Topologies of Cartography, S. Mattern, 2015](http://wordsinspace.net/shannon/2015/09/18/gaps-in-the-map-why-were-mapping-everything-and-why-not-everything-can-or-should-be-mapped/)
     * [Writing the Implosion: Teaching the World One Thing at a Time - section: Implosion Project](https://journal.culanth.org/index.php/ca/article/view/ca29.2.09/301)
   * Introduction to critical mapping: 
@@ -261,6 +263,18 @@ There's so much we didn't get to discuss in this class, but I hope the course wa
 ***
 ***
 ***
+
+## Geo Conferences & talks:
+* FOSS4G: 
+  * All: 
+    * https://vimeo.com/foss4g/videos
+  * Selected:
+    * [How Simplicity Will Save GIS - Vladimir Agafonkin](https://vimeo.com/106112939)
+* State of the Map:
+  * All:
+    * https://www.youtube.com/channel/UCLqJsr_5PfdvDFbgv1qp2aQ/videos
+  * Selected:
+    * ...
 
 ## General References
 

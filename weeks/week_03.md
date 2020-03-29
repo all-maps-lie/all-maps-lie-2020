@@ -1,4 +1,4 @@
-# Week 3: Maps as Media
+# Week 3: Reading & Writing Space
 
 > Maps are not representational by “processual” - that is they emerge on through practices and not through definitions - (Kitchen & dodge 2007)
 >
@@ -17,7 +17,7 @@ This week we will focus on spatial abstraction and how we can use and abuse diff
 
 ## TABLE OF CONTENTS
 
-- [Week 3: Maps as Media](#week-3-maps-as-media)
+- [Week 3: Reading & Writing Space](#week-3-reading--writing-space)
   - [SLIDES](#slides)
   - [ABOUT](#about)
   - [TABLE OF CONTENTS](#table-of-contents)

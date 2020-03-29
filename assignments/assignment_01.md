@@ -1,12 +1,12 @@
-# A1: Paying Attention
+# A1: Scavenger Hunt
 
-- [A1: Paying Attention](#a1-paying-attention)
+- [A1: Scavenger Hunt](#a1-scavenger-hunt)
   - [Brief:](#brief)
   - [Readings](#readings)
   - [Requirements](#requirements)
     - [Part 1: Selecting a Subject](#part-1-selecting-a-subject)
     - [Part 2: Begin - Observation](#part-2-begin---observation)
-    - [Part 3: Export a GeoJSON of your findings and plot them on a map.](#part-3-export-a-geojson-of-your-findings-and-plot-them-on-a-map)
+    - [Part 3: Export a GeoJSON of your findings.](#part-3-export-a-geojson-of-your-findings)
     - [Part 4: Begin Research](#part-4-begin-research)
     - [Part 5: Documentation](#part-5-documentation)
   - [Submission](#submission)
@@ -15,7 +15,7 @@
 
 <s>This week your assignment is to begin observing the environment using your location-enabled cameraphone. Your task will be to **define ONE subject/phenomenon of interest** and catalog it with photographs, the accompanying geo-metadata that is created with that image, and any additional observational annotations. This practice will continue throughout the duration of the course; the data you collect will be central to grounding the theoretical and practical aspects of this course.</s>
 
-This week your assignment is to begin observing the environment using @joeyklee's [Streetview Mapper](https://streetview-mapper.org) - a web app that allows you to explore Google Streetview and map what you see to a shared public database. Your task will be to **define ONE subject/phenomenon of interest** and catalog it with the Streetview Mapper and add descriptions to your findings. This practice will continue throughout the duration of the course; the data you collect will be central to grounding the theoretical and practical aspects of this course.
+This week your assignment is to begin observing the environment using @joeyklee's [Streetview Mapper](https://streetview-mapper.org) - a web app that allows you to explore Google Streetview and map what you see to a shared public database. Your task will be to **define ONE subject/phenomenon of interest** and catalog it with the Streetview Mapper and **add hashtags** and **descriptions** to your findings. This practice will continue throughout the duration of the course; the data you collect will be central to grounding the theoretical and practical aspects of this course.
 
 The point of this observational experiment is to train you to focus your attention. Throughout the course, you will be challenged to simultaneously observe and unpack your subject's varying characteristics and qualities and, more interestingly, the subject's history, politics, and geography.
 
@@ -42,7 +42,7 @@ Choose a subject to observe and write about it.
 Methodological considerations:
 * [Paying attention guide](../guides/paying-attention-guide.md)
 
-Some recommendations:
+Some ideas:
 * Stolen bikes or evidence of stolen bikes
 * Broken sidewalk infrastructure
 * LinkNYC Booths
@@ -50,6 +50,19 @@ Some recommendations:
 * Telephone Poles
 * Vegetation
 * Street-side trash bins
+* Fire hydrants
+* Manhole covers
+* Shop signs 
+* Link NYC kiosks
+* Bus Shelters
+* Street Trees
+* Security Cameras
+* Empty tree beds
+* Graffiti
+* Trash bins
+* Subway Entrances
+* Bodegas
+* People's Clothes
 
 ### Part 2: Begin - Observation
 
@@ -58,13 +71,16 @@ Define a method for your observations and begin data collection.
 It is important that in this step you do 2 things:
 1. Define your rules on what is considered "valid" data (e.g. If we're collecting data about street-side trash bins, do recycling bins also count?)
 2. Be systematic about your data collection. Collecting data willy-nilly is a terrible way to approach this work. You will need to consider the **spatial distribution** of your subject of interest - e.g. it probably doesnt make sense to map storefront signage in residential suburbs. One approach would be to define a neighborhood to start in and systematically approach your collection street-by-street. 
+3. Your data must have at least:
+   1. one `#hashtag` that will make your project identifiable. Preferably additional hash tags would be added.
+   2. a description of what you have mapped.
 
 <!-- 
 Methodological considerations:
 * [Cameraphone guide](../guides/camera-phone-guide.md) -->
 
 
-### Part 3: Export a GeoJSON of your findings and plot them on a map.
+### Part 3: Export a GeoJSON of your findings.
 
 In the Streetview Mapper, navigate to the [Dashboard](https://streetview-mapper.org/dashboard). There you can see all of the locations you've saved to the database. 
 
@@ -89,12 +105,12 @@ By now you will have spent some time exploring Streetview and observing instance
 
 You will use the [Implosion Methodology](https://journal.culanth.org/index.php/ca/article/view/ca29.2.09/301) to create a "map" - not the geographic kind, but a conceptual one - of the dimensions of your subject. 
 
-In this step, your goal is to go through 14 dimensions of researching a subject to help answer *How Is the World in “It” and How Is “It” in the World?*. You will try your best to answer the questions associated with each of these dimensions as articulated in the [Implosion Methodology Article](https://journal.culanth.org/index.php/ca/article/view/ca29.2.09/301). Try to limit this to a maximum of 2hrs. The point here is that this will provide you with a valuable framework for knowing what you know, acknowledging what you do not, and providing a roadmap for what you might discover throughout the process of mapping:
+In this step, your goal is to go through 14 dimensions of researching a subject to help answer *How Is the World in “It” and How Is “It” in the World?*. You will try your best to answer the questions associated with each of these dimensions as articulated in the [Implosion Methodology Article](https://journal.culanth.org/index.php/ca/article/view/ca29.2.09/301). Try to limit this to a maximum of 1hr. The point here is that this will provide you with a valuable framework for knowing what you know, acknowledging what you do not, and providing a roadmap for what you might discover throughout the process of mapping:
 * Labor dimensions
 * Professional/Epistemological dimensions
 * Material dimensions
 * Technological dimension
-* Context and situatednes
+* Context and situatedness
 * Political dimensions
 * Economic dimensions
 * Textual dimensions

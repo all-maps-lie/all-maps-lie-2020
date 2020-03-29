@@ -18,9 +18,9 @@
 > 
 > “If the theoretical critique cleared conceptual space for alternative mappings it has fallen to a variety of practices, most of them outside of the academy… 2 developments are especially notable: artistic appropriations of mapping and the storming success of map hacking, mashups, and the geospatial web” - Crampton (2010)
 
-## SLIDES
+## SLIDES & NOTES
 * ↳ [Link to Week 1 Slides]()
-
+* ↳ [Link to Notes]()
 
 ## ABOUT
 
@@ -33,7 +33,7 @@ This week we will focus on "paying attention" through environmental observations
 ## TABLE OF CONTENTS
 
 - [Week 1: Everything is Spatial](#week-1-everything-is-spatial)
-  - [SLIDES](#slides)
+  - [SLIDES & NOTES](#slides--notes)
   - [ABOUT](#about)
   - [TABLE OF CONTENTS](#table-of-contents)
   - [EXERCISES TO DO BEFORE CLASS](#exercises-to-do-before-class)
@@ -113,14 +113,25 @@ You may choose to work in groups IF you'd like (no more than 2 per group), howev
 
 ### Course Introduction
 
-* Situating "mapping"
+<!-- We will be exploring the following concepts in today's class:
+* Key concepts:
+  * "Situated Knowledges"
+  * Production of Space
+* We will ask:
+  * What is a map? who maps? and to what end?
+* We will see exampples of:
+    * Reference maps
+    * Thematic maps -->
+
+
+<!-- * Situating "mapping"
   * Who maps? 
   * What is being mapped? 
   * and to what ends?
 * Situating our approach: Artists shaping (and being shaped by) spatial media
   * Why are we are mapping?
   * What will we be mapping?
-  * How will we be mapping?
+  * How will we be mapping? -->
 
 
 ## REFERENCES

@@ -1,9 +1,10 @@
-# Assignment 00: Course Project - *Mapping Urban Media*
+# Course Project - *Situating Streetview*
 
-- [Assignment 00: Course Project - *Mapping Urban Media*](#assignment-00-course-project---mapping-urban-media)
+- [Course Project - *Situating Streetview*](#course-project---situating-streetview)
   - [Brief](#brief)
   - [Background](#background)
-  - [Mapping Urban Media](#mapping-urban-media)
+  - [Situating Streetview](#situating-streetview)
+    - [Choosing a subject](#choosing-a-subject)
   - [Overview](#overview)
     - [Option 1: Field Work](#option-1-field-work)
     - [Option 2: Remote Sensing](#option-2-remote-sensing)
@@ -11,17 +12,25 @@
   - [Ready?! Go to Assignment #1](#ready-go-to-assignment-1)
   - [References](#references)
   - [FAQ](#faq)
-    - [Can I change my selected urban media focus after week 1?](#can-i-change-my-selected-urban-media-focus-after-week-1)
+    - [Can I change my subject focus after week 1?](#can-i-change-my-subject-focus-after-week-1)
 
 ## Brief
 
-Your final project for this course starts now, at week 1. Everything that you do in this course - every assignment and reading - will be in service of shaping a final, cohesive work. The course project for this 7-week semester is themed: *Mapping Urban Media*.
+Your final project for this course starts now, at week 1. Everything that you do in this course - every assignment and reading - will be in service of shaping a final, cohesive work. The course project for this 7-week semester is themed: *Situating Streeview*.
 
-There will be a total of 5 assignments this semester that are designed to help you generate the touch points of your final work. Each of the assignments are designed to help you unpack what it means to be *mapping urban media*. 
+There will be a total of 6 assignments this semester that are designed to help you generate the touch points of your final work. Each of the assignments are designed to help you unpack what it means to be *situating streetview*. 
 
-You will use the assignments as prompts to support what scholar Shannon Mattern calls, an **urban media archaeology** ([1](#)[2](#)). You will attempt to understand and communicate about one super specific aspect of urban media - some feature of infrastructure - and its relations to a broader geographic, environmental, political, media, and historical context. Through the process of simultaneously researching and creating work about the urban media of your choice, you will document and catalog your discoveries about *what you've come to know and understand about your urban phenomenon*. Furthermore you will help to unpack what social, cultural, political, and environmental processes and histories are/have been at play in shaping your urban media and vice versa. You will use the [Implosion Methodology](https://journal.culanth.org/index.php/ca/article/view/ca29.2.09/301) to help you to work through the multi-facetedness, non-linearness, and complexities of your media.
+You will use the assignments as prompts to support a cohesive research project about **something you can see in Google Streetview**. What you decide to map is mostly up to you, however it **must be visible from Google Streetview** (e.g. phenomena that can be seen from the street). 
 
-The result of this exercise will be the production of a body of work that uses mapping and maps and to inform your understanding the geography of your selected urban media. Upon the submission of your final work, your findings will be published as part of a [class zine](https://github.com/joeyklee/all-maps-lie-2020-zine). 
+<!-- You can think of it as deep dive into  what scholar Shannon Mattern calls, an **urban media archaeology** ([1](#)[2](#)).  -->
+
+Using a combination of data from sources such as Google Streetview and other mapping APIs you will spend the next 6 weeks on a various *mapping excursions* that will prompt varying types of mapping activities. These activities are designed to introduce new skills and, most importantly, ways of thinking. 
+
+You will use these activites, in addition to your own self-directed research, to learn about the thing you've chosen to observe and to articulate "that thing's" relationships to broader geographic, environmental, political, media, and historical contexts. 
+
+Through the process of simultaneously researching and creating work about your subject of interest, you will document and catalog your discoveries about *what you've come to know and understand about that thing*. Furthermore you will help to unpack what social, cultural, political, and environmental processes and histories are/have been at play in shaping that thing and vice versa. You will use the [Implosion Methodology](https://journal.culanth.org/index.php/ca/article/view/ca29.2.09/301) to help you to work through the multi-facetedness, non-linearness, and complexities of your subject.
+
+The result of this exercise will be the production of a body of work that uses mapping and maps and to inform your understanding the geography of your selected subject of interest. Furthermore, we will gain insights about that ways that Streetview as a medium can shape how we can understand about world. Upon the submission of your final work, your findings will be published as part of a [class zine](https://github.com/joeyklee/all-maps-lie-2020-zine). 
 
 
 ## Background
@@ -37,28 +46,25 @@ In 2017, David Hunter and his students published a project called "[Data Walking
 
 Several years earlier, Rob Walker in 2014 started asking his students to "[practice paying attention](https://medium.com/re-form/how-to-pay-attention-4751adb53cb6)." Rob was concerned about the ways in which our current media were preventing us from "seeing." In fact his practice of paying attention was even framed as a "war against seeing." To do this, he asked his students to focus on one specific element or phenomenon in his students' daily lives. Students were tasked with creating a seemingly simple prompt and following that prompt in such a way they helped them identify something that might be considered mundane or trivial. By creating self-assigned briefs to notice the world around them, students trained themselves to see things that they might have otherwise overlooked.
 
-More recently, Jenny Odell published her book [How to Nothing: Resisting the Attention Economy](https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb) in which she argues that our attention is central to our ability to form communities, extend care towards others and the environment, and to find the will/courage/energy to *do something* about the systems and structures that try to oppress, control, distract, commodify, and marginalize us. Jenny illustrates the ways in which paying attention is something that requires constant intention and practice. 
+More recently, Jenny Odell published her book [How to Nothing: Resisting the Attention Economy](https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb) in which she argues that our attention is central to our ability to form communities, to extend care towards others and the environment, and to find the will/courage/energy to *do something* about the systems and structures that try to oppress, control, distract, commodify, and marginalize us. Jenny illustrates the ways in which paying attention is something that requires constant intention and practice. 
 
-These works highlight examples of projects that in one shape or another require focusing one's attention on *some thing*, learning about that thing, and trying to center that thing in a deeper way. These examples engage critically to varying degrees with the different politics, media, and geography and offer tangible material for us to see something new or to draw previously unconnected lines in our consciousness. 
+These works prompt us to reflect on the importance of our attention and the beauty of focusing one's attention on *some thing*, learning about that thing, and trying to center that thing in a deeper way. These examples engage critically with the different politics, media, and geography and offer tangible material for us to see something new and to draw previously unconnected lines in our consciousness. 
 
-Similarly, scholars like [Shannon Mattern](http://wordsinspace.net/shannon/about/) and [Jeremy Crampton](https://www.ncl.ac.uk/apl/staff/profile/jeremycramptonnewcastleacuk.html#background) are asking questions about the world - about power, infrastructure, and politics - through the lens of different media and geographies and proposing methodologies and frameworks through which we might better understand society, culture, and space. What these more academic contributions offer is a set of conceptual frameworks and methodological tools to really unpack context, history, and the geography of the things that are interesting and important in our lives.
+Similarly, scholars like [Shannon Mattern](http://wordsinspace.net/shannon/about/) and [Jeremy Crampton](https://www.ncl.ac.uk/apl/staff/profile/jeremycramptonnewcastleacuk.html#background) are asking questions about the world - about power, infrastructure, and politics - through the lens of different media and geographies and proposing methodologies and frameworks through which we might better understand society, culture, and space. What these more academic contributions offer is a set of conceptual frameworks and methodological tools to unpack context, history, and the geography of the things that are interesting and important in our lives.
 
 Drawing inspiration and methodologies from these varying worlds - from critical cartography to urban media archaeology and media art to creative technology - we will embark on understanding *what mapping means*, *what mapping does*, and *what our role as cartographic outsiders is in shaping spatial thinking*. Taking the lessons from David, Rob, and Jenny, we will practice paying attention through intentional (small) data collection and mapping efforts. Drawing inspiration from scholars like Shannon and Jeremy, we will practice researching and writing about *things* - their form, their materiality, their histories, and their geographies, and their politics. Taken together, we will practice our skills as researchers and makers of spatial media. 
 
 For many of you this will be the first time exercising these ways of thinking and making -- *breathe*, everyone started somewhere. 
 
 
-## Mapping Urban Media
+## Situating Streetview
 
-What is *urban media*? In the context of this course and this project briefing, we can consider *urban media* as any kind of infrastructure - natural or built, static or interactive - that exists in urban space. The size of these urban media can range - e.g. fire hydrants vs. street tree vs. bus shelters vs. telephone poles - as well as the spatial scale - e.g. street level vs. block level vs. neighborhood level - that may be relevant for best understanding your selected urban media. 
+*Situating Streetview* is about 2 simultaneous endeavors. The first endeavor is this project is an exploration of one subject as seen from Google's Streetview service. By mapping a subject through Streetview, you will embark on a research process to learn as much about that subject as possible. The second endeavor is an exploration of Google's Streetview itself. 
 
-The key constraint here is that **you must be able to photograph or document individual instances** of that urban feature whether in person (with your camera phone) or remotely (e.g. aerial images, street view, or found images from the web or social media). 
+### Choosing a subject
+What you decide to map is up to you. It can be any kind of artifact - natural or built, human or nonhuman - that is viewable through Streetview. The key constraint here is that **you must be able to take snapshots of/document individual instances** of your subject interest through Streetview. 
 
-Additional constraints:
-* These media should be accessible in your daily life in one way or another.
-  * For example: **It makes sense to** map the door hinges you pass through vs. **it does not make sense to** try and map the birds in Prospect Park (unless you go birding every day).
-
-Some urban media that would be fair game:
+Some examples that might be interesting to explore:
 * Fire hydrants
 * Manhole covers
 * Shop signs 
@@ -66,21 +72,18 @@ Some urban media that would be fair game:
 * Bus Shelters
 * Street Trees
 * Security Cameras
-* Cracks in the sidewalk
-* Empty tree beds (Joey will be doing this!)
+* Empty tree beds
 * Graffiti
 * Trash bins
 * Subway Entrances
 * Bodegas
-
-Notice how these are all things that you might encounter every day on your commutes, on walks to the grocery store, in Google Streetview, or while walking your dog. 
-
+* People's Clothes
 
 ## Overview
 
 <s>There are **two options** for structuring your urban media mapping project, one that is more "field work" based and the other that is more "remote sensing" based. Both options will require you to *pay attention* to some kind of urban phenomenon. Both options will challenge you to dig deep into the *processes, histories, and politics* that have shaped your focal point. </s>
 
-For your projects this semester, you will be exploring "urban media" through the lens of Google Streetview and other geospatial data. In exploring Streetview, each of you will focus on **one** aspect of urban space. The project will challenge you to dig deep into the *processes, histories, and politics* that have shaped your subject of interest as well as prompt you to question the ways in which Google Streetview shapes what you can know about your subject of interest.
+For your projects this semester, you will be exploring a subject of interest through the lens of Google Streetview and other geospatial data. In exploring Streetview, each of you will focus on **one** aspect as seen through Streetview. The project will challenge you to dig deep into the *processes, histories, and politics* that have shaped your subject of interest as well as prompt you to question the ways in which Google Streetview shapes what you can know about your subject of interest.
 
 NOTE: I acknowledge that Streetview does place a number of constraints on our mapping abilities and offers a very specific lens of *seeing*, however, those constraints and lenses are also opportunities for practicing important data awarenesses such as understanding sampling bias, temporal bias, data licensing and so on.
 
@@ -184,8 +187,8 @@ NOTE: Given the need for remote class work and social-isolation during the coron
 
 ## FAQ
 
-### Can I change my selected urban media focus after week 1?
-+ No. You may not. The lesson here is that you can find beauty/complexity/history/fascination with almost anything and it is your challenge to discover those things and bring them to light. Something about that initial prompt intrigued you, you'll have to work through the "trough of disillusionment!"
+### Can I change my subject focus after week 1?
++ Sorry, but no! You may not. The lesson here is that you can find beauty/complexity/history/fascination with almost anything and it is your challenge to discover those things and bring them to light. Something about that initial prompt intrigued you, you'll have to work through the "trough of disillusionment!"
 
 
 

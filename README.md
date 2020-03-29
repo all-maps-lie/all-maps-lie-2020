@@ -93,8 +93,8 @@ The course is structured around **one project** described in detail here in the 
 
 | ASSIGNMENT  |  DUE DATE  | TITLE | NOTES |
 | :----         |  ----  | ---- | ---- |
-| [Final Project Brief](assignments/final-project.md) | MAR 30 - MAY 11 | Mapping Urban Media | Course Project Briefing |
-| [A1](assignments/assignment_01.md) |  APR 06   | Paying Attention | Begin Data Collection |
+| [Final Project Brief](assignments/final-project.md) | MAR 30 - MAY 11 | Situating Streetview | Course Project Briefing |
+| [A1](assignments/assignment_01.md) |  APR 06   | Scavenger Hunt | Begin Data Collection |
 | [A2](assignments/assignment_02.md) |  APR 13   | Map Mashups  | Intro to Web Maps |
 | [A3](assignments/assignment_03.md) |  APR 20   | Spatial Abstraction | (Ab)using Geospatial APIs   |
 | [A4](assignments/assignment_04.md) |  APR 27   | Locative Media | Put Yourself on the Map |
