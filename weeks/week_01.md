@@ -1,19 +1,5 @@
 # Week 1: Everything is Spatial
 
-<!-- 
-* What is a map? what can a map be?
-  * Everything is Spatial - overview of mapping, what it is/isn't, what it can be, and what it means for us in media art/design.
-  * * Setting the stage:
-  * What is a map? And Why it doesn't matter
-  * Why do we map?
-  * Who maps?
-* Course goals:
-  * To practice paying attention 
-  * To ask geographic questions 
-  * To explore spatial media
-  * To learn together
- -->
-
 > “A map does not just chart, it unlocks and formulates meaning; it forms bridges between here and there, between disparate ideas that we did not know were previously connected.” ― Reif Larsen, The Selected Works of T.S. Spivet 
 > 
 > “If the theoretical critique cleared conceptual space for alternative mappings it has fallen to a variety of practices, most of them outside of the academy… 2 developments are especially notable: artistic appropriations of mapping and the storming success of map hacking, mashups, and the geospatial web” - Crampton (2010)
@@ -88,30 +74,31 @@ Your final project for this course starts today. Everything that you do will be 
 You may choose to work in groups IF you'd like (no more than 2 per group), however, these blocks and groups are more for assigning to help create some structure of accountability between yourselves. Consider the people in your groups as your first points of contact for questions and feedback. 
 
 * Block 1
-  * Group A: Cruelty Jam
-    * First Last
-    * First Last
-    * First Last
-    * First Last
-  * Group B: Tsunami Sundae
-    * First Last
-    * First Last
-    * First Last
-    * First Last
+  * Group A: Paper Town
+    * Max
+    * Ji
+    * Caleb
+    * Paulami
+  * Group B: Bermuda Triangle
+    * Winnie
+    * Emma
+    * Julian
+    * Ruixian
 * Block 2
-  * Group C: Fist of the Raisin
-    * First Last
-    * First Last
-    * First Last
-    * First Last
-  * Group D: Rage Pancake
-    * First Last
-    * First Last
-    * First Last
-    * First Last
+  * Group C: Null Island
+    * Guillermo
+    * Sydney
+    * Monni
+    * Martin
+  * Group D: Mind Map
+    * Karina
+    * Tirta
+    * Tianxu
+    * Pablo
 
 
 ### Course Introduction
+
 
 <!-- We will be exploring the following concepts in today's class:
 * Key concepts:
@@ -148,3 +135,21 @@ You may choose to work in groups IF you'd like (no more than 2 per group), howev
 
 * ↳ [Read the Final Project Briefing](../assignments/final-project.md).
 * ↳ [Link to Assignment](../assignments/assignment_01.md).
+
+
+
+
+<!-- 
+IGNORE
+* What is a map? what can a map be?
+  * Everything is Spatial - overview of mapping, what it is/isn't, what it can be, and what it means for us in media art/design.
+  * * Setting the stage:
+  * What is a map? And Why it doesn't matter
+  * Why do we map?
+  * Who maps?
+* Course goals:
+  * To practice paying attention 
+  * To ask geographic questions 
+  * To explore spatial media
+  * To learn together
+ -->
