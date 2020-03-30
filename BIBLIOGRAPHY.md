@@ -54,37 +54,59 @@
 
 ### WORKS CITED
 
-* Joey's personal relationship with mapping in the context of media art:
-  * [Big Atlas of LA Pools (2014), Groß & Lee](https://benedikt-gross.de/projects/the-big-atlas-of-la-pools)
-  * [LA Swimmer (2014), Groß & Lee](https://benedikt-gross.de/projects/la-swimmer)
-  * [Geography of Hidden Faces (2019)](https://geo.hidden-faces.net/)
-  * [All3Words (2018), Lee](https://twitter.com/all3words)
-  * [Aerial Bold (2016), Groß & Lee](https://benedikt-gross.de/projects/the-aerial-bold-project)
-* Locative Media:
-  * [Google Maps Hacks (2020), Weckert](http://www.simonweckert.com/googlemapshacks.html)
-  * [Ammassalik Wooden Maps (1800s), Kunit](https://en.wikipedia.org/wiki/Ammassalik_wooden_maps)
-  * [Maptic (2006), Emilios Farrington-Arnas](https://emilios.co.uk/portfolio-maptic.html)
-  * [BeeLine - smart navigation](https://beeline.co/), [BeeLine Kickstarter](https://www.kickstarter.com/projects/ridebeeline/beeline-smart-navigation-for-bicycles-made-simple)
-  * [Marshall Island Stick Maps (first described to western audience in 1800s)](https://en.wikipedia.org/wiki/Marshall_Islands_stick_chart)
-  * [PathoMap, Mason et. al](http://www.pathomap.org/)
-* Alternative Views of mapping:
-  * [Everything Sings (2010), Wood](http://sigliopress.com/book/everything-sings/)
-  * [Deprocess (2006), Fry](https://www.benfry.com/deprocess/)
-  * [Aleppo in Berlin (2017), Hack](http://hanshack.com/aleppo/#modal-about)
-  * [Let’s Read a Story (2019),  Itay Niv](http://www.itayniv.com/lets-read-a-story)
-* Data Art:
-  * [Satellite Collections (2009-2011), Odell](http://www.jennyodell.com/satellite.html)
-  * [Wind Map (2012), Viegas & Wattenburg](http://hint.fm/projects/wind/ )
-  * [Racial Dot Map (2017), Cable](https://demographics.virginia.edu/DotMap/index.html)
-* Psychogeography:
-  * [Sensory Maps (2006), Mclean](https://sensorymaps.com/)
-  * [Les Deux Axes (2007), Rankin](http://www.radicalcartography.net/index.html?evil)
-  * [Subway Lines (2007),  Meaghan Kombol](https://www.meaghankombol.com/work)
-* Map Hacking:
-  * [True Size of (2007), Talmadge & Malneice](https://thetruesize.com/#/aboutModal)
-  * [Every line Ever (2014), McConchie  | OpenStreetMap (2004), OSM](https://www.openstreetmap.org/#map=11/40.7382/-73.9194)
-  * [Dronestagram (2004), Bridle](http://jamesbridle.com/works/dronestagram)
-  
+* [Big Atlas of LA Pools (2014), Groß & Lee](https://benedikt-gross.de/projects/the-big-atlas-of-la-pools)
+* [LA Swimmer (2014), Groß & Lee](https://benedikt-gross.de/projects/la-swimmer)
+* [Geography of Hidden Faces (2019)](https://geo.hidden-faces.net/)
+* [Aerial Bold (2016), Groß & Lee](https://benedikt-gross.de/projects/the-aerial-bold-project)
+* [Everything Sings (2010), Wood](http://sigliopress.com/book/everything-sings/)
+* [Satellite Collections (2009-2011), Odell](http://www.jennyodell.com/satellite.html)
+* [Every line Ever (2014), McConchie  | OpenStreetMap (2004), OSM](https://www.openstreetmap.org/#map=11/40.7382/-73.9194)
+* [Dronestagram (2004), Bridle](http://jamesbridle.com/works/dronestagram)
+* [Sensory Maps (2006), Mclean](https://sensorymaps.com/)
+* [Subway Lines (2007),  Meaghan Kombol](https://www.meaghankombol.com/work)
+* [Graphhopper Open Source](https://www.graphhopper.com/open-source/)
+* [Metrography, Benedikt Gross](https://benedikt-gross.de/projects/metrography-london-tube-map-to-large-scale-collective-mental-map)
+* [Course Webpage](https://all-maps-lie-2020.netlify.com)
+* [You Can See the Coronavirus From Space, Wired](https://www.wired.com/story/coronavirus-satellite-imagery/?mbid=social_twitter&utm_brand=wired&utm_campaign=wired&utm_medium=social&utm_social-type=owned&utm_source=twitter)
+* [Land Acknowledgement](https://native-land.ca/territory-acknowledgement/)
+* [Iterative Process Guide](https://www.smartsheet.com/iterative-process-guide)
+* [ABC: Alphabet from the Sky](https://www.penguinrandomhouse.com/books/531659/abc-the-alphabet-from-the-sky-by-benedikt-gross-and-joey-lee/)
+* [Data Walking](http://www.datawalking.com/)
+* [Desigining the post natural, Tega Brain](https://wp.nyu.edu/postnatural/)
+* [Eleanor Coppola’s, Windows, 1973](https://openspace.sfmoma.org/2013/01/receipt-of-delivery29/)
+* [NYC Bodega, Curbed](https://ny.curbed.com/2017/9/13/16301574/bodega-silicon-valley-app-new-york)
+* [Implosion Project](https://prezi.com/ifpfjskq5aws/implosion-project-landfill/)
+* [NYC Skate Spots](https://Nycskatespots.com)
+* [Center for Missed Connections, Ingrid Burrington](http://lifewinning.com/projects/center-for-missed-connections/)
+* [Pop vs. Soda, McConchie](http://popvssoda.com/)
+* [Trevor Paglen, Limit Telephotography](https://www.paglen.com/?l=work&s=limit&i=3)
+* [Inside the CIA's Black site torture room, The Guardian](https://www.theguardian.com/us-news/ng-interactive/2017/oct/09/cia-torture-black-site-enhanced-interrogation)
+* [Spies in the sky, Buzzfeed news](https://www.buzzfeednews.com/article/peteraldhous/spies-in-the-skies)
+* [Privacy Project, NYT](https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html)
+* [SubwayCableMap](https://www.submarinecablemap.com/)
+* [Subway Cable Taps, Ingrid Burrington](http://lifewinning.com/projects/submarine-cable-taps/)
+* [Simplicity will save us, Vladimir Agrofonkin](https://vimeo.com/106112939)
+* [Space as as key word](http://history-theory.blogspot.com/2009/10/space-as-key-word-david-harvey.html)
+* [Floating Sheep](http://www.floatingsheep.org/)
+* [UCLA Geographers tried to calculate Bin Laden's WWherabouts in 2009](https://www.npr.org/sections/thetwo-way/2011/05/04/135980761/ucla-geographers-tried-to-calculate-bin-ladens-whereabouts-in-2009)
+* [As Greenland Melts, Where's t he Water Going?](https://www.nytimes.com/interactive/2017/12/05/climate/greenland-ice-melting.html)
+* [Hubcab.org](http://hubcab.org/#13.00/40.7250/-73.9484)
+* [Everything Sings, Dennis Wood](http://sigliopress.com/book/everything-sings/)
+* [New Lines: Critical GIS and the Trouble of the Map](https://www.upress.umn.edu/book-division/books/new-lines)
+* [Meipo Kwan](http://meipokwan.org/)
+* [Power broker, Robert Caro](https://www.abebooks.com/Power-Broker-Robert-Moses-Fall-New/30568170759/bd?cm_mmc=ggl-_-US_Shopp_Trade-_-used-_-naa&gclid=EAIaIQobChMIpZ_G-5jB6AIVwoFaBR1AKwtbEAQYBCABEgKE3vD_BwE)
+* [How the Coastline Became a Place to Put the Poor, NYT](https://www.nytimes.com/2012/12/04/nyregion/how-new-york-citys-coastline-became-home-to-the-poor.html)
+* [The war space, Jones](https://www.thewarspace.com/the-war-lawyers)
+* [Behind the Lines in Syria, Motherjones](https://www.motherjones.com/politics/2019/06/behind-the-lines-syria-part-two/)
+* [Uber Greyball Program, NYT](https://www.nytimes.com/2017/03/03/technology/uber-greyball-program-evade-authorities.html)
+* https://www.latimes.com/environment/story/2020-03-07/uber-lyft-ride-hailing-air-pollution-greenhouse-gas-emissions
+* https://www.nationalgeographic.com/news/2016/10/propaganda-war-maps-gallery/#/11_war_map_bolshevism.jpg
+* [Antieviction mapping project](https://www.antievictionmap.com/)
+* [Housingmaps](housingmaps.com/)
+* http://www.kanarinka.com/project/iskytv/
+* http://www.kanarinka.com/project/it-takes-154000-breaths-to-evacuate-boston/
+* https://hi.stamen.com/openstreetmap-every-line-ever-every-point-ever-7d78aa0aed8e?gi=dfe5f089bd3f
+
 
 ***
 ***
@@ -261,6 +283,26 @@ There's so much we didn't get to discuss in this class, but I hope the course wa
   * [Here Be Dragons, Finding Blank Spaces in a Well-Mapped World (2017), L. Parshley](https://www.vqronline.org/essays-articles/2017/01/here-be-dragons) // on the blank spaces on the map & breaking the myth that everything has been mapped
   * [Control Earth (2016), P. Edwards](https://placesjournal.org/article/control-earth/) // on the importance of baselines
 
+  
+* [All3Words (2018), Lee](https://twitter.com/all3words)
+* Locative Media:
+  * [Google Maps Hacks (2020), Weckert](http://www.simonweckert.com/googlemapshacks.html)
+  * [Ammassalik Wooden Maps (1800s), Kunit](https://en.wikipedia.org/wiki/Ammassalik_wooden_maps)
+  * [Maptic (2006), Emilios Farrington-Arnas](https://emilios.co.uk/portfolio-maptic.html)
+  * [BeeLine - smart navigation](https://beeline.co/), [BeeLine Kickstarter](https://www.kickstarter.com/projects/ridebeeline/beeline-smart-navigation-for-bicycles-made-simple)
+  * [Marshall Island Stick Maps (first described to western audience in 1800s)](https://en.wikipedia.org/wiki/Marshall_Islands_stick_chart)
+  * [PathoMap, Mason et. al](http://www.pathomap.org/)
+* Alternative Views of mapping:
+  * [Deprocess (2006), Fry](https://www.benfry.com/deprocess/)
+  * [Aleppo in Berlin (2017), Hack](http://hanshack.com/aleppo/#modal-about)
+  * [Let’s Read a Story (2019),  Itay Niv](http://www.itayniv.com/lets-read-a-story)
+* Data Art:
+  * [Wind Map (2012), Viegas & Wattenburg](http://hint.fm/projects/wind/ )
+  * [Racial Dot Map (2017), Cable](https://demographics.virginia.edu/DotMap/index.html)
+* Psychogeography:
+  * [Les Deux Axes (2007), Rankin](http://www.radicalcartography.net/index.html?evil)
+* Map Hacking:
+  * [True Size of (2007), Talmadge & Malneice](https://thetruesize.com/#/aboutModal)
 
 ***
 ***
