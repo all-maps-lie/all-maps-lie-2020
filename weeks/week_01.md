@@ -140,8 +140,7 @@ You may choose to work in groups IF you'd like (no more than 2 per group), howev
 
 <!-- 
 
-
-<!-- We will be exploring the following concepts in today's class:
+We will be exploring the following concepts in today's class:
 * Key concepts:
   * "Situated Knowledges"
   * Production of Space
@@ -149,19 +148,20 @@ You may choose to work in groups IF you'd like (no more than 2 per group), howev
   * What is a map? who maps? and to what end?
 * We will see exampples of:
     * Reference maps
-    * Thematic maps -->
+    * Thematic maps 
 
-
-<!-- * Situating "mapping"
+* Situating "mapping"
   * Who maps? 
   * What is being mapped? 
   * and to what ends?
 * Situating our approach: Artists shaping (and being shaped by) spatial media
   * Why are we are mapping?
   * What will we be mapping?
-  * How will we be mapping? -->
-
-
+  * How will we be mapping? 
+  * 
+  * 
+* 
+* 
 IGNORE
 * What is a map? what can a map be?
   * Everything is Spatial - overview of mapping, what it is/isn't, what it can be, and what it means for us in media art/design.
@@ -174,4 +174,4 @@ IGNORE
   * To ask geographic questions 
   * To explore spatial media
   * To learn together
- -->
+-->
