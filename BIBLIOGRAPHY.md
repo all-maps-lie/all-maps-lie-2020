@@ -38,21 +38,19 @@
 ### READINGS
 
 * Required:
-  * Setting the stage:
-    * [Feminism and Geographic Information Systems: From  a  Missing  Object  to  a  Mapping  Subject](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1749-8198.2007.00028.x)
-    * [Gaps in the Map: The Topologies of Cartography, S. Mattern, 2015](http://wordsinspace.net/shannon/2015/09/18/gaps-in-the-map-why-were-mapping-everything-and-why-not-everything-can-or-should-be-mapped/)
-    * [Writing the Implosion: Teaching the World One Thing at a Time - section: Implosion Project](https://journal.culanth.org/index.php/ca/article/view/ca29.2.09/301)
   * Introduction to critical mapping: 
     * [Chapter 1: Maps — A perverse sense of the unseemly, Mapping: A Critical Introduction to Cartography and Mapping, pg. 1 - 12](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=4433111&ppg=15)
     * [Chapter 2: What is Critique?, Mapping: A Critical Introduction to Cartography and Mapping, J. Crampton (2010), pg. 13 - 24](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=4433111&ppg=27)
-* Optional: 
+    * [Chapter 3: Maps 2.0: Map mashups and New Spatial Media, pg. 25 - 39, Mapping: A Critical Introduction to Cartography and Mapping, J. Crampton (2010)](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=4433111&ppg=39) - requires NYU Login
+    * [Writing the Implosion: Teaching the World One Thing at a Time](https://journal.culanth.org/index.php/ca/article/view/ca29.2.09/301) - Just read the Introduction and the section titled, "IMPLOSION PROJECT: The Assignment"
+* Optional, but SO good: 
     * [Jenny Odell, How to do Nothing, EYEO 2017](https://vimeo.com/232544904) or the blog post version [How to Do Nothing, J. Odell](https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb)
     * [Paying Attention Guide, R. Walker](https://medium.com/re-form/how-to-pay-attention-4751adb53cb6)
     * [Data Walking, D. Hunter](http://datawalking.com/)
     * [Data Walking for Social Research, A. Powell](http://www.datawalking.org/)
     * You can either read the text [Deep Mapping the Media City](https://www.upress.umn.edu/book-division/books/deep-mapping-the-media-city) or watch the talk version [Video, ~1hr - Shannon Mattern Digital Dialogue: Strata of Sentience: Deep Mapping the Media City, 2015](https://vimeo.com/120827621)
     * [Shannon Mattern, “Ether/Ore: An Atlas of Urban Media”](https://vimeo.com/257814992)
-
+    * [Gaps in the Map: The Topologies of Cartography, S. Mattern, 2015](http://wordsinspace.net/shannon/2015/09/18/gaps-in-the-map-why-were-mapping-everything-and-why-not-everything-can-or-should-be-mapped/)
 
 ### WORKS CITED
 
@@ -99,14 +97,18 @@
 
 * Required:
   * Rethinking spatial media, maps, and mappers:
-    * [Chapter 3: Maps 2.0: Map mashups and New Spatial Media, pg. 25 - 39, Mapping: A Critical Introduction to Cartography and Mapping, J. Crampton (2010)](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=4433111&ppg=39) - requires NYU Login
     * [Chapter 4: What is critical Cartography and GIS?, pg. 39 - 49, Mapping: A Critical Introduction to Cartography and Mapping, J. Crampton (2010)](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=4433111&ppg=53) - requires NYU Login
     * [Chapter 5: How Mapping Became Scientific, pg. 49 - 62, Mapping: A Critical Introduction to Cartography and Mapping, J. Crampton (2010)](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=4433111&ppg=63)
     * [The Origins of Cartography, G. Malcolm Lewis](https://www.press.uchicago.edu/books/HOC/HOC_V1/HOC_VOLUME1_chapter3.pdf)
     * [Critiquing Maps II, S. Mattern](http://www.wordsinspace.net/wordpress/2013/09/05/critiquing-maps-ii/) // a helpful guide for map reading
-* Optional:
+    * [The Lost Art of Critical Map Reading, J. Foster](http://www.graphicarto.com/the-lost-art-of-critical-map-reading/)
+  * Methods:
+    * [What to Learn First? Pt.1 - Lyzi Diamond](https://lyzidiamond.com/posts/what-to-learn-first)
+    * [What to Learn First? Pt.2 - Lyzi Diamond](https://lyzidiamond.com/posts/what-to-learn-first-pt-2)
+    * [How Simplicity Will Save GIS - Vladimir Agafonkin](https://vimeo.com/106112939)
+* Optional, but so good:
+  * [Feminism and Geographic Information Systems: From  a  Missing  Object  to  a  Mapping  Subject](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1749-8198.2007.00028.x)
   * [The Map and the Development of the History of Cartography, J.B. Harley](https://www.press.uchicago.edu/books/HOC/HOC_V1/HOC_VOLUME1_chapter1.pdf)
-  * [The Lost Art of Critical Map Reading, J. Foster](http://www.graphicarto.com/the-lost-art-of-critical-map-reading/)
   * [Views on Digital Maps and Open Data, H. Jo](https://medium.com/seoul-libre-maps/views-on-digital-maps-and-open-data-f225afc81412)
 
 ### WORKS CITED

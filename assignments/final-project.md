@@ -134,6 +134,7 @@ NOTE: Given the need for remote class work and social-isolation during the coron
   * Conclude data collection →
 * Week 6:
   * Document and synthesize your mapping and research for submission.
+* Week 7:
   * Teach your classmates something new. 
 
 ## Requirements

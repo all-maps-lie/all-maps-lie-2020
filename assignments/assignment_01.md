@@ -1,8 +1,9 @@
 # A1: Scavenger Hunt
 
 - [A1: Scavenger Hunt](#a1-scavenger-hunt)
-  - [Brief:](#brief)
-  - [Readings](#readings)
+  - [PREREQUISITES](#prerequisites)
+  - [READINGS](#readings)
+  - [BRIEF](#brief)
   - [Requirements](#requirements)
     - [Part 1: Selecting a Subject](#part-1-selecting-a-subject)
     - [Part 2: Begin - Observation](#part-2-begin---observation)
@@ -11,9 +12,15 @@
     - [Part 5: Documentation](#part-5-documentation)
   - [Submission](#submission)
 
-## Brief:
+## PREREQUISITES
 
-<s>This week your assignment is to begin observing the environment using your location-enabled cameraphone. Your task will be to **define ONE subject/phenomenon of interest** and catalog it with photographs, the accompanying geo-metadata that is created with that image, and any additional observational annotations. This practice will continue throughout the duration of the course; the data you collect will be central to grounding the theoretical and practical aspects of this course.</s>
+Before you continue, read the [final project briefing](final-project.md). 🙏
+
+## READINGS
+
+* See: [Week 1 - Readings](../BIBLIOGRAPHY.md#week-01-everything-is-spatial)
+
+## BRIEF
 
 This week your assignment is to begin observing the environment using @joeyklee's [Streetview Mapper](https://streetview-mapper.org) - a web app that allows you to explore Google Streetview and map what you see to a shared public database. Your task will be to **define ONE subject/phenomenon of interest** and catalog it with the Streetview Mapper and **add hashtags** and **descriptions** to your findings. This practice will continue throughout the duration of the course; the data you collect will be central to grounding the theoretical and practical aspects of this course.
 
@@ -29,18 +36,11 @@ This week, your task is to choose one subject/phenomenon of interest and be meti
   * "observe" from afar - if you are particularly passionate about "remote sensing" or remote data collection - your data collection/"paying attention" may take the form of collecting imagery of a specific subject using the web or other platforms.
 
 
-## Readings
-
-* See: [Week 1 - Readings](../BIBLIOGRAPHY.md#week-01-everything-is-spatial)
-
 ## Requirements
 
 ### Part 1: Selecting a Subject
 
 Choose a subject to observe and write about it. 
-
-Methodological considerations:
-* [Paying attention guide](../guides/paying-attention-guide.md)
 
 Some ideas:
 * Stolen bikes or evidence of stolen bikes
@@ -64,20 +64,19 @@ Some ideas:
 * Bodegas
 * People's Clothes
 
+Some methodological considerations:
+* [Paying attention guide](../guides/paying-attention-guide.md)
+
 ### Part 2: Begin - Observation
 
 Define a method for your observations and begin data collection. 
 
-It is important that in this step you do 2 things:
+It is important that in this step you do THREE things:
 1. Define your rules on what is considered "valid" data (e.g. If we're collecting data about street-side trash bins, do recycling bins also count?)
-2. Be systematic about your data collection. Collecting data willy-nilly is a terrible way to approach this work. You will need to consider the **spatial distribution** of your subject of interest - e.g. it probably doesnt make sense to map storefront signage in residential suburbs. One approach would be to define a neighborhood to start in and systematically approach your collection street-by-street. 
+2. Be meticulous about your data collection. Collecting data willy-nilly is one approach, just be meticulous about your "willy-nilly-ness". You can also consider more systematic approaches. You will need to consider the **spatial distribution** of your subject of interest - e.g. it probably doesnt make sense to map storefront signage in residential suburbs. One approach would be to define a neighborhood to start in and systematically approach your collection street-by-street. 
 3. Your data must have at least:
-   1. one `#hashtag` that will make your project identifiable. Preferably additional hash tags would be added.
-   2. a description of what you have mapped.
-
-<!-- 
-Methodological considerations:
-* [Cameraphone guide](../guides/camera-phone-guide.md) -->
+   1. One `#hashtag` that will make your project identifiable. Preferably additional hash tags would be added. This is what you'll use to filter through your data collections later on so make sure to tag your images!
+   2. A description of what you have mapped. In case you have observations worth sharing, describe what you're seeing.
 
 
 ### Part 3: Export a GeoJSON of your findings.
@@ -91,13 +90,6 @@ Here you will do 2 things:
 **Optional**:
 You can plot them onto [GeoJSON.io](http://geojson.io/#map=2/20.0/0.0) by simply *dragging and dropping* your newly created `streetview-mapper__TIMESTAMP.geojson` file into the GeoJSON.io website. Notice in the **right panel** you can see what your data looks like. Particularly of interest are the properties of the geojson that separate the **geometry** from the **properties** of each **feature**.
 
-<!-- 
-Create a spatial dataset, specifically a `geojson` file from your images. Open that geojson file in [geojson.io](http://geojson.io/), a web service that allows you to easily view and make geospatial data, to visualize your data.
-
-* **Automated** process: Ideally you can automate this process by using [img2meta](https://github.com/joeyklee/img2meta) to create a `.geojson` dataset from a folder of images (use the `true` flag). With the `img_metadata.geojson` you can drag-and-drop it into [geojson.io](http://geojson.io/).
-* **Manual** process: Otherwise, there are analog methods for retrieving the metadata from your images as seen in [How to See an Image’s EXIF Data in Windows and macOS, How-To Geek](https://www.howtogeek.com/289712/how-to-see-an-images-exif-data-in-windows-and-macos/) in which you can create a `.csv` file or spreadsheet where you can manually create your data. Notes on structuring your spreadsheet data as a CSV and converting it to geojson can be found in the [CSV to GeoJSON Guide](../guides/csv-to-geojson-guide.md). 
-
--->
 
 ### Part 4: Begin Research
 
@@ -125,6 +117,39 @@ You will share the results of your "implosion" in your weekly blog post as descr
 
 You can use the [Implosion Project Template](templates/implosion-method-template.md) to try to answer as many questions as possible.
 
+
+### Part 5: Documentation
+
+As part of your week 1 documentation you will submit the following:
+1. A blog post that:
+   1. **Clearly introduces the subject of urban media you will be studying**: e.g. "For my project, I will be focusing my attention on **street trees**. I define street trees as being..."
+   2. **Clearly explains your methodology for data collection**: e.g. "I will be collecting data about **street trees** using Google Streetview. As part of the data collection on **street trees**, I will also collect locations where a tree bed exists but where no tree currently exists. I will start in the Park Slope neighborhood in Brooklyn, then work towards completing Crown heights, then..."
+   3. **Clearly shows that you have started to collect data about your subject**. e.g. "In 1 week, I have collected 60 street tree locations. Here is a screenshot of my progress..."
+   4. **Clearly shows that you have begin your research using the Implosion Method as described in step 5**
+
+Be sure to note any questions you may have about terminology that you've come across, any concepts that seem confusing, or any technical issues you've encountered. 
+
+
+## Submission
+
+You will submit a link to your blog post to the link below, specifying which assignment you are submitting:
+
+↳ 💌 [Google Form Assignment Submission](https://forms.gle/1tAfHZXEejZDubHg9)
+
+
+
+<!-- 
+* Paying Attention: collect data about 1 thing - use your camera phone to collect spatial imagery, organize, annotate, tag, and reflect on what you're seeing. ==> studio time for collecting coordinates.
+ -->
+
+<!-- 
+*   * A1: Paying Attention - assignment is about paying attention: defining a phenomenon to map and observe, learn about, investigate, and report on.
+    * this can be remotely done using aerial images 
+    * or physically based (preferred)
+* collect data about 1 thing - use your camera phone to collect spatial imagery, organize, annotate, tag, and reflect on what you're seeing. ==> studio time for collecting coordinates. 
+* -->
+
+
 <!-- As with any research, it is time to do some reading, watching, and digging. 
 1. To start, try doing a web search (in your preferred search engine) and seeing what comes up with you put in, for example: "New York city bus stop" or "Hong Kong protest sites" or "Chile public space." You might append additional search terms like: "geography of" or "history of" or "analysis of" etc. 
 2. Another starting point would be to examine the academic literature. You can search popular academic article search engines such as (note you will have to VPN into NYU or sign in to your account):
@@ -148,16 +173,6 @@ Additional Methodological considerations:
 * [Googleform guide](../guids/../guides/google-form-guide.md) 
 -->
 
-### Part 5: Documentation
-
-As part of your week 1 documentation you will submit the following:
-1. A blog post that:
-   1. **Clearly introduces the subject of urban media you will be studying**: e.g. "For my project, I will be focusing my attention on **street trees**. I define street trees as being..."
-   2. **Clearly explains your methodology for data collection**: e.g. "I will be collecting data about **street trees** using Google Streetview. As part of the data collection on **street trees**, I will also collect locations where a tree bed exists but where no tree currently exists. I will start in the Park Slope neighborhood in Brooklyn, then work towards completing Crown heights, then..."
-   3. **Clearly shows that you have started to collect data about your subject**. e.g. "In 1 week, I have collected 60 street tree locations. Here is a screenshot of my progress..."
-   4. **Clearly shows that you have begin your research using the Implosion Method as described in step 5**
-
-Be sure to note any questions you may have about terminology that you've come across, any concepts that seem confusing, or any technical issues you've encountered. 
 <!-- 
 While you're documenting, it is worth thinking about:
 * **Articulates at least 3 questions or reflections about**:
@@ -168,19 +183,11 @@ While you're documenting, it is worth thinking about:
 * -->
 
 
-## Submission
-
-You will submit a link to your blog post to the link below, specifying which assignment you are submitting:
-
-↳ 💌 [Google Form Assignment Submission](https://forms.gle/1tAfHZXEejZDubHg9)
 
 <!-- 
-* Paying Attention: collect data about 1 thing - use your camera phone to collect spatial imagery, organize, annotate, tag, and reflect on what you're seeing. ==> studio time for collecting coordinates.
- -->
+Create a spatial dataset, specifically a `geojson` file from your images. Open that geojson file in [geojson.io](http://geojson.io/), a web service that allows you to easily view and make geospatial data, to visualize your data.
 
-<!-- 
-*   * A1: Paying Attention - assignment is about paying attention: defining a phenomenon to map and observe, learn about, investigate, and report on.
-    * this can be remotely done using aerial images 
-    * or physically based (preferred)
-* collect data about 1 thing - use your camera phone to collect spatial imagery, organize, annotate, tag, and reflect on what you're seeing. ==> studio time for collecting coordinates. 
-* -->
+* **Automated** process: Ideally you can automate this process by using [img2meta](https://github.com/joeyklee/img2meta) to create a `.geojson` dataset from a folder of images (use the `true` flag). With the `img_metadata.geojson` you can drag-and-drop it into [geojson.io](http://geojson.io/).
+* **Manual** process: Otherwise, there are analog methods for retrieving the metadata from your images as seen in [How to See an Image’s EXIF Data in Windows and macOS, How-To Geek](https://www.howtogeek.com/289712/how-to-see-an-images-exif-data-in-windows-and-macos/) in which you can create a `.csv` file or spreadsheet where you can manually create your data. Notes on structuring your spreadsheet data as a CSV and converting it to geojson can be found in the [CSV to GeoJSON Guide](../guides/csv-to-geojson-guide.md). 
+
+-->

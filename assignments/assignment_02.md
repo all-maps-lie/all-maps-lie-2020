@@ -1,6 +1,23 @@
 # A2: Map Mashups
 
-## Brief:
+- [A2: Map Mashups](#a2-map-mashups)
+  - [READINGS](#readings)
+  - [BRIEF](#brief)
+  - [TECHNICAL REFERENCES](#technical-references)
+  - [Requirements](#requirements)
+    - [Part 1: Continue data collection & research](#part-1-continue-data-collection--research)
+    - [Part 2: Export your Streetview Mapper Data](#part-2-export-your-streetview-mapper-data)
+    - [Part 3: Create a web map of your streetview locations](#part-3-create-a-web-map-of-your-streetview-locations)
+    - [Part 4: Add data and interactivity to your map](#part-4-add-data-and-interactivity-to-your-map)
+    - [Part 5: Deploy your map to Glitch:](#part-5-deploy-your-map-to-glitch)
+    - [Part 6: Documentation & Organization](#part-6-documentation--organization)
+  - [Submission](#submission)
+
+## READINGS
+
+* See [Week 2 Readings](../BIBLIOGRAPHY.md#week-02-countermaps--cartographics)
+
+## BRIEF
 
 This week your assignment is to create a web map of the data you collected in you one week of data collection (see: [Assignment #1](assignments/assignment_01.md)).
 
@@ -8,11 +25,7 @@ The point here is to explore the web mapping libraries [Leaflet.js](https://leaf
 
 You are more than welcome to try using [Kepler.gl](https://kepler.gl/) to explore your data.
 
-## Readings
-
-* See [Week 2 Readings](../BIBLIOGRAPHY.md#week-02-countermaps--cartographics)
-
-## Technical References
+## TECHNICAL REFERENCES
 
 * [Technical References](../BIBLIOGRAPHY.md#technical-references)
 
