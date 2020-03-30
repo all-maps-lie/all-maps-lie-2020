@@ -65,6 +65,8 @@ For the purpose of this class, I think it is helpful to introduce some of these 
 
 Human geography is concerned with human processes. These processes include topics across a range of disciplines such as economics, demographics, political science, psychology, sociology, gender studies, queer studies, media studies, history, and more. Often times these disciplines get framed as `________` Geography such as Economic Geography, Political Geography, War Geography, Feminist Geography, and so on. 
 
+There are many disciplines within geography that are defined in greater detail here in [Dartmouth Library's | Human Geography: Defining Human Geography](https://researchguides.dartmouth.edu/human_geography/feminist)
+
 Some examples of human geographers and their work:
 * ...
 * ...
@@ -74,6 +76,8 @@ Some examples of human geographers and their work:
 ## Physical Geography
 
 Physical geography is concerned with biophysical processes. These processes include topics across a range of disciplines such as geomorphology, meteorology, climatology, biogeography, ecology, soil science, forestry, hydrology, atmospheric science, and more. To be a physical geographer often means you studied within a Geography department, learning to consider the deep importance of geography - social and physical contexts - in shaping society and space all the while focusing on some realm of the environmental sciences. 
+
+There are many disciplines within geography that are defined in greater detail here in [Dartmouth Library's | Physical Geography: Defining Physical Geography](https://researchguides.dartmouth.edu/physical_geography)
 
 Some examples of physical geographers and their work:
 * ...
