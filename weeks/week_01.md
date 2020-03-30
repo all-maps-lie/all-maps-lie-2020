@@ -5,7 +5,7 @@
 > “If the theoretical critique cleared conceptual space for alternative mappings it has fallen to a variety of practices, most of them outside of the academy… 2 developments are especially notable: artistic appropriations of mapping and the storming success of map hacking, mashups, and the geospatial web” - Crampton (2010)
 
 ## SLIDES & NOTES
-* ↳ [Link to Week 1 Slides]()
+* ↳ [Link to Week 1 Slides](https://docs.google.com/presentation/d/1-siDyOb3lswuyA8C61EDtqBf8eIw4jGAtrlGx7o3NWI/edit?usp=sharing)
 * ↳ [Link to Notes](https://docs.google.com/document/d/1Eh7NamHQQ8GW5zhG6vMBfZKNen9LYZduoy5Tl7ETjPA/edit?usp=sharing)
 
 ## ABOUT
@@ -41,9 +41,8 @@ This week we will focus on "paying attention" through environmental observations
 ## OUTCOMES & GOALS
 
 * Overview of Course Logistics
-* Introducing Critical Cartography and Mapping
-* Selecting a subject to observe
-* Defining how to pay attention
+* Final Project Overview & Discussion
+* Course Introduction
 
 ## PACING / DURATION
 
@@ -99,6 +98,47 @@ You may choose to work in groups IF you'd like (no more than 2 per group), howev
 
 ### Course Introduction
 
+* **Everything is Spatial**
+  * **Introduction**
+    * Everything has a geography.
+    * Geography is important. Geography matters. It shapes us and we shape it. How it is shaped, and who shapes it is political. 
+    * One tool for understanding geography is mapping/maps. 
+    * So what are we going to do in this class then? We’re going to do our best. We are going to do our best to learn as much as we can, to think about geography as much as we can, and think about what it means to express geography in the form of maps. 
+    * The Floating Sheep Manifesto captures how we will be approaching these ambivalencies -- and what we will come to know as the tensions -- in geography and mapping. 
+  * **Setting the Stage**
+    * A personal story of mapping and coming to know the many shades of "maps"
+    * The authority and power of maps
+    * Cartographic Securitization vs. Resistances
+    * Cartographic Silences and what comes as a result
+    * Cartographic Anxieties
+      * Disciplinary anxieties
+      * Anxieties about what maps can do
+    * A call to action for critical mapping and critique
+    * “A prismatic collection of mappings” - The Third Way
+    * Mapping & finding our place in the world 
+
+
+## REFERENCES
+
+* See [Week 1 Readings and Project References](../BIBLIOGRAPHY.md#week-01-everything-is-spatial).
+
+## STUDIO
+
+<!-- * ↳ [Link to Studio](../guides/paying-attention-guide.md). -->
+* ↳ Introducing the [Implosion Project/Method](https://journal.culanth.org/index.php/ca/article/view/ca29.2.09/301).
+* ↳ Introducing the [Streetview Mapper](https://streetview-mapper.org).
+* ↳ [Cartography Code of Ethics](https://github.com/joeyklee/carto-code-of-ethics)?
+
+## ASSIGNMENT
+
+* ↳ [Read the Final Project Briefing](../assignments/final-project.md).
+* ↳ [Link to Assignment](../assignments/assignment_01.md).
+
+
+
+
+<!-- 
+
 
 <!-- We will be exploring the following concepts in today's class:
 * Key concepts:
@@ -121,25 +161,6 @@ You may choose to work in groups IF you'd like (no more than 2 per group), howev
   * How will we be mapping? -->
 
 
-## REFERENCES
-
-* See [Week 1 Readings and Project References](../BIBLIOGRAPHY.md#week-01-everything-is-spatial).
-
-## STUDIO
-
-<!-- * ↳ [Link to Studio](../guides/paying-attention-guide.md). -->
-* ↳ Introducing the [Implosion Project/Method](https://journal.culanth.org/index.php/ca/article/view/ca29.2.09/301).
-* ↳ Introducing the [Streetview Mapper](https://streetview-mapper.org).
-
-## ASSIGNMENT
-
-* ↳ [Read the Final Project Briefing](../assignments/final-project.md).
-* ↳ [Link to Assignment](../assignments/assignment_01.md).
-
-
-
-
-<!-- 
 IGNORE
 * What is a map? what can a map be?
   * Everything is Spatial - overview of mapping, what it is/isn't, what it can be, and what it means for us in media art/design.
