@@ -47,10 +47,10 @@ This week we will focus on "paying attention" through environmental observations
 ## PACING / DURATION
 
 * :20m - course logistics & syllabus
-* :50m - lecture & discussion
+* :20m - final project briefing & assignment 1
 * :10m - Break
-* :30m - studio
-* :10m - assignment overview
+* :50m - lecture & discussion
+* :20m - studio
 
 
 ## TOPICS
