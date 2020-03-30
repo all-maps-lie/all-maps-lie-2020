@@ -17,8 +17,8 @@ This is a guide on how to use the google street view API.
 
 # Setup
 
-1. Sign up with Google - TBD
-2. Create an API key - TBD
+1. Sign up with Google 
+2. [Create an API key](https://learn.streetview-mapper.org)
 
 
 # Street View - JavaScript API

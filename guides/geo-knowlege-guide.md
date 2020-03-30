@@ -4,6 +4,53 @@ A vastly reductive, but valiant attempt to catalog some of the major touch point
 
 This guide is important because it covers some of the domains of interest that are helping to theoretically and practically frame the course.
 
+- [Geo Knowledge Guide](#geo-knowledge-guide)
+- [Geography - Human & Physical](#geography---human--physical)
+  - [Human Geography](#human-geography)
+  - [Physical Geography](#physical-geography)
+  - [The need for both](#the-need-for-both)
+  - [Why this matters](#why-this-matters)
+- [Mapping: Cartography, GIS, & Remote Sensing](#mapping-cartography-gis--remote-sensing)
+  - [Definitions](#definitions)
+    - [Mapping](#mapping)
+    - [Cartography](#cartography)
+    - [Geographic Information Systems (GIS)](#geographic-information-systems-gis)
+    - [Remote Sensing](#remote-sensing)
+- [Mapping Roadmap](#mapping-roadmap)
+  - [Domain Knowledge](#domain-knowledge)
+  - [Front-end](#front-end)
+    - [Cartographic Fundamentals](#cartographic-fundamentals)
+      - [Symbology / Visual Variables](#symbology--visual-variables)
+      - [Projections](#projections)
+      - [Color & Maps](#color--maps)
+      - [Scale & Generalization](#scale--generalization)
+      - [Labeling and text](#labeling-and-text)
+    - [Reference Map Types](#reference-map-types)
+    - [Thematic Map Types](#thematic-map-types)
+      - [Choropleth maps](#choropleth-maps)
+      - [Proportional Symbols](#proportional-symbols)
+      - [Dot Density](#dot-density)
+      - [Cartograms](#cartograms)
+    - [Web Mapping](#web-mapping)
+      - [HTML5](#html5)
+      - [Pick a web mapping application tool](#pick-a-web-mapping-application-tool)
+      - [Pick a web mapping framework](#pick-a-web-mapping-framework)
+    - [Desktop GIS](#desktop-gis)
+  - [Back-end](#back-end)
+    - [Geographic Data](#geographic-data)
+    - [APIs](#apis)
+      - [Static Imagery](#static-imagery)
+      - [Routing](#routing)
+      - [Placename Search](#placename-search)
+      - [Datasets](#datasets)
+  - [DevOps](#devops)
+- [Everything Besides the Map](#everything-besides-the-map)
+    - [Databases](#databases)
+    - [Full stack web development](#full-stack-web-development)
+    - [Statistics](#statistics)
+    - [Data Visualization](#data-visualization)
+    - [Domain Expertise](#domain-expertise)
+
 # Geography - Human & Physical
 
 Capital "G" Geography is more than just state capitols and maps. In fact, a lot of Geography has nothing to do with those things and is rather about problematizing or critiquing those things. 
@@ -128,6 +175,10 @@ This is probably the most important thing of all. You gotta read! Embrace your i
 
 Maps are a tool to help you understand something. Maps lie all the time because data lie all the time. We are shaped by our experiences (or ignorances) and the tools we use - e.g. statistics, discrete color choices, categorizations. The best thing you can do is to invest as much time (or more) into learning about some subject - e.g. pollution, music, literature, anything! - as you do learning mapping tools. The way I see it, if you can't can't explain in a reasonable way what you're rendering onto a map, you probably should be wary of publishing your maps. Additionally, if you're totally confident about your map, you should be questioning all the things that make you confident about your map - have you covered *all* your bases? Have you made sure your map doesn't have unintended consequences for you or for the people and places you're mapping?
 
+***
+***
+***
+
 ## Front-end
 
 I'm calling this the "front-end" since conceptually this part of the roadmap has more to do with the visualization or representational parts of mapping.
@@ -138,13 +189,35 @@ I'm basically re-iterating what is outlined in the [Axis Maps - cartography guid
 
 #### Symbology / Visual Variables
 
+* https://www.axismaps.com/guide/general/visual-variables/
+
+
 #### Projections
+
+* https://www.axismaps.com/guide/general/map-projections/
+
+Probably one of **the most important concepts** that a geographic education can emphasize. Having a handle on projection can save your sanity, save projects, and even save lives.
+
+* [EPSG 4326 vs EPSG 3857 (projections, datums, coordinate systems, and more!), Lyzi Diamond, 2017](https://lyzidiamond.com/posts/4326-vs-3857)
+* [Understanding Projections, Tom MacWright, 2012](https://macwright.org/2012/01/27/projections-understanding.html)
+
+Some video content for the more visually inclined:
+* [Why all world maps are wrong, Vox](https://www.youtube.com/watch?v=kIID5FDi2JQ)
+* [Map Projections Explained - A Beginners Guide, Mango Map](https://www.youtube.com/watch?v=wlfLW1j05Dg)
+* [Types of Map Projections, Mr. Sinn](https://www.youtube.com/watch?v=IBYzeT2O97g)
+* [Introduction to UTM, Universal Transverse Mercator., GIS and GPS Tips & Techniques](https://www.youtube.com/watch?v=LcVlx4Gur7I)
 
 #### Color & Maps
 
+* https://www.axismaps.com/guide/general/using-colors-on-maps/
+
 #### Scale & Generalization
 
+* https://www.axismaps.com/guide/general/scale-and-generalization/
+
 #### Labeling and text
+
+* https://www.axismaps.com/guide/general/labeling/
 
 ### Reference Map Types
 
@@ -156,40 +229,96 @@ I'm basically re-iterating what is outlined in the [Axis Maps - cartography guid
 
 [Thematic maps](https://en.wikipedia.org/wiki/Thematic_map) are maps of a geographic area focused on "a particular theme or subject area." These themes or subject areas tend to represent some kind of statistical data or classifications. Thematic maps tend to represent **numerical** (anything countable or measurable), **nominal** (anything classifiable or nameable), or **ordinal** (anything that can be ordered relative to eachother) data.
 
+* https://www.axismaps.com/guide/multivariate/multivariate-vs-univariate/
+
 #### Choropleth maps
+
+* https://www.axismaps.com/guide/univariate/choropleth/
+* https://www.axismaps.com/guide/multivariate/bivariate-choropleth/
+* https://www.axismaps.com/guide/multivariate/value-by-alpha/
 
 #### Proportional Symbols
 
+* https://www.axismaps.com/guide/univariate/proportional-symbols/
+* https://www.axismaps.com/guide/multivariate/bivariate-proportional-symbols/
+
 #### Dot Density
 
+* https://www.axismaps.com/guide/univariate/dot-density/
+
+
 #### Cartograms
+
+* https://www.axismaps.com/guide/univariate/cartograms/
+* https://www.axismaps.com/guide/multivariate/bivariate-cartograms/
 
 
 ### Web Mapping
 
 These days the web is how most geographic data are visualized and published. Having a web mapping framework handy is crucial to having a means of increasing access to your map. Not all web maps need to be interactive and certainly web maps aren't always a replacement for a really good static print map, but web maps do offer a lot of possibilities for communication. 
 
+* https://www.axismaps.com/guide/web/what-is-a-web-map/
+* https://www.axismaps.com/guide/web/map-interaction/
+* https://www.axismaps.com/guide/web/should-a-map-be-interactive/
+
+#### HTML5
+
+When we tak about web mapping, what we're really talking about is maps that live within the context of HTML/CSS/JavaScript. As [Lyzi Diamond writes](https://lyzidiamond.com/posts/geographic-education), learning tools is not enough. The concepts and general skills are central to proficiency in mapping. 
+
+It is worth reading:
+* [What should I learn first? pt.1, Lyzi Diamond](https://lyzidiamond.com/posts/what-to-learn-first)
+* [What should I learn first? pt.2, Lyzi Diamond](https://lyzidiamond.com/posts/what-to-learn-first-pt-2)
+
+Anyhow having at least some basic foundations in how web technologies work, what are APIs, how HTML/CSS/JS work together, differentiating between server-side and client-side programming, AJAX, databases, can dramatically change your experiences with web mapping. 
+
+* The [ITP Dynamic Web Development Course 2020](https://github.com/itp-dwd/2020-spring) is a full-stack course introducing foundational skills.
+* The [Full Stack Open Course](https://fullstackopen.com/en/) is excellent for the latest and greatest.
+
+#### Pick a web mapping application tool
+
+I will start by saying that I think tools like Excel and Google Spreadsheets are extremely powerful. For exploratory data analysis, having a sandbox within which to "play" and to discover is super important. Furthermore, having environments that have low overhead and intuitive interfaces is a major plus. 
+
+Having a web mapping application tool in your "back pocket" that is reliable, powerful, and quick is a must IMHO. That being said, off the top of my head, my first go-to recommendations for web mapping applications would be:
+
+Web mapping apps:
+
+* [Kepler.gl](https://kepler.gl/)
+* [Carto](https://carto.com/)
+
+More generally:
+* [rawgraphs.io](https://rawgraphs.io/)
+* [DataWrapper.de](https://www.datawrapper.de/)
+
+Some Specific Purpose Based Apps:
+* [Knight Labs Story Map](https://storymap.knightlab.com/#overview)
+* [ESRI Story Maps](https://storymaps.arcgis.com/)
+
 #### Pick a web mapping framework
+
+Web Maps are a clever construction. Having a general understanding of how they work (and their limitations) is important!
+* [How Web Maps Work, Tom MacWright](https://macwright.org/2012/05/15/how-web-maps-work.html)
 
 Pick one or two of these and learn them well. 
 
 A lot of things are being built on top of MapboxGL so that is definitely worth spending some time with. 
 
 * My recommendations:
-  * [Leaflet.js]() // my recommendation to get started
-  * [MapboxGL.js]() 
-  * [D3.js]() // much more advanced but definitely offers a lot of opportunities to get out of web mercator projection.
+  * [Leaflet.js](https://leafletjs.com/) // my recommendation to get started
+  * [MapboxGL.js](https://docs.mapbox.com/mapbox-gl-js/api/) // Mapbox GL is powerful. Getting used to the GL context can be a transition, but their documentation is generally good.
+  * [Google Maps API](https://developers.google.com/maps/documentation) // Google maps is undoubtedly one of the most powerful web mapping platforms out there. With access to APIs like streetview, google places search, and more, I have to say, it is very powerful. 
+* For more advanced contexts and when you need to get out of the web mercator:
+  * [D3.js](https://d3js.org/) // much more advanced but definitely offers a lot of opportunities to get out of web mercator projection.
 * Other Options:
-  * [OpenLayers]()
   * [Deck.gl](https://deck.gl/#/) // for those of you who are into React.js
-  * [Carto.js]()
+  * [Carto.js](https://carto.com/developers/carto-js/v3/)
 
-#### Pick a web mapping tool
-
-* Kepler.gl
-* Carto
+### Desktop GIS
 
 
+
+***
+***
+***
 
 ## Back-end
 
@@ -197,6 +326,8 @@ I'm calling this the "back-end" since conceptually this part of the roadmap has 
 
 ### Geographic Data
 
+
+* [Odd Maps](https://macwright.org/2011/11/10/odd-maps.html)
 
 
 ### APIs

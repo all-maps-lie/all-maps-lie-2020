@@ -71,6 +71,10 @@ Some methodological considerations:
 
 Define a method for your observations and begin data collection. 
 
+* [Create a Google Maps API Key for Streetview Mapper](https://learn.streetview-mapper.org/#/?id=making-a-google-maps-api-key)
+* Create an account of [Streetview Mapper](https://streetview-mapper.org/signup)
+* Log in [Streetview Mapper](https://streetview-mapper.org/login)
+
 It is important that in this step you do THREE things:
 1. Define your rules on what is considered "valid" data (e.g. If we're collecting data about street-side trash bins, do recycling bins also count?)
 2. Be meticulous about your data collection. Collecting data willy-nilly is one approach, just be meticulous about your "willy-nilly-ness". You can also consider more systematic approaches. You will need to consider the **spatial distribution** of your subject of interest - e.g. it probably doesnt make sense to map storefront signage in residential suburbs. One approach would be to define a neighborhood to start in and systematically approach your collection street-by-street. 
