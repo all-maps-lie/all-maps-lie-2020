@@ -291,7 +291,6 @@ More generally:
 
 Some Specific Purpose Based Apps:
 * [Knight Labs Story Map](https://storymap.knightlab.com/#overview)
-* [ESRI Story Maps](https://storymaps.arcgis.com/)
 
 #### Pick a web mapping framework
 
