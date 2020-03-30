@@ -125,9 +125,10 @@ You may choose to work in groups IF you'd like (no more than 2 per group), howev
 ## STUDIO
 
 <!-- * ↳ [Link to Studio](../guides/paying-attention-guide.md). -->
-* ↳ Introducing the [Implosion Project/Method](https://journal.culanth.org/index.php/ca/article/view/ca29.2.09/301).
-* ↳ Introducing the [Streetview Mapper](https://streetview-mapper.org).
-* ↳ [Cartography Code of Ethics](https://github.com/joeyklee/carto-code-of-ethics)?
+<!-- * ↳ Introducing the [Implosion Project/Method](https://journal.culanth.org/index.php/ca/article/view/ca29.2.09/301). -->
+<!-- * ↳ [Cartography Code of Ethics](https://github.com/joeyklee/carto-code-of-ethics)? -->
+* How to [make a Google API Key - Streetview Mapper](https://learn.streetview-mapper.org/#/?id=making-a-google-maps-api-key)
+
 
 ## ASSIGNMENT
 
