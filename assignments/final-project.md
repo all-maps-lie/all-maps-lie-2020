@@ -1,93 +1,115 @@
-# Course Project - *Situating Streetview*
+> Based on and adapted from [Shannon Mattern's "Maps as Media Course" Final Project Brief](http://www.wordsinspace.net/mapsmedia/fall2018/wp-content/uploads/2018/08/Mattern_MapsAsMedia2018_Aug12_2018.pdf) - (Such a brilliant course!)
 
-- [Course Project - *Situating Streetview*](#course-project---situating-streetview)
-  - [Brief](#brief)
-  - [Background](#background)
-  - [Situating Streetview](#situating-streetview)
-    - [Choosing a subject](#choosing-a-subject)
-  - [Overview](#overview)
-    - [Streetview Mapping](#streetview-mapping)
-  - [Requirements](#requirements)
-  - [Ready?! Go to Assignment #1](#ready-go-to-assignment-1)
-  - [References](#references)
+- [COURSE PROJECT](#course-project)
+- [DEADLINES](#deadlines)
+  - [PROPOSAL](#proposal)
+    - [PART 1: WRITTEN PROPOSAL](#part-1-written-proposal)
+    - [PART 2: VIDEO PROPOSAL PRESENTATION](#part-2-video-proposal-presentation)
+    - [PROGRESS](#progress)
+  - [INSPIRATIONS](#inspirations)
+  - [OUTCOMES & EXPECTATIONS](#outcomes--expectations)
+  - [SUBMISSION](#submission)
   - [FAQ](#faq)
-    - [Can I change my subject focus after week 1?](#can-i-change-my-subject-focus-after-week-1)
+    - [What makes a successful project?](#what-makes-a-successful-project)
 
-## Brief
+# COURSE PROJECT
 
-![Streetview glitch in Paris](../assets/images/final-project-brief--01.png)
-
-Your final project for this course starts now, at week 1. Everything that you do in this course - every assignment and reading - will be in service of shaping a final, cohesive work. The course project for this 7-week semester is themed: *Situating Streeview*.
-
-There will be a total of 6 assignments this semester that are designed to help you generate the touch points of your final work. Each of the assignments are designed to help you unpack what it means to be *situating streetview*. 
-
-You will use the assignments as prompts to support a cohesive research project about **something you can see in Google Streetview**. What you decide to map is mostly up to you, however it **must be visible from Google Streetview** (e.g. phenomena that can be seen from the street). 
-
-<!-- You can think of it as deep dive into  what scholar Shannon Mattern calls, an **urban media archaeology** ([1](#)[2](#)).  -->
-
-Using a combination of data from sources such as Google Streetview and other mapping APIs you will spend the next 6 weeks on a various *mapping excursions* that will prompt varying types of mapping activities. These activities are designed to introduce new skills and, most importantly, ways of thinking. 
-
-You will use these activites, in addition to your own self-directed research, to learn about the thing you've chosen to observe and to articulate "that thing's" relationships to broader geographic, environmental, political, media, and historical contexts. 
-
-Through the process of simultaneously researching and creating work about your subject of interest, you will document and catalog your discoveries about *what you've come to know and understand about that thing*. Furthermore you will help to unpack what social, cultural, political, and environmental processes and histories are/have been at play in shaping that thing and vice versa. You will use the [Implosion Methodology](https://journal.culanth.org/index.php/ca/article/view/ca29.2.09/301) to help you to work through the multi-facetedness, non-linearness, and complexities of your subject.
-
-The result of this exercise will be the production of a body of work that uses mapping and maps and to inform your understanding the geography of your selected subject of interest. Furthermore, we will gain insights about that ways that Streetview as a medium can shape how we can understand about world. Upon the submission of your final work, your findings will be published as part of a [class zine](https://github.com/joeyklee/all-maps-lie-2020-zine). 
+At the beginning of the semester you should begin to think about a fluid, capacious **research topic that you’d like to explore through the maps you create over the course of the semester**. Ideally, this topic will pertain to projects you’re exploring in your other classes or your thesis, to a “through-line” you’ve pursued throughout your academic program, or to work you’re doing in your extracurricular life. 
 
 
-## Background
+# DEADLINES
 
-| | |
-|:-- | --|
-|![Data walking image: POV of hand with mapping device](../assets/images/data-walking/hand1.jpg) | ![Data walking image: 3D map](../assets/images/data-walking/process-slitscan.jpg) | 
-
-
-In 2017, David Hunter and his students published a project called "[Data Walking](http://datawalking.com/)", which is described as a "research project exploring environmental data gathering & data visualisation." The outcomes of this exploration were a set of tools, methods, data, and visualizations and maps. For David and his students, the process of making environmental observations around their neighborhood in North Greenwich and mapping them with DIY hardware and software provided profound reflections around ways in which data and visualizations are both shaped by and shape the urban environment. 
-
-![Image for: Conduct an Overlooked scavenger hunt](https://miro.medium.com/max/720/1*hHY11x84EFkWHxMCsdOflw.png)
-
-Several years earlier, Rob Walker in 2014 started asking his students to "[practice paying attention](https://medium.com/re-form/how-to-pay-attention-4751adb53cb6)." Rob was concerned about the ways in which our current media were preventing us from "seeing." In fact his practice of paying attention was even framed as a "war against seeing." To do this, he asked his students to focus on one specific element or phenomenon in his students' daily lives. Students were tasked with creating a seemingly simple prompt and following that prompt in such a way they helped them identify something that might be considered mundane or trivial. By creating self-assigned briefs to notice the world around them, students trained themselves to see things that they might have otherwise overlooked.
-
-More recently, Jenny Odell published her book [How to Nothing: Resisting the Attention Economy](https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb) in which she argues that our attention is central to our ability to form communities, to extend care towards others and the environment, and to find the will/courage/energy to *do something* about the systems and structures that try to oppress, control, distract, commodify, and marginalize us. Jenny illustrates the ways in which paying attention is something that requires constant intention and practice. 
-
-These works prompt us to reflect on the importance of our attention and the beauty of focusing one's attention on *some thing*, learning about that thing, and trying to center that thing in a deeper way. These examples engage critically with the different politics, media, and geography and offer tangible material for us to see something new and to draw previously unconnected lines in our consciousness. 
-
-Similarly, scholars like [Shannon Mattern](http://wordsinspace.net/shannon/about/) and [Jeremy Crampton](https://www.ncl.ac.uk/apl/staff/profile/jeremycramptonnewcastleacuk.html#background) are asking questions about the world - about power, infrastructure, and politics - through the lens of different media and geographies and proposing methodologies and frameworks through which we might better understand society, culture, and space. What these more academic contributions offer is a set of conceptual frameworks and methodological tools to unpack context, history, and the geography of the things that are interesting and important in our lives.
-
-Drawing inspiration and methodologies from these varying worlds - from critical cartography to urban media archaeology and media art to creative technology - we will embark on understanding *what mapping means*, *what mapping does*, and *what our role as cartographic outsiders is in shaping spatial thinking*. Taking the lessons from David, Rob, and Jenny, we will practice paying attention through intentional (small) data collection and mapping efforts. Drawing inspiration from scholars like Shannon and Jeremy, we will practice researching and writing about *things* - their form, their materiality, their histories, and their geographies, and their politics. Taken together, we will practice our skills as researchers and makers of spatial media. 
-
-For many of you this will be the first time exercising these ways of thinking and making -- *breathe*, everyone started somewhere. 
+| Item | Week | Deadline |
+| :----    | ---- | ---- | 
+| Written Proposal | Week 3 |  April 13 |
+| Quick & Dirty Proposal Presentation | Week 3 |  April 13 |
+| 1-on-1 Check-ins | Week 2 - Week 6 |  N/A |
+| Final Project Presentation | Week 7 |  April 6 |
 
 
-## Situating Streetview
+## PROPOSAL
 
-*Situating Streetview* is about 2 simultaneous endeavors. The first endeavor is this project is an exploration of one subject as seen from Google's Streetview service. By mapping a subject through Streetview, you will embark on a research process to learn as much about that subject as possible. The second endeavor is an exploration of Google's Streetview itself. 
+### PART 1: WRITTEN PROPOSAL
 
-### Choosing a subject
+You’ll need to submit a 600-word (max., or otherwise substantial) proposal for this project, via the [Google Forms Submission Form](). 
 
-![Streetview shoes](../assets/images/final-project-brief--02.png)
+This proposal should include:
 
-What you decide to map is up to you. It can be any kind of artifact - natural or built, human or nonhuman - that is viewable through Streetview. The key constraint here is that **you must be able to take snapshots of/document individual instances** of your subject interest through Streetview. 
+1. a topic description, thematic overview, problem statement, or research question; 
+2. a discussion of your topic’s personal relevance, larger critical or political significance, timeliness, etc.; 
+3. a preliminary discussion of how your topic might lend itself to spatial/cartographic investigation (i.e., **what can you learn by mapping it**?);
+4. a description of the geographic area(s) and scale(s) you plan to focus on in your maps; and 
+5. a tentative bibliography of **at least seven sources** (some scholarly publications, some popular publications, some precedent maps, etc.) that will likely prove useful in your research and practice. 
 
-Some examples that might be interesting to explore:
-* Fire hydrants
-* Manhole covers
-* Shop signs 
-* Link NYC kiosks
-* Bus Shelters
-* Street Trees
-* Security Cameras
-* Empty tree beds
-* Graffiti
-* Trash bins
-* Subway Entrances
-* Bodegas
-* People's Clothes
 
-## Overview
+### PART 2: VIDEO PROPOSAL PRESENTATION
 
-For your projects this semester, you will be exploring a subject of interest through the lens of Google Streetview and other geospatial data. In exploring Streetview, each of you will focus on **one** aspect as seen through Streetview. The project will challenge you to dig deep into the *processes, histories, and politics* that have shaped your subject of interest as well as prompt you to question the ways in which Google Streetview shapes what you can know about your subject of interest.
+You’ll share your proposal in class as a 2-min (maxiumum) long video that coherently explains what you have proposed in your written proposal, highlighting proofs of concept, sketches, prototypes, and any materials that support your proposal. You will upload these materials to GDrive or Youtube to share during Week 3's class.
 
-NOTE: I acknowledge that Streetview does place a number of constraints on our mapping abilities and offers a very specific lens of *seeing*, however, those constraints and lenses are also opportunities for practicing important data awarenesses such as understanding sampling bias, temporal bias, data licensing and so on.
+### PROGRESS
+
+You will be expected to meet with your instructor *at least* twice  throughout the semester for progress updates. 
+
+**Required:**
+* Progress updates will take the form of 15 min meetings every other week based on which Block you are in. Please see the [Weekly Schedule](https://all-maps-lie-2020.netlify.com/#/README?id=weekly-schedule) to determine which week you are required to check-in.
+
+**Optional:**
+* You are encouraged to schedule time to chat outside of the required times for a 15-min check-in. 
+
+## INSPIRATIONS
+
+You can find inspiration from example projects here: 
+
+* Student outcomes from Maps as Media Course by Shannon Mattern:
+  * [2015](http://wordsinspace.net/shannon/2015/12/22/maps-as-media/)
+  * [2016](http://wordsinspace.net/shannon/2016/12/19/maps-as-media-2/)
+  * [2017](http://www.wordsinspace.net/mapsmedia/fall2017/2017/12/17/maps-as-media-2017-final-projects/)
+* Other selected works from artists. The works shown below are selected based on what I think is realistic to accomplish (though still ambitious!) in the allotted time:
+  * [Ingrid Burrington](http://lifewinning.com):
+    * [Measuring the Impact of Fare Hikes](http://lifewinning.com/projects/fare-hikes/)
+    * [The Irradiated International](http://lifewinning.com/projects/irradiated-graphics/)
+  * [James Bridle](https://jamesbridle.com/works)
+    * [Every CCTV Camera](https://jamesbridle.com/works/every-cctv-camera-cc)
+    * [All Roads Lead to X](https://jamesbridle.com/works/all-roads-lead-to-x)
+    * [Dronestagram](https://jamesbridle.com/works/dronestagram)
+    * [Laaaaaaandsat](https://jamesbridle.com/works/laaaaaaandsat)
+    * [Robot Flaneur](https://jamesbridle.com/works/robot-flaneur)
+  * [Joey Lee](https://jk-lee.com/) // sorrynotsorry to show my own work!
+    * [LA Swimmer](https://jk-lee.com/la-swimmer-43-123-pools-i-have-not-visited-and-never-will)
+    * [Geography of Hidden Faces](https://jk-lee.com/geography-of-hidden-faces)
+  * [Hans Hack](http://www.hanshack.com/)
+    * [Retreats from Streets](http://hanshack.com/retreats/)
+    * [Berlin Drowned](http://hanshack.com/berlin-drowned/)
+    * [Aleppo in Berlin](http://hanshack.com/aleppo/#berlin)
+    * [If Gaza was in your City](apps.lokaler.de/israelgaza/)
+  * [Chimurenga Chronic](https://chimurengachronic.co.za/stores/Chimurenga-Chronic-German-Special-Edition-October-2016-Print-p109771452)
+  * [Diagrams of Power: Visualizing, Mapping, and Performing Resistance, Make Money, Not Art](https://we-make-money-not-art.com/diagrams-of-power-visualizing-mapping-and-performing-resistance/)
+
+
+## OUTCOMES & EXPECTATIONS
+
+Each of the maps you then create over the course of the semester should pertain to this topic and cumulatively represent myriad ways of illustrating or investigating your subject. You’ll begin exploring a few mapping strategies in/for our in-class labs. You can then continue to develop these prototypes independently, or generate map ideas of your own.
+
+By the end of the semester, **you should have a minimum of four to five completed maps, in a variety of “media formats” (e.g., hand-drawn, photographic, audio-based, online-interactive, etc.)**. You’ll then need to compile those maps into an atlas, which you can present in whatever format you choose (e.g., a book, a website, an installation, etc.), as long as you frame the contents as a cartographic set –as five “spatial variations on a theme.” 
+
+You should make sure to:
+* offer some means of narratively or argumentatively navigating through your collection;
+* generate connective threads between your individual maps; and 
+* provide critical/descriptive commentary reflecting on the unique medial qualities of each piece in the set (see, for example, how Annette Kim, whom we’ll read later this semester,addresses the distinctive features of each map in her “Critical Cartography Primer,” on pp. 113-145 of Sidewalk City). 
+
+As you peruse your atlas, ask yourself **Do my maps stand on their own?** **Do they speak for themselves?** Perhaps they don’t. Consider integrating prefaces, captions, legends, citations (i.e., where do the data come from?), disclaimers, etc., where appropriate. You’re also encouraged to integrate some of our class readings–or supplemental cartographic history and theory texts you’ve read on your own –into your atlas text(or, consider how Nick Sousanis graphically integrates theoretical material in his Unflattening). 
+
+## SUBMISSION
+
+Please do not email me five separate files or five separate links, or hand me five separate documents; **your final submission should be one integrated collection, with all components synthesized and contextualized.** If your work consists of analog, performative, or ephemeral media that doesn’t readily lend itself to submission, you’ll need to share with me some coherent form of documentation. 
+
+You’ll submit your project **before the start of the final class in week 7**, and during that class each student will deliver a video presentation/documentation of their work (details to come). 
+
+
+
+## FAQ
+
+### What makes a successful project?
 
 A successful project will:
 1. **Showcase substantial effort and thoughtfulness in data collection and mapping**
@@ -104,63 +126,4 @@ A successful project will:
    - **Application**: Did you go beyond the given code examples? Did you inject your personality or style into the work in any way? 
 
 These three criteria for evaluation should help inform you along the way. Please make sure to refer back to this through out the duration of the project. 
-
-Below you will find a general schedule for the final project development:
-
-### Streetview Mapping
-
-NOTE: Given the need for remote class work and social-isolation during the coronavirus pandemic we may rework the mechanisms and methods of "data collection." As your instructor, I cannot in good conscience or by mandate of the University assign work that would otherwise endanger you. 
-
-**Option 2** is our "remote sensing" option/track. In this option you will do data collection remotely by mapping your selected urban media using secondary sources such as found data, images, videos, and 3rd-party APIs and services. 
-
-* Week 1: 
-  * Begin data collection: start your "savenger hunt"
-  * Begin your subject research →
-* Week 2: 
-  * Create a web map which displays the data you've been collecting
-  * Continue your subject research and 
-  * Continue data collection → 
-* Week 3: 
-  * Begin looking at other ways of understanding the spatial context of your urban media through spatial abstraction and/or supplemental data, 
-  * Continue your subject research and 
-  * Continue data collection → 
-* Week 4:
-  * Geospatial APIs - geocoding, routing, and more
-  * Continue your subject research and 
-  * Continue data collection → 
-* Week 5:
-  * Aerial imagery exploration
-  * Continue your subject research and 
-  * Conclude data collection →
-* Week 6:
-  * Document and synthesize your mapping and research for submission.
-* Week 7:
-  * Teach your classmates something new. 
-
-## Requirements
-
-
-| ☑️ | Requirement | Description |
-| :--- | -------- | ----------- |
-| ☑️ | Data Submission | You must submit the data you collected to a centralized repository. Your data - images and otherwise - must be [well documented](../guides/data-documentation-guide.md)! |
-| ☑️ | Content Submission | You must submit your research in a coherent form as specified in the [Zine submission guide](../guides/zine-submission-guide.md) if you want your work to be included in the class zine. |
-| ☑️ | Blog posts and reflections | You will be documenting your learning through your blogs. A submission indexing all of your posts will be required. |
-
-
-## Ready?! Go to Assignment #1
-
-* [Assignment #1](assignments/assignment_01.md)
-
-## References
-
-* See [Bibliograhpy](../BIBLIOGRAPHY.md)
-
-## FAQ
-
-### Can I change my subject focus after week 1?
-+ Sorry, but no! You may not. The lesson here is that you can find beauty/complexity/history/fascination with almost anything and it is your challenge to discover those things and bring them to light. Something about that initial prompt intrigued you, you'll have to work through the "trough of disillusionment!"
-
-
-
-
 

@@ -7,7 +7,7 @@
   - [WEEK 02: Countermaps & Cartographics](#week-02-countermaps--cartographics)
     - [READINGS](#readings-1)
     - [WORKS CITED](#works-cited-1)
-  - [WEEK 03: Maps as Media](#week-03-maps-as-media)
+  - [WEEK 03: Reading & Writing Space](#week-03-reading--writing-space)
     - [READINGS](#readings-2)
     - [WORKS CITED](#works-cited-2)
   - [WEEK 04: Locative Media](#week-04-locative-media)
@@ -118,6 +118,7 @@
 ### READINGS
 
 * Required:
+  * https://lisacharlotterost.de/2016/04/21/Maps-vs-Territory/
   * Rethinking spatial media, maps, and mappers:
     * [Chapter 4: What is critical Cartography and GIS?, pg. 39 - 49, Mapping: A Critical Introduction to Cartography and Mapping, J. Crampton (2010)](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=4433111&ppg=53) - requires NYU Login
     * [Chapter 5: How Mapping Became Scientific, pg. 49 - 62, Mapping: A Critical Introduction to Cartography and Mapping, J. Crampton (2010)](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=4433111&ppg=63)
@@ -145,7 +146,7 @@
 ***
 ***
 
-## WEEK 03: Maps as Media
+## WEEK 03: Reading & Writing Space
 <!-- Maps as Media | Spatial Abstraction -->
 
 ### READINGS
