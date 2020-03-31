@@ -53,6 +53,14 @@ You will be expected to meet with your instructor *at least* twice  throughout t
 **Required:**
 * Progress updates will take the form of 15 min meetings every other week based on which Block you are in. Please see the [Weekly Schedule](https://all-maps-lie-2020.netlify.com/#/README?id=weekly-schedule) to determine which week you are required to check-in.
 
+Make sure you book office hours - checking in will be part of your evaluations:
+  * Block 1
+    * Week 2, week of April 6
+    * Week 4, week of April 20
+  * Block 2
+    * Week 3, week of April 13
+    * Week 5, week of April 27
+
 **Optional:**
 * You are encouraged to schedule time to chat outside of the required times for a 15-min check-in. 
 
