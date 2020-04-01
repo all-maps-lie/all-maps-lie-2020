@@ -29,6 +29,7 @@
   - [Technical References](#technical-references)
   - [My Geo Stack](#my-geo-stack)
   - [Data](#data)
+  - [People/Blogs to follow](#peopleblogs-to-follow)
   - [Readings from Shannon Mattern's Maps as Media Course](#readings-from-shannon-matterns-maps-as-media-course)
 
 
@@ -39,9 +40,9 @@
 
 * Required:
   * Introduction to critical mapping: 
-    * [Chapter 1: Maps — A perverse sense of the unseemly, Mapping: A Critical Introduction to Cartography and Mapping, pg. 1 - 12](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=4433111&ppg=15)
-    * [Chapter 2: What is Critique?, Mapping: A Critical Introduction to Cartography and Mapping, J. Crampton (2010), pg. 13 - 24](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=4433111&ppg=27)
-    * [Chapter 3: Maps 2.0: Map mashups and New Spatial Media, pg. 25 - 39, Mapping: A Critical Introduction to Cartography and Mapping, J. Crampton (2010)](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=4433111&ppg=39) - requires NYU Login
+    * [Chapter 1: Maps — A perverse sense of the unseemly, Mapping: A Critical Introduction to Cartography and Mapping, pg. 1 - 12](https://bobcat.library.nyu.edu/permalink/f/1c17uag/nyu_aleph006469364) - requires NYU Login
+    * [Chapter 2: What is Critique?, Mapping: A Critical Introduction to Cartography and Mapping, J. Crampton (2010), pg. 13 - 24](https://bobcat.library.nyu.edu/permalink/f/1c17uag/nyu_aleph006469364) - requires NYU Login
+    * [Chapter 3: Maps 2.0: Map mashups and New Spatial Media, pg. 25 - 39, Mapping: A Critical Introduction to Cartography and Mapping, J. Crampton (2010)](https://bobcat.library.nyu.edu/permalink/f/1c17uag/nyu_aleph006469364) - requires NYU Login
     * [Writing the Implosion: Teaching the World One Thing at a Time](https://journal.culanth.org/index.php/ca/article/view/ca29.2.09/301) - Just read the Introduction and the section titled, "IMPLOSION PROJECT: The Assignment"
 * Optional, but SO good: 
     * [Jenny Odell, How to do Nothing, EYEO 2017](https://vimeo.com/232544904) or the blog post version [How to Do Nothing, J. Odell](https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb)
@@ -118,6 +119,7 @@
 ### READINGS
 
 * Required:
+  * video on datums: https://www.ngs.noaa.gov/corbin/class_description/NGS_Datums_vid1/ 
   * https://lisacharlotterost.de/2016/04/21/Maps-vs-Territory/
   * Rethinking spatial media, maps, and mappers:
     * [Chapter 4: What is critical Cartography and GIS?, pg. 39 - 49, Mapping: A Critical Introduction to Cartography and Mapping, J. Crampton (2010)](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=4433111&ppg=53) - requires NYU Login
@@ -437,6 +439,15 @@ There's so much we didn't get to discuss in this class, but I hope the course wa
   * [Google Street View - Static API](https://developers.google.com/maps/documentation/streetview/intro)
   * [Mapillary](https://www.mapillary.com/pricing) // Kind of expensive now IMHO - they used to be open source I think?
   * [Bing Static Maps](https://docs.microsoft.com/en-us/bingmaps/rest-services/imagery/get-a-static-map) | [Bing Maps API Key](https://docs.microsoft.com/en-us/bingmaps/getting-started/bing-maps-dev-center-help/getting-a-bing-maps-key)
+
+
+## People/Blogs to follow
+* [Tom MacWright](https://macwright.org/about/)
+  * So many great [talks](https://macwright.org/talks/)
+  * Clever [Projects](https://macwright.org/projects/)
+  * A lot of helpful geo[writings](https://macwright.org/)
+* [Ben Wellington, IQuantNY](https://iquantny.tumblr.com/archive)
+  * [The NYPD Was Systematically Ticketing Legally Parked Cars for Millions of Dollars a Year- Open Data Just Put an End to It](https://iquantny.tumblr.com/post/144197004989/the-nypd-was-systematically-ticketing-legally)
 
 *** 
 ***
