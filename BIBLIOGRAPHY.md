@@ -120,7 +120,22 @@
 
 * Required:
   * video on datums: https://www.ngs.noaa.gov/corbin/class_description/NGS_Datums_vid1/ 
+  * https://lyzidiamond.com/posts/4326-vs-3857
   * https://lisacharlotterost.de/2016/04/21/Maps-vs-Territory/
+  * https://alastaira.wordpress.com/2011/01/23/the-google-maps-bing-maps-spherical-mercator-projection/
+  * https://whereexactlymaps.com/blogs/articles/an-introduction-to-map-projections
+  * surveying:
+    * https://www.youtube.com/watch?v=q20-DBAmm2E
+    * https://www.youtube.com/watch?v=SPCewaAfqPA 
+  * How did they make those maps?
+    * https://www.youtube.com/watch?v=wbwmXKwkgaw
+    * https://www.youtube.com/watch?v=f4fQu2gClos
+  * Map Projections:
+    * https://www.youtube.com/watch?v=IBYzeT2O97g
+  * How lat and lon work:
+    * https://www.youtube.com/watch?v=b7yoXhbOQ3Y
+  * How GPS Works:
+    * https://www.youtube.com/watch?v=FU_pY2sTwTA
   * Rethinking spatial media, maps, and mappers:
     * [Chapter 4: What is critical Cartography and GIS?, pg. 39 - 49, Mapping: A Critical Introduction to Cartography and Mapping, J. Crampton (2010)](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=4433111&ppg=53) - requires NYU Login
     * [Chapter 5: How Mapping Became Scientific, pg. 49 - 62, Mapping: A Critical Introduction to Cartography and Mapping, J. Crampton (2010)](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=4433111&ppg=63)
