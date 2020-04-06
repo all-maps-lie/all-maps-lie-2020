@@ -39,11 +39,10 @@ This week we are going to focus on answering three main questions:
 ## PACING / DURATION
 
 * :05 - Getting settled
+* :05 - Quick look: Assignment 1 data scavenging
 * :05 - Project Highlight
   * :05m - Project Highlight: Ben Wellington, IQuantNY
-* :15m - Review
-  * :10m - Review: week 1 review & questions
-  * :05m - Review: week 1 data scavenging
+* :15m - Week 1 Review
 * :70m - Discussion
   * :60m - Intro to Geo
   * :10m - Assignment #2: web mapping practice & Final project proposal
@@ -68,7 +67,7 @@ This week we are going to focus on answering three main questions:
 
 ## STUDIO
 
-* ↳ [Link to Studio](#).
+* ↳ [Link to Studio](../guides/keplergl-guide.md).
 
 ***
 ***
