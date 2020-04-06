@@ -118,34 +118,31 @@
 ### READINGS
 
 * Required:
-  * video on datums: https://www.ngs.noaa.gov/corbin/class_description/NGS_Datums_vid1/ 
-  * https://lyzidiamond.com/posts/4326-vs-3857
-  * https://lisacharlotterost.de/2016/04/21/Maps-vs-Territory/
-  * https://alastaira.wordpress.com/2011/01/23/the-google-maps-bing-maps-spherical-mercator-projection/
-  * https://whereexactlymaps.com/blogs/articles/an-introduction-to-map-projections
-  * surveying:
-    * https://www.youtube.com/watch?v=q20-DBAmm2E
-    * https://www.youtube.com/watch?v=SPCewaAfqPA 
-  * How did they make those maps?
-    * https://www.youtube.com/watch?v=wbwmXKwkgaw
-    * https://www.youtube.com/watch?v=f4fQu2gClos
-  * Map Projections:
-    * https://www.youtube.com/watch?v=IBYzeT2O97g
-  * How lat and lon work:
-    * https://www.youtube.com/watch?v=b7yoXhbOQ3Y
-  * How GPS Works:
-    * https://www.youtube.com/watch?v=FU_pY2sTwTA
   * Rethinking spatial media, maps, and mappers:
     * [Chapter 4: What is critical Cartography and GIS?, pg. 39 - 49, Mapping: A Critical Introduction to Cartography and Mapping, J. Crampton (2010)](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=4433111&ppg=53) - requires NYU Login
     * [Chapter 5: How Mapping Became Scientific, pg. 49 - 62, Mapping: A Critical Introduction to Cartography and Mapping, J. Crampton (2010)](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=4433111&ppg=63)
-    * [The Origins of Cartography, G. Malcolm Lewis](https://www.press.uchicago.edu/books/HOC/HOC_V1/HOC_VOLUME1_chapter3.pdf)
-    * [Critiquing Maps II, S. Mattern](http://www.wordsinspace.net/wordpress/2013/09/05/critiquing-maps-ii/) // a helpful guide for map reading
     * [The Lost Art of Critical Map Reading, J. Foster](http://www.graphicarto.com/the-lost-art-of-critical-map-reading/)
+    * Skim: [Axis Maps Cartography Guide](https://www.axismaps.com/guide/)
+* Optional, but so good:
+  * For Review:
+    * [Mapschool.io](https://mapschool.io/)
   * Methods:
     * [What to Learn First? Pt.1 - Lyzi Diamond](https://lyzidiamond.com/posts/what-to-learn-first)
     * [What to Learn First? Pt.2 - Lyzi Diamond](https://lyzidiamond.com/posts/what-to-learn-first-pt-2)
-    * [How Simplicity Will Save GIS - Vladimir Agafonkin](https://vimeo.com/106112939)
-* Optional, but so good:
+  * [The Origins of Cartography, G. Malcolm Lewis](https://www.press.uchicago.edu/books/HOC/HOC_V1/HOC_VOLUME1_chapter3.pdf)
+  * [Determine Longitude, Science Online](https://www.youtube.com/watch?v=b7yoXhbOQ3Y) // HIGHLY RECOMMEND
+  * On Geographic Coordinate Systems and Projections:
+    * [NOAA, on Geographic Coordinate Systems and Datums](https://www.ngs.noaa.gov/corbin/class_description/NGS_Datums_vid1/)
+    * [The mercator projection - EPSG:4326 vs. EPSG:3867, Lyzi Diamond](https://lyzidiamond.com/posts/4326-vs-3857)
+    * [The Google Maps / Bing Maps Spherical Mercator Projection, Alastair Aitchison](https://alastaira.wordpress.com/2011/01/23/the-google-maps-bing-maps-spherical-mercator-projection/)
+    * [Introduction to Map Projections](https://whereexactlymaps.com/blogs/articles/an-introduction-to-map-projections)
+    * [Types of Map Projections, Mr. Sinn](https://www.youtube.com/watch?v=IBYzeT2O97g)
+  * On surveying:
+    * [How Does Land Surveying Work?](https://www.youtube.com/watch?v=q20-DBAmm2E)
+    * [Practical Engineering, How does land surveying work?](https://www.youtube.com/watch?v=SPCewaAfqPA)
+    * [The Chronometer that changed the world](https://www.youtube.com/watch?v=f4fQu2gClos)
+    * [How does GPS Work?](https://www.youtube.com/watch?v=FU_pY2sTwTA)
+  * [How did they make those maps?](https://www.youtube.com/watch?v=wbwmXKwkgaw) // highly recommend
   * [Feminism and Geographic Information Systems: From  a  Missing  Object  to  a  Mapping  Subject](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1749-8198.2007.00028.x)
   * [The Map and the Development of the History of Cartography, J.B. Harley](https://www.press.uchicago.edu/books/HOC/HOC_V1/HOC_VOLUME1_chapter1.pdf)
   * [Views on Digital Maps and Open Data, H. Jo](https://medium.com/seoul-libre-maps/views-on-digital-maps-and-open-data-f225afc81412)
@@ -166,6 +163,10 @@
 <!-- Maps as Media | Spatial Abstraction -->
 
 ### READINGS
+* https://lisacharlotterost.de/2016/04/21/Maps-vs-Territory/
+* [How Simplicity Will Save GIS - Vladimir Agafonkin](https://vimeo.com/106112939)
+* [Critiquing Maps II, S. Mattern](http://www.wordsinspace.net/wordpress/2013/09/05/critiquing-maps-ii/) // a helpful guide for map reading
+
 
 * Required:
   * Calculated space and calls to action

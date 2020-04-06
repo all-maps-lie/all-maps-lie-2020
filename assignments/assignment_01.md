@@ -33,7 +33,7 @@ The 3 activities are outlined in further detail below.
 
 As part of the [final project](final-project.md) in this course, you will be required to submit a [final project proposal](final-project.md#part-1-written-proposal). Please see the requirements there. You will have 2 weeks to complete the final project proposal, however, you will **begin the process of brainstorming, researching, and articulating your ideas now**. 
 
-As writted in the proposal outline, you will need to include:
+As written in the proposal outline, you will need to include:
 
 1. a topic description, thematic overview, problem statement, or research question; 
 2. a discussion of your topic’s personal relevance, larger critical or political significance, timeliness, etc.; 
