@@ -7,8 +7,8 @@
 >“Maps are graphic representations that facilitate spatial understanding of things, concepts, conditions, processes or events in the human world (Harley & woodward 1987)” - via Crampton (2010) 
 
 ## SLIDES & NOTES
-* ↳ [Link to Slides]()
-* ↳ [Link to Notes]()
+* ↳ [Link to Slides](https://docs.google.com/presentation/d/1L62tvt_f6OsLgvwgYlZgs2KK6hp5ksWDzvwv95XxPSs/edit?usp=sharing)
+* ↳ [Link to Notes](https://docs.google.com/document/d/1AzhMi-AjhHBwfdx_fLjEx201qIaF5BSrRtNTmTNRJAU/edit?usp=sharing)
 
 ## ABOUT
 
