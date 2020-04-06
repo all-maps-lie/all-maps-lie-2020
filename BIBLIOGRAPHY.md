@@ -4,7 +4,7 @@
   - [WEEK 01: Everything is Spatial](#week-01-everything-is-spatial)
     - [READINGS](#readings)
     - [WORKS CITED](#works-cited)
-  - [WEEK 02: Countermaps & Cartographics](#week-02-countermaps--cartographics)
+  - [WEEK 02: Thinking out place](#week-02-thinking-out-place)
     - [READINGS](#readings-1)
     - [WORKS CITED](#works-cited-1)
   - [WEEK 03: Reading & Writing Space](#week-03-reading--writing-space)
@@ -113,8 +113,7 @@
 ***
 ***
 
-## WEEK 02: Countermaps & Cartographics
-<!-- Countermaps & Cartographics | Map Mashups -->
+## WEEK 02: Thinking out place
 
 ### READINGS
 
@@ -413,6 +412,9 @@ There's so much we didn't get to discuss in this class, but I hope the course wa
       * [D3](https://d3js.org/)
     * Web-based Geospatial Data Processing
       * [Turf.js](https://turfjs.org/) // Turfjs for running on the server or browser. 
+    * Geodatabases:
+      * [PostGres w/ PostGIS]() // pretty much the standard for open source geo data management and geoprocessing - in all honesty, I've only recently started setting up my own infrastructure w/ postgres and PostGIS. In the past I've just used the Carto.js API!
+      * [Mongodb]() // mongodb has some spatial methods, but not as sophisticated as PostGIS!
   * Maps these days rarely live by themselves:
     * [ChartJS](https://www.chartjs.org/) // friendly canvas based rendering
     * [Plotly - JavaScript](https://plot.ly/javascript/) // svg based rendering
