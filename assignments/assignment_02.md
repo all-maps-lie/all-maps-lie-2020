@@ -18,9 +18,9 @@ The 3 activities are outlined in further detail below.
 
 The final project briefing outlines the requirements for the written and presentational portions of the final project proposal. Completing your proposal should be your main focus this week. 
 
-- [PROPOSAL](./final-project.md#proposal)
-  - [PART 1: WRITTEN PROPOSAL](./final-project.md#part-1-written-proposal)
-  - [PART 2: VIDEO PROPOSAL PRESENTATION](./final-project.md#part-2-video-proposal-presentation)
+- [PROPOSAL](assignments/final-project.md#proposal)
+  - [PART 1: WRITTEN PROPOSAL](assignments/final-project.md#part-1-written-proposal)
+  - [PART 2: VIDEO PROPOSAL PRESENTATION](assignments/final-project.md#part-2-video-proposal-presentation)
 
 As part of your final project proposal preparation you may consider to practice your new mapping skills using Kepler.gl (see: [kepler.gl guide](../guides/keplergl-guide.md)) that we learned about in class. You can use those maps and initial data visualizations as material in your proposal! 
 

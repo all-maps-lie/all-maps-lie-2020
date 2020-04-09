@@ -1,4 +1,4 @@
-# Week 3: Reading & Writing Space
+# Week 3: 
 
 > Maps are not representational by “processual” - that is they emerge on through practices and not through definitions - (Kitchen & dodge 2007)
 >
@@ -11,13 +11,11 @@
 
 ## ABOUT
 
-This week our theme is "Maps as Media." We build off of our discussions from last week to dive deeper into ways that space is "calculated," how that manifests in shaping the world, and what that means for us as those who are simultaneously mapping and being mapped.
 
-This week we will focus on spatial abstraction and how we can use and abuse different geospatial tools and APIs to explore spatial data. Using the data we have been collecting and our exposure to web mapping from last week, we will take a look at various methods for calculating space using turf.js.
 
 ## TABLE OF CONTENTS
 
-- [Week 3: Reading & Writing Space](#week-3-reading--writing-space)
+- [Week 3:](#week-3)
   - [SLIDES](#slides)
   - [ABOUT](#about)
   - [TABLE OF CONTENTS](#table-of-contents)
@@ -34,10 +32,26 @@ This week we will focus on spatial abstraction and how we can use and abuse diff
 
 ## PACING / DURATION
 
-* :60m - lecture & discussion
-* :10m - break
-* :70m - intro to turf.js
-* :10m - assignment overview
+* :05m - Getting Settled
+* :60m - Project proposals, in this order:
+    * Max & Tirta
+    * Ji
+    * Caleb
+    * Paulami
+    * Winnie
+    * Emma
+    * Julian
+    * Ruixian & Tianxu
+    * Guillermo
+    * Sydney
+    * Monni
+    * Martin
+    * Karina
+    * Pablo
+* :15m - Week 2 Review
+* :15m - Project Highlight
+* :45m - Week 3
+  * 
 
 
 ## TOPICS
@@ -63,3 +77,8 @@ This week we will focus on spatial abstraction and how we can use and abuse diff
   * visualization: turf binning - grids, isolines
   * https://turfjs.org/docs/#tesselate
  -->
+
+
+<!-- This week our theme is "Maps as Media." We build off of our discussions from last week to dive deeper into ways that space is "calculated," how that manifests in shaping the world, and what that means for us as those who are simultaneously mapping and being mapped.
+
+This week we will focus on spatial abstraction and how we can use and abuse different geospatial tools and APIs to explore spatial data. Using the data we have been collecting and our exposure to web mapping from last week, we will take a look at various methods for calculating space using turf.js. -->

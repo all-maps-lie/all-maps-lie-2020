@@ -44,7 +44,7 @@ This proposal should include:
 
 ### PART 2: VIDEO PROPOSAL PRESENTATION
 
-You’ll share your proposal in class as a 2-min (maxiumum) long video that coherently explains what you have proposed in your written proposal, highlighting proofs of concept, sketches, prototypes, and any materials that support your proposal. You will upload these materials to GDrive or Youtube to share during Week 3's class.
+You’ll share your proposal in class as a 2-min (maximum) long video that coherently explains what you have proposed in your written proposal, highlighting proofs of concept, sketches, prototypes, and any materials that support your proposal. You will upload these materials to GDrive or Youtube to share during Week 3's class.
 
 ### PROGRESS
 
