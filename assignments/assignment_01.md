@@ -31,7 +31,7 @@ The 3 activities are outlined in further detail below.
 
 ### Part 1: Final Project Proposal Brainstorming & Moodboard
 
-As part of the [final project](final-project.md) in this course, you will be required to submit a [final project proposal](final-project.md#part-1-written-proposal). Please see the requirements there. You will have 2 weeks to complete the final project proposal, however, you will **begin the process of brainstorming, researching, and articulating your ideas now**. 
+As part of the [final project](assignments/final-project.md) in this course, you will be required to submit a [final project proposal](assignments/final-project.md#part-1-written-proposal). Please see the requirements there. You will have 2 weeks to complete the final project proposal, however, you will **begin the process of brainstorming, researching, and articulating your ideas now**. 
 
 As written in the proposal outline, you will need to include:
 
