@@ -20,6 +20,7 @@
   * Setup
     * [Course Materials](guides/course-materials-guide.md)
   * General
+    * [Geo Intro Guide](guides/geo-intro-guide.md)
     * [Geo Knowledge Guide](guides/geo-knowlege-guide.md)
     * [Geospatial Data Guide](guides/geospatial-data-guide.md)
     * [Projections Guide](guides/projections-guide.md)
