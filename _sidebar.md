@@ -22,7 +22,7 @@
   * General
     * [Geo Intro Guide](guides/geo-intro-guide.md)
     * [Geo Knowledge Guide](guides/geo-knowlege-guide.md)
-    * [Geospatial Data Guide](guides/geospatial-data-guide.md)
+    * [Geo Data Guide](guides/geo-data-guide.md)
     * [Projections Guide](guides/projections-guide.md)
   * Data Collection
     * [Paying Attention Guide](guides/paying-attention-guide.md)
