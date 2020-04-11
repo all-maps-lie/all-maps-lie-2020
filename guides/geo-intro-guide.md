@@ -140,15 +140,13 @@ There are many GIS softwares out there ranging from commercial, proprietary solu
 
 Spatial data can be considered anything that has location information associated with it. In some ways *all data are spatial* - since all things happen somewhere - however there are some data that are perhaps *more spatial* than others. 
 
-→ Learn more about Spatial Data: [Geospatial Data Guide](guides/geospatial-data-guide.md)
+→ Learn more about Spatial Data: [Geospatial Data Guide](guides/geo-data-guide.md)
 
 ## (Geographic) data types
 
-Data can be broadly classified into 3 groups: Numeric, Nominal, and Ordinal Data. 
+Data can be broadly classified into 3 groups: Numeric, Nominal, and Ordinal Data.
 
-Details are from [Axis Cartography Guide - Levels of measurement](https://www.axismaps.com/guide/data/level-of-measurement/).
-
-→ Learn more about Spatial Data Types: [Geospatial Data Guide - data types](guides/geospatial-data-guide.md#geographic-data-types)
+→ Learn more about Spatial Data Types: [Geospatial Data Guide - data types](guides/geo-data-guide.md#geographic-data-types)
 
 ## Anatomy of a Web Map
 

@@ -108,6 +108,7 @@ where:
 * [Raster Defined - ESRI](https://support.esri.com/en/other-resources/gis-dictionary/search/raster)
 * You can read more about [raster data in ESRI's guide](https://desktop.arcgis.com/en/arcmap/10.3/manage-data/raster-and-images/what-is-raster-data.htm) and more about [raster cell size](https://desktop.arcgis.com/en/arcmap/10.3/manage-data/raster-and-images/cell-size-of-raster-data.htm).
 
+Read more about the [advantages and disadvantages of raster and vector data](http://planet.botany.uwc.ac.za/nisl/GIS/GIS_primer/page_19.htm)
 
 ### Vector
 
@@ -159,6 +160,7 @@ Vector data come in 3 main flavors: points, lines, and polygons
 | Vector data can be more spatially precise | --- | Doing geospatial operations with vector data is computationally expensive |
 | Vector data can be prettier - nice curves! | --- | ------------- |
 
+Read more about the [advantages and disadvantages of raster and vector data](http://planet.botany.uwc.ac.za/nisl/GIS/GIS_primer/page_19.htm)
 
 ## (Geographic) data types
 
