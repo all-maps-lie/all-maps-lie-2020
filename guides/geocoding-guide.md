@@ -65,8 +65,9 @@ Some examples highlighted below include:
 * Nominatim OSM Search
 
 Others you might check out:
-* LocationIQ Geocoder
-* GoogleMaps API
+* [LocationIQ Geocoder](https://locationiq.com/docs)
+* [GoogleMaps Place Search](https://developers.google.com/places/web-service/search)
+* [Geocode.io Search](https://www.geocod.io/features/api/)
 
 ### Mapbox Search (recommended)
 
