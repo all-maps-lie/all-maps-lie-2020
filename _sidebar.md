@@ -35,6 +35,7 @@
     * [Converting CSVs to GeoJSON](guides/csv-to-geojson-guide.md)
     * [GeoJSON.io Guide](guides/geojson-io.md)
     * [Geocoding Guide](guides/geocoding-guide.md)
+    * [Attribute Joins Guide](guides/attribute-joins-guide.md)
   * Documentation
     * [Data Documentation Guide](guides/data-documentation-guide.md)
     * [Zine Submission Guide](guides/zine-submission-guide.md)

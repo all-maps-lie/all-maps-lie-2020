@@ -13,6 +13,13 @@
     - [Numeric](#numeric)
     - [Nominal](#nominal)
     - [Ordinal](#ordinal)
+  - [Making Data Spatial](#making-data-spatial)
+    - [Geocoding](#geocoding)
+    - [Data Joins](#data-joins)
+    - [Georectification](#georectification)
+  - [Geo Data Processing and Analysis](#geo-data-processing-and-analysis)
+    - [Intro to spatial analysis](#intro-to-spatial-analysis)
+    - [Spatial Data Joins](#spatial-data-joins)
   - [References](#references)
 
 ## What are spatial data?
@@ -197,6 +204,35 @@ Ordinal Data - inherently orderable categorical data like shirt sizes (s / m / l
   * They are not numeric but can be ordered in a meaningful way. 
 
 
+## Making Data Spatial
+
+Spatializing data is a super exciting and key part of working with geospatial data. There are a number of methods of taking data that do not have geographic coordinates associated with them and making those data mappable. Some of those methods are discussed in the guides linked below.
+
+### Geocoding
+
+Please see: [Geocoding Guide](guides/geocoding-guide.md)
+
+### Data Joins
+
+* See: [Attribute Join Guide](guides/attribute-join-guide.md)
+
+### Georectification
+
+* See: [Georectification Guide](guides/georectification-guide.md)
+
+## Geo Data Processing and Analysis
+
+One of the most exciting parts of working with geographic data is the ability and attempt to understand spatial relationships and patterns. There are many many approaches and 
+
+### Intro to spatial analysis 
+
+TBD
+
+### Spatial Data Joins
+
+* [Spatial Joins](guides/turfjs-spatial-joins-guide.md)
+
+
 
 ## References
 
@@ -204,3 +240,4 @@ Ordinal Data - inherently orderable categorical data like shirt sizes (s / m / l
 * [Spatial Database - Wikipedia](https://en.wikipedia.org/wiki/Spatial_database)
 * [Geographic Information - Wikipedia](https://en.wikipedia.org/wiki/Geographic_data_and_information)
 * [Raster vs. Vector Data](https://gisgeography.com/spatial-data-types-vector-raster/)
+* [Types of geospatial data](https://gisgeography.com/what-is-geodata-geospatial-data/)
