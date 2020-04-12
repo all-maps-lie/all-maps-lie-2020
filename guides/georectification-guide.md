@@ -2,6 +2,8 @@
 
 Georectification is the process of [rubbersheeting](https://en.wikipedia.org/wiki/Rubbersheeting) an image and applying the necessary distortions such that it can be spatially aligned with the area that the image (presumably) represents.
 
+
+
 Some tools & projects
 
 * MapWarper: https://mapwarper.net/about
