@@ -23,31 +23,32 @@
     * [Geo Intro Guide](guides/geo-intro-guide.md)
     * [Geo Knowledge Guide](guides/geo-knowlege-guide.md)
     * [Geo Data Guide](guides/geo-data-guide.md)
-    * [Projections Guide](guides/projections-guide.md)
+    <!-- * [Projections Guide](guides/projections-guide.md) -->
   * Data Collection
     * [Paying Attention Guide](guides/paying-attention-guide.md)
-    <!-- * [Analog Data Collection](guides/analog-data-collection-guide.md) -->
-    <!-- * [Camera Phone Data Guide](guides/camera-phone-guide.md) -->
-    <!-- * [Paper Mapping - Field Papers](guides/fieldpapers-guide.md) -->
-    <!-- * [Google Form Guide](guides/google-form-guide.md) -->
-    * [Overpass API - OSM](guides/osm-overpass-api.md) 
+    * [Overpass API - OSM](guides/osm-overpass-api.md)
+    * [Streetview Mapper](https://learn.streetview-mapper.org/#/)
   * Data Processing
     * [Converting CSVs to GeoJSON](guides/csv-to-geojson-guide.md)
     * [GeoJSON.io Guide](guides/geojson-io.md)
     * [Geocoding Guide](guides/geocoding-guide.md)
     * [Attribute Joins Guide](guides/attribute-joins-guide.md)
+    * [Spatial Joins Guide](guides/turfjs-spatial-joins-guide.md)
+    <!-- * * [Turfjs Guide](guides/turfjs-guide.md) -->
   * Documentation
     * [Data Documentation Guide](guides/data-documentation-guide.md)
     * [Zine Submission Guide](guides/zine-submission-guide.md)
   * Web Mapping
     * [Kepler.gl Guide](guides/keplergl-guide.md)
     * [Leafletjs Guide](guides/leafletjs-guide.md)
-    * [Mapbox Static Imagery Guide](guides/mapbox-static-guide.md)
     * [MapboxGL Guide](guides/mapboxgl-guide.md)
-    * [Google Streetview Guide](guides/google-streetview-guide.md)
-  * Geoprocessing
-    * [Turfjs Guide](guides/turfjs-guide.md)
+    * [Mapbox Static Imagery Guide](guides/mapbox-static-guide.md)
+    * [Google Streetview Static Image Guide](guides/google-streetview-guide.md)
   * Uncategorized
-    * [critical-mapping-guide.md](guides/critical-mapping-guide.md)
+    <!-- * [critical-mapping-guide.md](guides/critical-mapping-guide.md) -->
   
   
+  <!-- * [Analog Data Collection](guides/analog-data-collection-guide.md) -->
+    <!-- * [Camera Phone Data Guide](guides/camera-phone-guide.md) -->
+    <!-- * [Paper Mapping - Field Papers](guides/fieldpapers-guide.md) -->
+    <!-- * [Google Form Guide](guides/google-form-guide.md) -->
