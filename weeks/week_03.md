@@ -7,27 +7,24 @@
 > “In the process, [map amateurs] are reshaping the world of mapmaking and collectively creating a new atlas that is lieky to be both richer and messier than any other” - Helft 2007, New York Times
 
 ## SLIDES
-* ↳ [Link to Slides]()
+* ↳ [Link to Slides](https://docs.google.com/presentation/d/1ecmLhAeTkEh0OJu5BKN5j98mMKayuZkDL1zaW0A7g7U/edit?usp=sharing)
+* ↳ [Link to Notes](https://docs.google.com/document/d/1rIB-2ALYp0YmttvXNqfW2gPTkymAAmbNxQdlfEVNzcs/edit?usp=sharing)
 
-## ABOUT
-
+<!-- ## ABOUT -->
 
 
 ## TABLE OF CONTENTS
 
 - [Week 3:](#week-3)
   - [SLIDES](#slides)
-  - [ABOUT](#about)
   - [TABLE OF CONTENTS](#table-of-contents)
-  - [OUTCOMES & GOALS](#outcomes--goals)
   - [PACING / DURATION](#pacing--duration)
-  - [TOPICS](#topics)
   - [REFERENCES](#references)
   - [STUDIO](#studio)
   - [ASSIGNMENT](#assignment)
 
 
-## OUTCOMES & GOALS
+<!-- ## OUTCOMES & GOALS -->
 
 
 ## PACING / DURATION
@@ -48,23 +45,44 @@
     * Martin
     * Karina
     * Pablo
-* :15m - Week 2 Review
 * :15m - Project Highlight
-* :45m - Week 3
-  * 
+* :15m - Mid-term check-in
+* :15m - Assignment #3 Overview
+* :30m - Thematic Maps
+    * choropleths
+    * dot density
+    * proportional symbols
+    * Flow Maps
+    * and cartograms
+  * To create these maps we generally are using existing or creating our data
+    * Geocoding
+    * Attribute Joins
+    * Spatial Joins
+  * Creating thematic maps:
+    * Kepler.gl
+    * DataWrapper
+      * maps support
+    * leaflet.js
+      * maptime boston tutorial
+      * geosandbox
+      * leaflet.js starter
+    * QGIS
 
-
-## TOPICS
 
 
 ## REFERENCES
 
-* See [Week 3 Readings and Project References](../BIBLIOGRAPHY.md#week-03-maps-as-media).
+* See [Week 3 Readings and Project References](../BIBLIOGRAPHY.md#week-03-thinking-out-space).
 
 ## STUDIO
 
-* ↳ [Link to Studio](#)
-
+* ↳ [Leaflet.js Tutorial - Maptime Boston](https://maptimeboston.github.io/leaflet-intro/)
+* ↳ [Leaflet.js Tutorial - Geosandbox](https://joeyklee.github.io/geosandbox/)
+* ↳ [Data Wrapper Academy](https://academy.datawrapper.de/)
+* ↳ [Geocoding guide](../guides/geocoding-guide.md)
+* ↳ [Attribute Join guide](../guides/attribute-joins-guide.md)
+* ↳ [Spatial Join guide](../guides/attribute-joins-guide.md)
+  
 ## ASSIGNMENT
 
 * ↳ [Link to Assignment](../assignments/assignment_03.md).

@@ -3,29 +3,29 @@
 - [Bibliography](#bibliography)
   - [DATA SOURCES](#data-sources)
   - [PODCASTS](#podcasts)
-  - [PEOPLE/BLOGS TO FOLLOW](#peopleblogs-to-follow)
+  - [PEOPLE & THEIR PROJECTS](#people--their-projects)
   - [WEEK 01: Everything is Spatial](#week-01-everything-is-spatial)
     - [READINGS](#readings)
-    - [WORKS CITED](#works-cited)
+    - [Additional References](#additional-references)
   - [WEEK 02: Thinking out place](#week-02-thinking-out-place)
     - [READINGS](#readings-1)
-    - [WORKS CITED](#works-cited-1)
-  - [WEEK 03: Reading & Writing Space](#week-03-reading--writing-space)
+    - [WORKS CITED](#works-cited)
+  - [WEEK 03: Thinking out space](#week-03-thinking-out-space)
     - [READINGS](#readings-2)
-    - [WORKS CITED](#works-cited-2)
+    - [WORKS CITED](#works-cited-1)
   - [WEEK 04: Locative Media](#week-04-locative-media)
     - [READINGS](#readings-3)
     - [Supplemental:](#supplemental)
-    - [WORKS CITED](#works-cited-3)
+    - [WORKS CITED](#works-cited-2)
   - [WEEK 05: Figure-Ground](#week-05-figure-ground)
     - [READINGS](#readings-4)
-    - [WORKS CITED](#works-cited-4)
+    - [WORKS CITED](#works-cited-3)
   - [WEEK 06: Experimental Geography](#week-06-experimental-geography)
     - [READINGS](#readings-5)
-    - [WORKS CITED](#works-cited-5)
+    - [WORKS CITED](#works-cited-4)
   - [WEEK 07: Final Class + "Future directions"](#week-07-final-class--%22future-directions%22)
     - [READINGS](#readings-6)
-    - [WORKS CITED](#works-cited-6)
+    - [WORKS CITED](#works-cited-5)
   - [UNSORTED](#unsorted)
   - [Geo Conferences & talks:](#geo-conferences--talks)
   - [General References](#general-references)
@@ -73,7 +73,7 @@
     * [036  |  Data Art w/ Jer Thorp ](https://datastori.es/data-art-w-jer-thorp/)
     * [020  |  On Maps. With Michal Migurski.](https://datastori.es/data-stories-20-maps-migurski/)
 
-## PEOPLE/BLOGS TO FOLLOW
+## PEOPLE & THEIR PROJECTS
 * [Tom MacWright](https://macwright.org/about/)
   * So many great [talks](https://macwright.org/talks/)
   * Clever [Projects](https://macwright.org/projects/)
@@ -84,21 +84,38 @@
   * [Pathways Project](https://www.nationalgeographic.com/pathways/about.html)
 * [Ingrid Burrington](http://lifewinning.com/)
   * [Submarine Cable Taps](http://lifewinning.com/projects/submarine-cable-taps/)
+  * [Center for Missed Connections, Ingrid Burrington](http://lifewinning.com/projects/center-for-missed-connections/)
 * [Daniel Goddemeyer](http://danielgoddemeyer.com/)
   * [Subspotting](http://subspotting.nyc/main/index.html)
   * [On Broadway](http://on-broadway.nyc/)
   * [Selfie City](http://selfiecity.net/)
 * [Benedikt Groß](https://benedikt-gross.de/)
+  * [Metrography, Benedikt Gross](https://benedikt-gross.de/projects/metrography-london-tube-map-to-large-scale-collective-mental-map)
+* [Benedikt Groß](https://benedikt-gross.de/) & [Joey Lee](https://jk-lee.com)
+  * [Big Atlas of LA Pools (2014), Groß & Lee](https://benedikt-gross.de/projects/the-big-atlas-of-la-pools)
+  * [LA Swimmer (2014), Groß & Lee](https://benedikt-gross.de/projects/la-swimmer)
+  * [Aerial Bold (2016), Groß & Lee](https://benedikt-gross.de/projects/the-aerial-bold-project)
+  * [ABC: Alphabet from the Sky](https://www.penguinrandomhouse.com/books/531659/abc-the-alphabet-from-the-sky-by-benedikt-gross-and-joey-lee/)
+* [Joey Lee](https://jk-lee.com)
+  * [Geography of Hidden Faces (2019)](https://geo.hidden-faces.net/)
 * [Mike Migurski](http://mike.teczno.com/)
-* [Kanarinka](http://www.kanarinka.com/)
+* [Catherine D'Ignazio (a.k.a Kanarinka)](http://www.kanarinka.com/)
+  * * http://www.kanarinka.com/project/iskytv/
+  * http://www.kanarinka.com/project/it-takes-154000-breaths-to-evacuate-boston/
+* [Alan McConchie]()
+  * [Pop vs. Soda]()
 * [Wonyong So](https://wonyoung.so/)
 * [Stamen Design Studio](https://stamen.com/)
+  * [Alan McConchie, Every Line Ever](https://hi.stamen.com/openstreetmap-every-line-ever-every-point-ever-7d78aa0aed8e?gi=dfe5f089bd3f)
+  * [Pop vs. Soda, McConchie](http://popvssoda.com/)
 * [MIT Civic Data Design Lab](http://senseable.mit.edu/)
 * [MIT Senseable City Lab](senseable.mit.edu/)
+  * [Hubcab.org](http://hubcab.org/#13.00/40.7250/-73.9484)
 * [Eric Escoffier](http://nerik.github.io/)
 * [Lisa Charlotte Rost](https://lisacharlotterost.de/)
 * [Derek Watkins](https://www.nytimes.com/by/derek-watkins)
 * [Dennis Wood](https://en.wikipedia.org/wiki/Denis_Wood)
+  * [Everything Sings (2010), Wood](http://sigliopress.com/book/everything-sings/)
 * [Vladimir Agafonkin](https://agafonkin.com/)
 * [Brian T. Jacobs](http://briantjacobs.com/) // national geographic, propublica, awesome
 * [Robin Tolochko](http://tolomaps.github.io/)
@@ -111,14 +128,31 @@
 * [Lyzi Diamond](https://lyzidiamond.com/)
 * [Andy Woodruff](http://andywoodruff.com/)
 * [James Bridle]()
+  * [Dronestagram (2004), Bridle](http://jamesbridle.com/works/dronestagram)
 * [Periscopic Studio]()
 * [Moovel Lab]()
+  * [Roads to Rome, Move Lab](https://www.move-lab.com/projects/roads-to-rome)
+  * [Flights to Rome, Move lab](https://www.move-lab.com/project/flightstorome/)
 * [Mapzen]() - RIP
 * [Propublica]()
 * [New York Times Interactive]()
 * [Eric Fischer]()
-* [Radical Cartography, Bill Rankin](http://www.radicalcartography.net/index.html?chicagodots)
-
+* [Radical Cartography, Bill Rankin](http://www.radicalcartography.net/)
+* [Buzzfeed News]()
+  * [Spies in the sky, Buzzfeed news](https://www.buzzfeednews.com/article/peteraldhous/spies-in-the-skies)
+* [Meipo Kwan](http://meipokwan.org/)
+* [Meaghan Kombol](https://www.meaghankombol.com/work)
+  * [Subway Lines (2007)](https://www.meaghankombol.com/work)
+* [Kate McClean](https://sensorymaps.com/about/)
+  * [Sensory Maps (2006), Mclean](https://sensorymaps.com/)
+* [Shannon Mattern]()
+* [Jenny Odell]() 
+  * [Satellite Collections (2009-2011), Odell](http://www.jennyodell.com/satellite.html)
+* [Trevor Paglen]()
+  * [Trevor Paglen, Limit Telephotography](https://www.paglen.com/?l=work&s=limit&i=3)
+* Misc:
+  * [Eleanor Coppola’s, Windows, 1973](https://openspace.sfmoma.org/2013/01/receipt-of-delivery29/)
+  * [NYC Skate Spots](https://Nycskatespots.com)
 
 
 ***
@@ -146,48 +180,24 @@
     * [Shannon Mattern, “Ether/Ore: An Atlas of Urban Media”](https://vimeo.com/257814992)
     * [Gaps in the Map: The Topologies of Cartography, S. Mattern, 2015](http://wordsinspace.net/shannon/2015/09/18/gaps-in-the-map-why-were-mapping-everything-and-why-not-everything-can-or-should-be-mapped/)
 
-### WORKS CITED
-
-* [Big Atlas of LA Pools (2014), Groß & Lee](https://benedikt-gross.de/projects/the-big-atlas-of-la-pools)
-* [LA Swimmer (2014), Groß & Lee](https://benedikt-gross.de/projects/la-swimmer)
-* [Geography of Hidden Faces (2019)](https://geo.hidden-faces.net/)
-* [Aerial Bold (2016), Groß & Lee](https://benedikt-gross.de/projects/the-aerial-bold-project)
-* [Everything Sings (2010), Wood](http://sigliopress.com/book/everything-sings/)
-* [Satellite Collections (2009-2011), Odell](http://www.jennyodell.com/satellite.html)
-* [Every line Ever (2014), McConchie  | OpenStreetMap (2004), OSM](https://www.openstreetmap.org/#map=11/40.7382/-73.9194)
-* [Dronestagram (2004), Bridle](http://jamesbridle.com/works/dronestagram)
-* [Sensory Maps (2006), Mclean](https://sensorymaps.com/)
-* [Subway Lines (2007),  Meaghan Kombol](https://www.meaghankombol.com/work)
+### Additional References
 * [Graphhopper Open Source](https://www.graphhopper.com/open-source/)
-* [Metrography, Benedikt Gross](https://benedikt-gross.de/projects/metrography-london-tube-map-to-large-scale-collective-mental-map)
-* [Course Webpage](https://all-maps-lie-2020.netlify.com)
 * [You Can See the Coronavirus From Space, Wired](https://www.wired.com/story/coronavirus-satellite-imagery/?mbid=social_twitter&utm_brand=wired&utm_campaign=wired&utm_medium=social&utm_social-type=owned&utm_source=twitter)
 * [Land Acknowledgement](https://native-land.ca/territory-acknowledgement/)
 * [Iterative Process Guide](https://www.smartsheet.com/iterative-process-guide)
-* [ABC: Alphabet from the Sky](https://www.penguinrandomhouse.com/books/531659/abc-the-alphabet-from-the-sky-by-benedikt-gross-and-joey-lee/)
 * [Data Walking](http://www.datawalking.com/)
 * [Desigining the post natural, Tega Brain](https://wp.nyu.edu/postnatural/)
-* [Eleanor Coppola’s, Windows, 1973](https://openspace.sfmoma.org/2013/01/receipt-of-delivery29/)
 * [NYC Bodega, Curbed](https://ny.curbed.com/2017/9/13/16301574/bodega-silicon-valley-app-new-york)
 * [Implosion Project](https://prezi.com/ifpfjskq5aws/implosion-project-landfill/)
-* [NYC Skate Spots](https://Nycskatespots.com)
-* [Center for Missed Connections, Ingrid Burrington](http://lifewinning.com/projects/center-for-missed-connections/)
-* [Pop vs. Soda, McConchie](http://popvssoda.com/)
-* [Trevor Paglen, Limit Telephotography](https://www.paglen.com/?l=work&s=limit&i=3)
 * [Inside the CIA's Black site torture room, The Guardian](https://www.theguardian.com/us-news/ng-interactive/2017/oct/09/cia-torture-black-site-enhanced-interrogation)
-* [Spies in the sky, Buzzfeed news](https://www.buzzfeednews.com/article/peteraldhous/spies-in-the-skies)
 * [Privacy Project, NYT](https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html)
 * [SubwayCableMap](https://www.submarinecablemap.com/)
-* [Subway Cable Taps, Ingrid Burrington](http://lifewinning.com/projects/submarine-cable-taps/)
 * [Simplicity will save us, Vladimir Agrofonkin](https://vimeo.com/106112939)
 * [Space as as key word](http://history-theory.blogspot.com/2009/10/space-as-key-word-david-harvey.html)
 * [Floating Sheep](http://www.floatingsheep.org/)
 * [UCLA Geographers tried to calculate Bin Laden's WWherabouts in 2009](https://www.npr.org/sections/thetwo-way/2011/05/04/135980761/ucla-geographers-tried-to-calculate-bin-ladens-whereabouts-in-2009)
 * [As Greenland Melts, Where's t he Water Going?](https://www.nytimes.com/interactive/2017/12/05/climate/greenland-ice-melting.html)
-* [Hubcab.org](http://hubcab.org/#13.00/40.7250/-73.9484)
-* [Everything Sings, Dennis Wood](http://sigliopress.com/book/everything-sings/)
 * [New Lines: Critical GIS and the Trouble of the Map](https://www.upress.umn.edu/book-division/books/new-lines)
-* [Meipo Kwan](http://meipokwan.org/)
 * [Power broker, Robert Caro](https://www.abebooks.com/Power-Broker-Robert-Moses-Fall-New/30568170759/bd?cm_mmc=ggl-_-US_Shopp_Trade-_-used-_-naa&gclid=EAIaIQobChMIpZ_G-5jB6AIVwoFaBR1AKwtbEAQYBCABEgKE3vD_BwE)
 * [How the Coastline Became a Place to Put the Poor, NYT](https://www.nytimes.com/2012/12/04/nyregion/how-new-york-citys-coastline-became-home-to-the-poor.html)
 * [The war space, Jones](https://www.thewarspace.com/the-war-lawyers)
@@ -197,10 +207,6 @@
 * https://www.nationalgeographic.com/news/2016/10/propaganda-war-maps-gallery/#/11_war_map_bolshevism.jpg
 * [Antieviction mapping project](https://www.antievictionmap.com/)
 * [Housingmaps](housingmaps.com/)
-* http://www.kanarinka.com/project/iskytv/
-* http://www.kanarinka.com/project/it-takes-154000-breaths-to-evacuate-boston/
-* https://hi.stamen.com/openstreetmap-every-line-ever-every-point-ever-7d78aa0aed8e?gi=dfe5f089bd3f
-
 
 ***
 ***
@@ -253,28 +259,27 @@
 ***
 ***
 
-## WEEK 03: Reading & Writing Space
-<!-- Maps as Media | Spatial Abstraction -->
+## WEEK 03: Thinking out space
+
 
 ### READINGS
-* https://lisacharlotterost.de/2016/04/21/Maps-vs-Territory/
-* [How Simplicity Will Save GIS - Vladimir Agafonkin](https://vimeo.com/106112939)
-* [Critiquing Maps II, S. Mattern](http://www.wordsinspace.net/wordpress/2013/09/05/critiquing-maps-ii/) // a helpful guide for map reading
-
-
 * Required:
   * Calculated space and calls to action
     * [Chapter 6: Governing with Maps: Cartographic Political Economy, pg. 62 - 81, Mapping: A Critical Introduction to Cartography and Mapping, J. Crampton (2010)](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=4433111&ppg=76)
     * [Chapter 8: GIS After Critique: What’s next?, pg. 98 - 112, Mapping: A Critical Introduction to Cartography and Mapping, J. Crampton (2010)](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=4433111&ppg=112)
-    * [“Maps as Media,” Words In Space (September 15, 2015), S. Mattern](http://wordsinspace.net/shannon/2015/09/18/gaps-in-the-map-why-were-mapping-everything-and-why-not-everything-can-or-should-be-mapped/)
+    * [“Mapping’s Intelligent Agents” Places Journal (September 2017), S. Mattern](https://placesjournal.org/article/mappings-intelligent-agents/)
+    * [Critiquing Maps II, S. Mattern](http://www.wordsinspace.net/wordpress/2013/09/05/critiquing-maps-ii/) // a helpful guide for map reading
+  * On the development of leaflet.js and building simpler tools:
+    * [How Simplicity Will Save GIS - Vladimir Agafonkin](https://vimeo.com/106112939)
 * Optional:
+  * [Map vs. Territory](https://lisacharlotterost.de/2016/04/21/Maps-vs-Territory/)
+  * [Bret Victor - Inventing on Principle](https://vimeo.com/36579366) // really a nice talk about making things visual
   * [Why don't we call south, up?, M. Foster](http://www.graphicarto.com/directional-cartography-maps-and-relative-direction/)
   * [Gaps in the Map: Why We’re Mapping Everything, and Why Not Everything Can, or Should, be Mapped, S.Mattern](http://wordsinspace.net/shannon/2015/09/18/gaps-in-the-map-why-were-mapping-everything-and-why-not-everything-can-or-should-be-mapped/)
 
 
 ### WORKS CITED
 
-* [Roads to Rome, Move Lab](https://www.move-lab.com/projects/roads-to-rome), [Flights to Rome, Move lab](https://www.move-lab.com/project/flightstorome/)
 * [All Roads Lead to X, J. Bridle](http://www.jamesbridle.com/works/all-roads-lead-to-x)
 * [Shifted Maps, Otten & Hildebrandt](http://www.heikeotten.de/portfolio/shiftedmaps/)
 * [St. Louis Map Room, J. Thorp](https://www.jerthorp.com/stlmaproom)
