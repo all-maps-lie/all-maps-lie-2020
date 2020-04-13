@@ -828,7 +828,7 @@ Most of the open-source geocoding platforms are designed for you to host your ow
 * [Pelias Geocoder](https://pelias.io/)
   * [Pelias Documentation](https://github.com/pelias/documentation)
   * [Installation w/ Docker](https://github.com/pelias/pelias/#how-can-i-install-my-own-instance-of-pelias) // NOTE: Installation is not trivial!
-
+* [OpenAddresses.io](https://openaddresses.io/)
 
 
 ## Additional References

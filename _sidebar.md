@@ -19,6 +19,7 @@
 * Guides
   * Setup
     * [Course Materials](guides/course-materials-guide.md)
+    * [Geostack Guide](guides/geostack-guide.md)
   * General
     * [Geo Intro Guide](guides/geo-intro-guide.md)
     * [Geo Knowledge Guide](guides/geo-knowlege-guide.md)
