@@ -15,8 +15,8 @@ This guide is a gentle introduction to kepler.gl.
 In order to export maps, you'll need your own Mapbox API key. To get a Mapbox API key you can [Sign up with Mapbox](https://www.mapbox.com/). You can learn more about how [Mapbox API keys work here](https://docs.mapbox.com/help/how-mapbox-works/access-tokens/).
 
 You might also take a look at:
-* [Geojson.io Guide](./geojson-io.md) in case you want to make your own geojson data to use in Kepler.gl or the [csv to geojson guide]() in case you have CSV data you want to turn into GeoJSON (though Kepler will already be able to parse this for you).
-* [The Geospatial data guide]() // it is still a work in progress, but there might be some helpful tips.
+* [Geojson.io Guide](guides/geojson-io.md) in case you want to make your own geojson data to use in Kepler.gl or the [csv to geojson guide](guides/csv-to-geojson-guide.md) in case you have CSV data you want to turn into GeoJSON (though Kepler will already be able to parse this for you).
+* [The Geospatial data guide](guides/geo-data-guide.md) // it is still a work in progress, but there might be some helpful tips.
 * [Anatomy of a web map](http://maptime.io/anatomy-of-a-web-map/#0) to learn more about web maps
 
 ## Data you can use
@@ -74,7 +74,7 @@ In a workshop prepared by @joeyklee, Hubway data from January 2017 was downloade
 The trip counts between stations were aggregated in this csv file below:
 * [Hubway Trip Counts - January 2017](https://raw.githubusercontent.com/joeyklee/hello-vector-tiles/master/data/201701-hubway-tripdata-counts.csv)
 
-Using a routing engine called [Graphhopper](), routes were calculates from each starting and ending station based on the road network to produce routes for the assumed travel route of the rider. Of course these are not the exact routes, but they are approximations derived from the starting and ending locations:
+Using a routing engine called [Graphhopper](https://www.graphhopper.com/), routes were calculates from each starting and ending station based on the road network to produce routes for the assumed travel route of the rider. Of course these are not the exact routes, but they are approximations derived from the starting and ending locations:
 * [Hubway Routed Data](https://github.com/joeyklee/hello-vector-tiles/blob/master/data/201701_hubway_routes_all.geojson) using the Graphhopper routing engine.
 
 ### Visualization 1: Origin-Destination(OD) Matrix 

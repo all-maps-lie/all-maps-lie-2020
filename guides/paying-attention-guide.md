@@ -65,11 +65,11 @@ Data collection is a habit and takes practice. You can think about ways to help 
 
 # TECHNICAL
 
-* [Camera Phone Guide](./camera-phone-guide.md) // Photography
-* [Field Papers Guide](./fieldpapers-guide.md) // paper mapping
-* [Analog Data Collection - Pen & Paper](./analog-data-collection-guide.md)
-* [Google Form Guide](./google-form-guide.md)
-* [Google Street View Guide](./google-streetview-guide.md) // Google Street View
+* [Camera Phone Guide](guides/camera-phone-guide.md) // Photography
+* [Field Papers Guide](guides/fieldpapers-guide.md) // paper mapping
+* [Analog Data Collection - Pen & Paper](guides/analog-data-collection-guide.md)
+* [Google Form Guide](guides/google-form-guide.md)
+* [Google Street View Guide](guides/google-streetview-guide.md) // Google Street View
 * [iNaturalist](https://www.inaturalist.org/)
 
 

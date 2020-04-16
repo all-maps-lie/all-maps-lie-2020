@@ -31,7 +31,7 @@ At the beginning of the semester you should begin to think about a fluid, capaci
 
 ### PART 1: WRITTEN PROPOSAL
 
-You’ll need to submit a 600-word (max., or otherwise substantial) proposal for this project, via the [Google Forms Submission Form](). 
+You’ll need to submit a 600-word (max., or otherwise substantial) proposal for this project, via the [Google Forms Submission Form](https://forms.gle/1tAfHZXEejZDubHg9). 
 
 This proposal should include:
 
@@ -51,7 +51,7 @@ You’ll share your proposal in class as a 2-min (maximum) long video that coher
 You will be expected to meet with your instructor *at least* twice  throughout the semester for progress updates. 
 
 **Required:**
-* Progress updates will take the form of 15 min meetings every other week based on which Block you are in. Please see the [Weekly Schedule](https://all-maps-lie-2020.netlify.com/#/README?id=weekly-schedule) to determine which week you are required to check-in.
+* Progress updates will take the form of 15 min meetings every other week based on which Block you are in. Please see the [Weekly Schedule](README?id=weekly-schedule) to determine which week you are required to check-in.
 
 Make sure you book office hours - checking in will be part of your evaluations:
   * Block 1
