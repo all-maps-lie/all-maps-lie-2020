@@ -11,7 +11,7 @@ The 3 activities are outlined in further detail below.
 
 ## READINGS
 
-* See [Week 2 Readings](../BIBLIOGRAPHY.md#week-02-thinking-out-space)
+* See [Week 2 Readings](BIBLIOGRAPHY.md#week-02-thinking-out-space)
 
 
 ## FINAL PROJECT PROPOSAL DUE
@@ -22,11 +22,11 @@ The final project briefing outlines the requirements for the written and present
   - [PART 1: WRITTEN PROPOSAL](assignments/final-project.md#part-1-written-proposal)
   - [PART 2: VIDEO PROPOSAL PRESENTATION](assignments/final-project.md#part-2-video-proposal-presentation)
 
-As part of your final project proposal preparation you may consider to practice your new mapping skills using Kepler.gl (see: [kepler.gl guide](../guides/keplergl-guide.md)) that we learned about in class. You can use those maps and initial data visualizations as material in your proposal! 
+As part of your final project proposal preparation you may consider to practice your new mapping skills using Kepler.gl (see: [kepler.gl guide](guides/keplergl-guide.md)) that we learned about in class. You can use those maps and initial data visualizations as material in your proposal! 
 
 ## Web Mapping Practice (optional)
 
-Revisit the [kepler.gl guide](../guides/keplergl-guide.md) and try exploring different data. 
+Revisit the [kepler.gl guide](guides/keplergl-guide.md) and try exploring different data. 
 
 What kinds of different visualizations do different data types afford you? What can you do with points that you can't do with lines? What about polygons?
 

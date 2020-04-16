@@ -44,7 +44,7 @@ Office hours are by appointment. Please see the office hour offerings. You are a
 
 | Info | Details | 
 | :---  | ---   | 
-| Office Hours    | [5-6pm, TUE & THUR OR By Appointment](https://calendar.google.com/calendar/selfsched?sstoken=UU9QS0R3c3cybXB4fGRlZmF1bHR8OWY1YWExODk4YTc3YTNkMjM5MDg4ZTIxMmE3OTY5MjM) |
+| Office Hours    | [3:30-6:30pm, TUE & THUR OR By Appointment](https://calendar.google.com/calendar/selfsched?sstoken=UU9QS0R3c3cybXB4fGRlZmF1bHR8OWY1YWExODk4YTc3YTNkMjM5MDg4ZTIxMmE3OTY5MjM) |
 | Location | <s>ITP FLOOR or ITP RESIDENT'S OFFICE </s> via Zoom or Google Hangouts |
 
 * NOTE: If you can't make those times, please send me an email and we can chat at another time or via video conference.
@@ -80,7 +80,7 @@ To my students: Please jump into your group's respective channels!
 
 ## CODE OF CONDUCT
 
-* ↳ [Read the Code Of Conduct here](/CODEOFCONDUCT.md)
+* ↳ [Read the Code Of Conduct here](./CODEOFCONDUCT.md)
 
 ## IN ACKNOWLEDGEMENT OF THE LAND
 
@@ -108,13 +108,13 @@ References: [Jer Thorp's Land Notice](https://github.com/blprnt/DataPublics#land
 
 | GO TO  |  DATE  | THEME | NOTES | CHECK-IN BLOCK |
 | :----         |  ----  | ---- | ---- | ---- |
-| [WEEK 01](weeks/week_01.md) | MAR 30 | Everything is Spatial  | Setting the stage | Open Office Hours |
-| [WEEK 02](weeks/week_02.md) | APR 06 | Countermaps & Cartographics | What is on a map? What power do maps wield? | **Block 1** |
-| [WEEK 03](weeks/week_03.md) | APR 13 | Maps as Media  | What are opportunities for rethinking spatial representation? How do we think out space? | **Block 2** |
-| [WEEK 04](.weeks/week_04.md) | APR 20 | Locative Media  | What are opportunities for rethinking geographic interaction & experiences? | **Block 1** |
-| [WEEK 05](weeks/week_05.md) | APR 27 | Figure-Ground | How do we see geography from afar? | **Block 2** |
-| [WEEK 06](weeks/week_06.md) | MAY 04 | Experimental Geography  | How do we situate our spatial media practice? | Open Office Hours |
-| [WEEK 07](weeks/week_07.md) | MAY 11 | Final Class |  How do you map?   | Open Office Hours |
+| [WEEK 01](./weeks/week_01.md) | MAR 30 | Everything is Spatial  | Setting the stage | Open Office Hours |
+| [WEEK 02](./weeks/week_02.md) | APR 06 | Countermaps & Cartographics | What is on a map? What power do maps wield? | **Block 1** |
+| [WEEK 03](./weeks/week_03.md) | APR 13 | Maps as Media  | What are opportunities for rethinking spatial representation? How do we think out space? | **Block 2** |
+| [WEEK 04](./weeks/week_04.md) | APR 20 | Locative Media  | What are opportunities for rethinking geographic interaction & experiences? | **Block 1** |
+| [WEEK 05](./weeks/week_05.md) | APR 27 | Figure-Ground | How do we see geography from afar? | **Block 2** |
+| [WEEK 06](./weeks/week_06.md) | MAY 04 | Experimental Geography  | How do we situate our spatial media practice? | Open Office Hours |
+| [WEEK 07](./guides/geo-intro-guide.mdweeks/week_07.md) | MAY 11 | Final Class |  How do you map?   | Open Office Hours |
 
 
 ## Assignments
@@ -123,13 +123,13 @@ The course is structured around **one project** described in detail here in the 
 
 | ASSIGNMENT  |  DUE DATE  | TITLE | NOTES | 
 | :----         |  ----  | ---- | ---- | 
-| [Final Project Brief](assignments/final-project.md) | MAR 30 - MAY 11 | Final Project Atlas | Course Project Briefing |
-| [A1](assignments/assignment_01.md) |  APR 06   | Scavenger Hunt | Begin Data Collection, Project Proposal |
-| [A2](assignments/assignment_02.md) |  APR 13   | Map Mashups  | Intro to Web Maps, Project Proposal |
-| [A3](assignments/assignment_03.md) |  APR 20   | Spatial Abstraction | (Ab)using Geospatial APIs   |
-| [A4](assignments/assignment_04.md) |  APR 27   | Locative Media | Put Yourself on the Map |
-| [A5](assignments/assignment_05.md) |  MAY 04   | Spatial Gaze | Looking up and looking down |
-| [A6](assignments/assignment_06.md) | MAY 11  | Documentation  | Synthesis & Documentation for Zine  |
+| [Final Project Brief](./assignments/final-project.md) | MAR 30 - MAY 11 | Final Project Atlas | Course Project Briefing |
+| [A1](./assignments/assignment_01.md) |  APR 06   | Scavenger Hunt | Begin Data Collection, Project Proposal |
+| [A2](./assignments/assignment_02.md) |  APR 13   | Map Mashups  | Intro to Web Maps, Project Proposal |
+| [A3](./assignments/assignment_03.md) |  APR 20   | Spatial Abstraction | (Ab)using Geospatial APIs   |
+| [A4](./assignments/assignment_04.md) |  APR 27   | Locative Media | Put Yourself on the Map |
+| [A5](./assignments/assignment_05.md) |  MAY 04   | Spatial Gaze | Looking up and looking down |
+| [A6](./assignments/assignment_06.md) | MAY 11  | Documentation  | Synthesis & Documentation for Zine  |
 
 
 All assignments will be submitted here:

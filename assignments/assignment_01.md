@@ -12,11 +12,11 @@
 
 ## PREREQUISITES
 
-Before you continue, read the [final project briefing](final-project.md). 🙏
+Before you continue, read the [final project briefing](assignments/final-project.md). 🙏
 
 ## READINGS
 
-* See: [Week 1 - Readings](../BIBLIOGRAPHY.md#week-01-everything-is-spatial)
+* See: [Week 1 - Readings](BIBLIOGRAPHY.md#week-01-everything-is-spatial)
 
 ## BRIEF
 

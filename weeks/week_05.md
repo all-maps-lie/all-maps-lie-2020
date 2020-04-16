@@ -38,7 +38,7 @@ This week we will focus on "remotely sensed" data in the form of images. Using t
 
 ## REFERENCES
 
-* See [Week 5 Readings and Project References](../BIBLIOGRAPHY.md#week-05-figure-ground).
+* See [Week 5 Readings and Project References](BIBLIOGRAPHY.md#week-05-figure-ground).
 
 ## STUDIO
 
@@ -46,7 +46,7 @@ This week we will focus on "remotely sensed" data in the form of images. Using t
 
 ## ASSIGNMENT
 
-* ↳ [Link to Assignment](../assignments/assignment_05.md).
+* ↳ [Link to Assignment](assignments/assignment_05.md).
 
 <!-- 
 

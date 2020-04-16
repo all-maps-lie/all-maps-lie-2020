@@ -55,11 +55,11 @@ This week we are going to focus on answering three main questions:
 
 ## TOPICS
 
-* [Geo Intro Guide](../guides/geo-intro-guide.md)
+* [Geo Intro Guide](guides/geo-intro-guide.md)
 
 ## REFERENCES
 
-* See [Week 2 Readings and Project References](../BIBLIOGRAPHY.md#week-02-thinking-out-place).
+* See [Week 2 Readings and Project References](BIBLIOGRAPHY.md#week-02-thinking-out-place).
 
 ***
 ***
@@ -67,7 +67,7 @@ This week we are going to focus on answering three main questions:
 
 ## STUDIO
 
-* ↳ [Link to Studio](../guides/keplergl-guide.md).
+* ↳ [Link to Studio](guides/keplergl-guide.md).
 
 ***
 ***
@@ -75,7 +75,7 @@ This week we are going to focus on answering three main questions:
 
 ## ASSIGNMENT
 
-* ↳ [Link to Assignment](../assignments/assignment_02.md).
+* ↳ [Link to Assignment](assignments/assignment_02.md).
 
 
 <!-- 

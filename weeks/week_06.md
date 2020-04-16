@@ -43,7 +43,7 @@ This week we will focus on documenting our work, synthesizing our experiences, a
 
 ## REFERENCES
 
-* See [Week 6 Readings and Project References](../BIBLIOGRAPHY.md#week-06-experimental-geography).
+* See [Week 6 Readings and Project References](BIBLIOGRAPHY.md#week-06-experimental-geography).
 
 ## STUDIO
 
@@ -51,4 +51,4 @@ This week we will focus on documenting our work, synthesizing our experiences, a
 
 ## ASSIGNMENT
 
-* ↳ [Link to Assignment](../assignments/final.md).
+* ↳ [Link to Assignment](assignments/assignment_06.md).

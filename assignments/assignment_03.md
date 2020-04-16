@@ -28,7 +28,7 @@ This exercise is designed to make you aware of map details such as...
 * Step 1: Get the data
   * You can either use data that are relevant for your final projects (recommended)
   * OR use
-  * [Reported NYC Rat Sightings 2019]() 
+  * [Reported NYC Rat Sightings Spring 2019](https://gist.githubusercontent.com/joeyklee/c301b832ed6ae0d5ccf5e5aa803894bb/raw/13c7c34d3b9f1aa9e3dd29269e77e1eaf11c9655/nyc__rat-counts-by-neighborhood__201903-201905.geojson) // see property `ratCounts` - what other data might you need in order to normalize or standardize these counts to a rate or proportion?
 * Step 2: Read 
   * [What to consider when creating choropleth maps](https://blog.datawrapper.de/choroplethmaps/)
   * [How to choose a color palette for a choropleth map](https://blog.datawrapper.de/how-to-choose-a-color-palette-for-choropleth-maps/)
@@ -56,15 +56,3 @@ This exercise is designed to make you aware of map details such as...
 
 ↳ 💌 [Google Form Assignment Submission](https://forms.gle/1tAfHZXEejZDubHg9)
 
-
-<!--
- * Using your collected data:
-  * A foray into geospatial abstraction of spatial data and APIs: e.g. Routing, binning, isolines, place search, bezier curves, tin, // other libraries ml5? 
-  * 
--->
-
-
-<!-- 
-* Spatial Abstraction: Routing, binning, isolines, place search, bezier curves, tin, // other libraries ml5?
-
- -->

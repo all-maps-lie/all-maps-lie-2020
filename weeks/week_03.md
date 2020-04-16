@@ -72,7 +72,7 @@
 
 ## REFERENCES
 
-* See [Week 3 Readings and Project References](../BIBLIOGRAPHY.md#week-03-thinking-out-space).
+* See [Week 3 Readings and Project References](BIBLIOGRAPHY.md#week-03-thinking-out-space).
 
 ## STUDIO
 
@@ -85,7 +85,7 @@
   
 ## ASSIGNMENT
 
-* ↳ [Link to Assignment](../assignments/assignment_03.md).
+* ↳ [Link to Assignment](assignments/assignment_03.md).
 
 
 <!-- 

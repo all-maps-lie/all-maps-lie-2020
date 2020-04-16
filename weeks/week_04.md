@@ -40,7 +40,7 @@ This week we will focus on getting "out of the screen" and into space. Using the
 
 ## REFERENCES
 
-* See [Week 4 Readings and Project References](../BIBLIOGRAPHY.md#week-04-locative-media).
+* See [Week 4 Readings and Project References](BIBLIOGRAPHY.md#week-04-locative-media).
 
 ## STUDIO
 
@@ -48,7 +48,7 @@ This week we will focus on getting "out of the screen" and into space. Using the
 
 ## ASSIGNMENT
 
-* ↳ [Link to Assignment](../assignments/assignment_04.md).
+* ↳ [Link to Assignment](assignments/assignment_04.md).
 
 <!-- 
 

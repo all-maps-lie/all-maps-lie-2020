@@ -45,11 +45,3 @@
     * [MapboxGL Guide](guides/mapboxgl-guide.md)
     * [Mapbox Static Imagery Guide](guides/mapbox-static-guide.md)
     * [Google Streetview Static Image Guide](guides/google-streetview-guide.md)
-  * Uncategorized
-    <!-- * [critical-mapping-guide.md](guides/critical-mapping-guide.md) -->
-  
-  
-  <!-- * [Analog Data Collection](guides/analog-data-collection-guide.md) -->
-    <!-- * [Camera Phone Data Guide](guides/camera-phone-guide.md) -->
-    <!-- * [Paper Mapping - Field Papers](guides/fieldpapers-guide.md) -->
-    <!-- * [Google Form Guide](guides/google-form-guide.md) -->

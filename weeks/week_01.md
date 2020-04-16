@@ -65,7 +65,7 @@ This week we will focus on "paying attention" through environmental observations
 
 Your final project for this course starts today. Everything that you do will be in service of a final, cohesive work that speaks to the final project briefing. Each of the assignments will be a part of your final project and therefore it is crucial to keep in mind what we are building towards. 
 
-* ↳ [Final Project Brief](../assignments/final-project.md)
+* ↳ [Final Project Brief](assignments/final-project.md)
 
 
 ### Defining Student Blocks and Groups
@@ -120,7 +120,7 @@ You may choose to work in groups IF you'd like (no more than 2 per group), howev
 
 ## REFERENCES
 
-* See [Week 1 Readings and Project References](../BIBLIOGRAPHY.md#week-01-everything-is-spatial).
+* See [Week 1 Readings and Project References](BIBLIOGRAPHY.md#week-01-everything-is-spatial).
 
 ## STUDIO
 
@@ -132,8 +132,8 @@ You may choose to work in groups IF you'd like (no more than 2 per group), howev
 
 ## ASSIGNMENT
 
-* ↳ [Read the Final Project Briefing](../assignments/final-project.md).
-* ↳ [Link to Assignment](../assignments/assignment_01.md).
+* ↳ [Read the Final Project Briefing](assignments/final-project.md).
+* ↳ [Link to Assignment](assignments/assignment_01.md).
 
 
 
