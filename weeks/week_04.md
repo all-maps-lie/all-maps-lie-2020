@@ -1,19 +1,19 @@
-# Week 4: Locative Media
+# Week 4: Spatial Abstraction
 
-> “If you break from cartesian space what new perspectives will be thrown up?... what strange conjunctions and serendipitous new knowledges?” - Crampton (2010)
+> 
 
 ## SLIDES
-* ↳ [Link to Slides]()
+* ↳ [Link to Slides](https://docs.google.com/presentation/d/1E_Pkzlc-R6JX5PORc6fq5nl1LjGE0ecmGTwKr2v3RXM/edit?usp=sharing)
 
 ## ABOUT
 
-The theme this week is "locative media." The discussion will be focused around the ways that mapping can be experienced outside of the screen /paper. We will examine the geographies of spatial data and the power of "seeing" data in space. Exploring the geography of spatial data means looking at both physical spaces and digital infrastructures.
+This week, the theme is "Spatial Abstraction." In our class today we will take a few *excursions* exploring different ways that geographic data are abstracted to produce outcomes that seek to provoke, to control, to question, or to delight. 
 
-This week we will focus on getting "out of the screen" and into space. Using the data you have been collecting, you will explore ways of creating interventions or provocations in physical space that highlight, visualize, or prompt engagement with your data.
+We will discuss examples ranging from AI based aerial image classification methods to different "personalities" of routing engines. On one hand we'll examine ways that geospatial data can be processed to enforce certain policies and perspectives and on the other how re-renderings of space and place can help to shape how we see the world. 
 
 ## TABLE OF CONTENTS
 
-- [Week 4: Locative Media](#week-4-locative-media)
+- [Week 4: Spatial Abstraction](#week-4-spatial-abstraction)
   - [SLIDES](#slides)
   - [ABOUT](#about)
   - [TABLE OF CONTENTS](#table-of-contents)
@@ -30,17 +30,25 @@ This week we will focus on getting "out of the screen" and into space. Using the
 
 ## PACING / DURATION
 
-* :60m - lecture & discussion
-* :10m - break
-* :70m - intro to Compass.js
-* :10m - assignment overview
-
+* :05m - Getting Settled
+* :05m - Project Highlight
+* :90m - Spatial Abstraction
+  * :30m - Excursion 1: Geo & AI
+  * :30m - Excursion 2: Routing Engines
+  * :10m - Excursion 3: Proximity
+  * :15m - Excursion 4: Inclusion/Exclusion
+  * These will be mentioned but not discussed in further detail:
+    * :1m - Excursion 5: Maps as Metaphors
+    * :1m - Excursion 6: Space Compression
+* :5m - Break
+* :50m - Studio
+  * All roads lead to X
 
 ## TOPICS
 
 ## REFERENCES
 
-* See [Week 4 Readings and Project References](BIBLIOGRAPHY.md#week-04-locative-media).
+* See [Week 4 Readings and Project References](BIBLIOGRAPHY.md#week-04).
 
 ## STUDIO
 
@@ -49,14 +57,3 @@ This week we will focus on getting "out of the screen" and into space. Using the
 ## ASSIGNMENT
 
 * ↳ [Link to Assignment](assignments/assignment_04.md).
-
-<!-- 
-
-https://rhizome.org/editorial/2014/mar/26/locative-media-revisited/
-
-* Julian oliver - border bumping
-* quotidian record - Brian House
-  * A3: 
-    * Abstraction: ways of exploring geospatial data
-      * Make a locative experience that prompts people to explore your data.
- -->

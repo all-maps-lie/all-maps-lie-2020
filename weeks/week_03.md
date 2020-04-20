@@ -1,4 +1,4 @@
-# Week 3: 
+# Week 3: Thinking about space
 
 > Maps are not representational by “processual” - that is they emerge on through practices and not through definitions - (Kitchen & dodge 2007)
 >
@@ -15,7 +15,7 @@
 
 ## TABLE OF CONTENTS
 
-- [Week 3:](#week-3)
+- [Week 3: Thinking about space](#week-3-thinking-about-space)
   - [SLIDES](#slides)
   - [TABLE OF CONTENTS](#table-of-contents)
   - [PACING / DURATION](#pacing--duration)

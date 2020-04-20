@@ -105,7 +105,7 @@ References: [Jer Thorp's Land Notice](https://github.com/blprnt/DataPublics#land
   * This is a course about learning together. You will be confronted by challenging concepts, technical road bumps, and the winter cold. A core outcome of this class is to share your learning and discoveries and research with each other. 
 
 ## WEEKLY SCHEDULE
-
+<!-- 
 | GO TO  |  DATE  | THEME | NOTES | CHECK-IN BLOCK |
 | :----         |  ----  | ---- | ---- | ---- |
 | [WEEK 01](./weeks/week_01.md) | MAR 30 | Everything is Spatial  | Setting the stage | Open Office Hours |
@@ -114,7 +114,18 @@ References: [Jer Thorp's Land Notice](https://github.com/blprnt/DataPublics#land
 | [WEEK 04](./weeks/week_04.md) | APR 20 | Locative Media  | What are opportunities for rethinking geographic interaction & experiences? | **Block 1** |
 | [WEEK 05](./weeks/week_05.md) | APR 27 | Figure-Ground | How do we see geography from afar? | **Block 2** |
 | [WEEK 06](./weeks/week_06.md) | MAY 04 | Experimental Geography  | How do we situate our spatial media practice? | Open Office Hours |
-| [WEEK 07](./guides/geo-intro-guide.mdweeks/week_07.md) | MAY 11 | Final Class |  How do you map?   | Open Office Hours |
+| [WEEK 07](./guides/geo-intro-guide.mdweeks/week_07.md) | MAY 11 | Final Class |  How do you map?   | Open Office Hours | -->
+
+
+| GO TO  |  DATE  | THEME | NOTES | CHECK-IN BLOCK |
+| :----         |  ----  | ---- | ---- | ---- |
+| [WEEK 01](weeks/week_01.md) | MAR 30 | Everything is Spatial  | Setting the stage | Open Office Hours |
+| [WEEK 02](weeks/week_02.md) | APR 06 | Thinking out place | Overview of spatial data  | **Block 1** |
+| [WEEK 03](weeks/week_03.md) | APR 13 | Thinking out space  | Overview of thematic mapping  | **Block 2** |
+| [WEEK 04](weeks/week_04.md) | APR 20 | Locative Media  | What are opportunities for rethinking geographic interaction & experiences? | **Block 1** |
+| [WEEK 05](weeks/week_05.md) | APR 27 | Figure-Ground | How do we see geography from afar? | **Block 2** |
+| [WEEK 06](weeks/week_06.md) | MAY 04 | Experimental Geography  | How do we situate our spatial media practice? | Open Office Hours |
+| [WEEK 07](weeks/week_07.md) | MAY 11 | Final Class |  How do you map?   | Open Office Hours |
 
 
 ## Assignments

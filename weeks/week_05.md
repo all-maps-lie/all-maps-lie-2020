@@ -1,17 +1,19 @@
-# Week 5: Figure-Ground
+# Week 5: Locative Media
+
+> “If you break from cartesian space what new perspectives will be thrown up?... what strange conjunctions and serendipitous new knowledges?” - Crampton (2010)
 
 ## SLIDES
 * ↳ [Link to Slides]()
 
 ## ABOUT
 
-The theme this week is "figure-ground." Figure-ground is often referred to ways we perceive what is in an image as differentiated as the subject and background. This is a fitting frame of reference for ways that we read maps in the form of aerial images and remotely sensed data. 
+The theme this week is "locative media." The discussion will be focused around the ways that mapping can be experienced outside of the screen /paper. We will examine the geographies of spatial data and the power of "seeing" data in space. Exploring the geography of spatial data means looking at both physical spaces and digital infrastructures.
 
-This week we will focus on "remotely sensed" data in the form of images. Using the data you have been collecting, you will explore imagery from the top-down and the bottom-up, juxtaposing views collected from aerial imagery and those from streetview data services.
+This week we will focus on getting "out of the screen" and into space. Using the data you have been collecting, you will explore ways of creating interventions or provocations in physical space that highlight, visualize, or prompt engagement with your data.
 
 ## TABLE OF CONTENTS
 
-- [Week 5: Figure-Ground](#week-5-figure-ground)
+- [Week 5: Locative Media](#week-5-locative-media)
   - [SLIDES](#slides)
   - [ABOUT](#about)
   - [TABLE OF CONTENTS](#table-of-contents)
@@ -30,7 +32,7 @@ This week we will focus on "remotely sensed" data in the form of images. Using t
 
 * :60m - lecture & discussion
 * :10m - break
-* :70m - intro to Google Streetview API & Mapbox Static API
+* :70m - intro to Compass.js
 * :10m - assignment overview
 
 
@@ -38,7 +40,7 @@ This week we will focus on "remotely sensed" data in the form of images. Using t
 
 ## REFERENCES
 
-* See [Week 5 Readings and Project References](BIBLIOGRAPHY.md#week-05-figure-ground).
+* See [Week 4 Readings and Project References](BIBLIOGRAPHY.md#week-04-locative-media).
 
 ## STUDIO
 
@@ -46,14 +48,15 @@ This week we will focus on "remotely sensed" data in the form of images. Using t
 
 ## ASSIGNMENT
 
-* ↳ [Link to Assignment](assignments/assignment_05.md).
+* ↳ [Link to Assignment](assignments/assignment_04.md).
 
 <!-- 
 
-* figure-ground:
-  * remote sensing, aerial imagery, photography and views from above
-  * dronestagram
-  * US border, prison system - Josh Begley
-  * Jenny odell
-  * 
+https://rhizome.org/editorial/2014/mar/26/locative-media-revisited/
+
+* Julian oliver - border bumping
+* quotidian record - Brian House
+  * A3: 
+    * Abstraction: ways of exploring geospatial data
+      * Make a locative experience that prompts people to explore your data.
  -->

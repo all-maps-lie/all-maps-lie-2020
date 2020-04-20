@@ -13,19 +13,18 @@
   - [WEEK 03: Thinking out space](#week-03-thinking-out-space)
     - [READINGS](#readings-2)
     - [WORKS CITED](#works-cited-1)
-  - [WEEK 04: Locative Media](#week-04-locative-media)
+  - [WEEK 04: Spatial Abstraction](#week-04-spatial-abstraction)
     - [READINGS](#readings-3)
     - [Supplemental:](#supplemental)
-    - [WORKS CITED](#works-cited-2)
-  - [WEEK 05: Figure-Ground](#week-05-figure-ground)
+  - [WEEK 05: Locative Media](#week-05-locative-media)
     - [READINGS](#readings-4)
-    - [WORKS CITED](#works-cited-3)
-  - [WEEK 06: Experimental Geography](#week-06-experimental-geography)
+    - [WORKS CITED](#works-cited-2)
+  - [WEEK 06: Figure-Ground](#week-06-figure-ground)
     - [READINGS](#readings-5)
-    - [WORKS CITED](#works-cited-4)
+    - [WORKS CITED](#works-cited-3)
   - [WEEK 07: Final Class + "Future directions"](#week-07-final-class--%22future-directions%22)
     - [READINGS](#readings-6)
-    - [WORKS CITED](#works-cited-5)
+    - [WORKS CITED](#works-cited-4)
   - [UNSORTED](#unsorted)
   - [Geo Conferences & talks:](#geo-conferences--talks)
   - [General References](#general-references)
@@ -102,8 +101,8 @@
 * [Catherine D'Ignazio (a.k.a Kanarinka)](http://www.kanarinka.com/)
   * * http://www.kanarinka.com/project/iskytv/
   * http://www.kanarinka.com/project/it-takes-154000-breaths-to-evacuate-boston/
-* [Alan McConchie]()
-  * [Pop vs. Soda]()
+* [Alan McConchie](https://twitter.com/mappingmashups?lang=en)
+  * [Pop vs. Soda](http://popvssoda.com/)
 * [Wonyong So](https://wonyoung.so/)
 * [Stamen Design Studio](https://stamen.com/)
   * [Alan McConchie, Every Line Ever](https://hi.stamen.com/openstreetmap-every-line-ever-every-point-ever-7d78aa0aed8e?gi=dfe5f089bd3f)
@@ -123,33 +122,42 @@
 * [WebKid](https://webkid.io/)
 * [Christopher Pietsch](https://chrispie.com/)
 * [Pedro Cruz](https://pmcruz.com/)
+  * [Lisbon Traffic](https://pmcruz.com/information-visualization/traffic-in-lisbon-condensed-in-one-day)
+  * [Lisbon Blood Vessels](https://pmcruz.com/information-visualization/lisbons-blood-vessels)
 * [Neil Freeman](http://fakeisthenewreal.org/)
 * [Eric Huntley](https://vimeo.com/126993839)
 * [Lyzi Diamond](https://lyzidiamond.com/)
 * [Andy Woodruff](http://andywoodruff.com/)
-* [James Bridle]()
+* [James Bridle](https://jamesbridle.com/)
   * [Dronestagram (2004), Bridle](http://jamesbridle.com/works/dronestagram)
-* [Periscopic Studio]()
-* [Moovel Lab]()
+* [Periscopic Studio](https://periscopic.com/#!/)
+* [Moovel Lab](https://www.move-lab.com/)
   * [Roads to Rome, Move Lab](https://www.move-lab.com/projects/roads-to-rome)
   * [Flights to Rome, Move lab](https://www.move-lab.com/project/flightstorome/)
-* [Mapzen]() - RIP
-* [Propublica]()
-* [New York Times Interactive]()
-* [Eric Fischer]()
+* [Mapzen](https://www.mapzen.com/) - RIP
+* [Propublica Graphics and Data](https://www.propublica.org/newsapps/)
+  * [Losing Ground](https://projects.propublica.org/louisiana/)
+* [New York Times Interactive](https://www.nytimes.com/search/?date_select=full&query=interactive+map&type=nyt&x=14&y=7)
+  * [How the Virus Got Out](https://www.nytimes.com/interactive/2020/03/22/world/coronavirus-spread.html)
+* [Eric Fischer](https://www.flickr.com/photos/walkingsf/albums)
 * [Radical Cartography, Bill Rankin](http://www.radicalcartography.net/)
-* [Buzzfeed News]()
+* [Buzzfeed News](https://www.buzzfeed.com/tag/interactive)
   * [Spies in the sky, Buzzfeed news](https://www.buzzfeednews.com/article/peteraldhous/spies-in-the-skies)
 * [Meipo Kwan](http://meipokwan.org/)
 * [Meaghan Kombol](https://www.meaghankombol.com/work)
   * [Subway Lines (2007)](https://www.meaghankombol.com/work)
 * [Kate McClean](https://sensorymaps.com/about/)
   * [Sensory Maps (2006), Mclean](https://sensorymaps.com/)
-* [Shannon Mattern]()
-* [Jenny Odell]() 
+* [Shannon Mattern](http://wordsinspace.net/shannon/)
+* [Jenny Odell](http://www.jennyodell.com/) 
   * [Satellite Collections (2009-2011), Odell](http://www.jennyodell.com/satellite.html)
-* [Trevor Paglen]()
+* [Trevor Paglen](http://www.paglen.com/)
   * [Trevor Paglen, Limit Telephotography](https://www.paglen.com/?l=work&s=limit&i=3)
+* [Matthew Wilson](https://geography.as.uky.edu/users/mwwi222)
+* [Dietmar Offenhuber](https://offenhuber.net/)
+  * [What do New Yorkers complain about?](https://offenhuber.net/project/what-do-new-yorkers-complain-about/)
+  * [Trash Track](https://offenhuber.net/project/trash-track-on-cnbc/)
+* 
 * Misc:
   * [Eleanor Coppola’s, Windows, 1973](https://openspace.sfmoma.org/2013/01/receipt-of-delivery29/)
   * [NYC Skate Spots](https://Nycskatespots.com)
@@ -289,8 +297,8 @@
 ***
 ***
 
-## WEEK 04: Locative Media
-<!-- Locative Media | Locative Media -->
+## WEEK 04: Spatial Abstraction
+
 
 ### READINGS
 
@@ -299,11 +307,32 @@
   * [Chapter 10: Cyberspace and Virtual Worlds, pg. 128 - 144, Mapping: A Critical Introduction to Cartography and Mapping, J. Crampton (2010)](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=4433111&ppg=142)
   * [Locative Media Revisted, Rhizome](https://rhizome.org/editorial/2014/mar/26/locative-media-revisited/)
 * Optional:
+  * 
 
 ### Supplemental:
-* [Field guide to getting lost, R. Solnit](https://www.goodreads.com/book/show/76479.A_Field_Guide_to_Getting_Lost)
-* [How to Do Nothing: Resisting the Attention Economy, J. Odell](https://www.goodreads.com/book/show/42771901-how-to-do-nothing?from_search=true&qid=QNLBXDpc4o&rank=1)
-* [Code Space, Kitchen & Dodge](https://mitpress.mit.edu/books/codespace)
+* These are book references so bookmark them for the summer!
+  * [Field guide to getting lost, R. Solnit](https://www.goodreads.com/book/show/76479.A_Field_Guide_to_Getting_Lost)
+  * [How to Do Nothing: Resisting the Attention Economy, J. Odell](https://www.goodreads.com/book/show/42771901-how-to-do-nothing?from_search=true&qid=QNLBXDpc4o&rank=1)
+  * [Code Space, Kitchen & Dodge](https://mitpress.mit.edu/books/codespace)
+
+
+***
+***
+***
+
+## WEEK 05: Locative Media
+<!-- Locative Media | Locative Media -->
+
+### READINGS
+
+* Required:
+  * [Chapter 11: The Cartographic Construction of Race and Identity, pg. 144 - 160, Mapping: A Critical Introduction to Cartography and Mapping, J. Crampton (2010)](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=4433111&ppg=158)
+  * [Chapter 12: The poetics of Space: Art, Beauty, and Imagination, pg. 160 - 177, Mapping: A Critical Introduction to Cartography and Mapping, J. Crampton (2010)](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=4433111&ppg=174)
+  * [Laura Kurgan, “Mapping Considered as a Problem of Theory and Practice,” “Representation and the Necessity of Interpretation,” & “From Military Surveillance to the Public Sphere” in Up Close at a Distance: Mapping, Technology and Politics (New York: Zone Books, 2012): 9-54.](https://www.dropbox.com/s/rf5zfjiy7zrr5kk/Kurgan_UpClose_IntroLexicon.pdf?dl=0)
+* Optional:
+  * John Pickles, “[The Cartographic Gaze, Global Visions and Modalities of Visual Culture](http://www.wordsinspace.net/secure/Pickles75_91pdf.pdf)” in *A History of Spaces: Cartographic Reason, Mapping and the Geo-Coded World* (New York: Routledge, 2004): 75-91.
+  * On satellite art: “[Seeing the World Through Google’s Eyes](https://exposingtheinvisible.org/resources/seeing-the-world-through-googles),” *Exposing the Invisible* (n.d.).
+  * On indigenous communities’ use of drone mapping: Clayton Aldern, “[Cartographers Without Borders](https://logicmag.io/03-cartographers-without-borders/),” *LOGIC* 4 (2018).
 
 ### WORKS CITED
 
@@ -318,23 +347,18 @@
 * [Urban Data Flaneur, H. Otten](http://www.heikeotten.de/portfolio/urban-data-flaneur/)
 * [Logged-in From, B. Ricks](https://beccaricks.space/Logged-in-from)
 
+
 ***
 ***
 ***
 
-## WEEK 05: Figure-Ground
+## WEEK 06: Figure-Ground
 <!-- Figure-Ground | Spatial Gaze  -->
+
 
 ### READINGS
 
-* Required:
-  * [Chapter 11: The Cartographic Construction of Race and Identity, pg. 144 - 160, Mapping: A Critical Introduction to Cartography and Mapping, J. Crampton (2010)](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=4433111&ppg=158)
-  * [Chapter 12: The poetics of Space: Art, Beauty, and Imagination, pg. 160 - 177, Mapping: A Critical Introduction to Cartography and Mapping, J. Crampton (2010)](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=4433111&ppg=174)
-  * [Laura Kurgan, “Mapping Considered as a Problem of Theory and Practice,” “Representation and the Necessity of Interpretation,” & “From Military Surveillance to the Public Sphere” in Up Close at a Distance: Mapping, Technology and Politics (New York: Zone Books, 2012): 9-54.](https://www.dropbox.com/s/rf5zfjiy7zrr5kk/Kurgan_UpClose_IntroLexicon.pdf?dl=0)
-* Optional:
-  * John Pickles, “[The Cartographic Gaze, Global Visions and Modalities of Visual Culture](http://www.wordsinspace.net/secure/Pickles75_91pdf.pdf)” in *A History of Spaces: Cartographic Reason, Mapping and the Geo-Coded World* (New York: Routledge, 2004): 75-91.
-  * On satellite art: “[Seeing the World Through Google’s Eyes](https://exposingtheinvisible.org/resources/seeing-the-world-through-googles),” *Exposing the Invisible* (n.d.).
-  * On indigenous communities’ use of drone mapping: Clayton Aldern, “[Cartographers Without Borders](https://logicmag.io/03-cartographers-without-borders/),” *LOGIC* 4 (2018).
+* [Epilogue: Beyond the Cartographic Anxiety, pg. 177 - 185, Mapping: A Critical Introduction to Cartography and Mapping, J. Crampton (2010)](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=4433111&ppg=191)
 
 ### WORKS CITED
 
@@ -354,19 +378,6 @@
 * [Landfall, M. Kahenner](https://mishkahenner.com/Landfall)
 * [Feedlots, M. Kahenner](https://mishkahenner.com/Feedlots)
 * [Dutch Landscapes, M. Kahenner](https://mishkahenner.com/Dutch-Landscapes)
-
-***
-***
-***
-
-## WEEK 06: Experimental Geography
-<!-- Experimental Geography | Final Documentation -->
-
-### READINGS
-
-* [Epilogue: Beyond the Cartographic Anxiety, pg. 177 - 185, Mapping: A Critical Introduction to Cartography and Mapping, J. Crampton (2010)](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=4433111&ppg=191)
-
-### WORKS CITED
 
 ***
 ***
