@@ -48,11 +48,11 @@ We will discuss examples ranging from AI based aerial image classification metho
 
 ## REFERENCES
 
-* See [Week 4 Readings and Project References](BIBLIOGRAPHY.md#week-04).
+* See [Week 4 Readings and Project References](BIBLIOGRAPHY.md#week-04-spatial-abstraction).
 
 ## STUDIO
 
-* ↳ [Link to Studio](#)
+* ↳ [Link to Studio](https://glitch.com/edit/#!/joeyklee-all-roads-lead-to-x?path=main.js:1:0)
 
 ## ASSIGNMENT
 
