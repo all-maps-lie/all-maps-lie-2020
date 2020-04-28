@@ -20,7 +20,7 @@ You are encouraged to document how you or others are meant to experience your pi
 
 ## Readings
 
-* See [Week 4 Readings](BIBLIOGRAPHY.md#week-05-locative-media)
+* See [Week 5 Readings](BIBLIOGRAPHY.md#week-05-locative-media)
 
 ## Technical References
 

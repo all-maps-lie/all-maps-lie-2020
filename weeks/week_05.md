@@ -47,13 +47,3 @@ This week we will focus on ways that artists have attempted to read/write the la
 
 * ↳ [Link to Assignment](assignments/assignment_05.md).
 
-<!-- 
-
-https://rhizome.org/editorial/2014/mar/26/locative-media-revisited/
-
-* Julian oliver - border bumping
-* quotidian record - Brian House
-  * A3: 
-    * Abstraction: ways of exploring geospatial data
-      * Make a locative experience that prompts people to explore your data.
- -->
