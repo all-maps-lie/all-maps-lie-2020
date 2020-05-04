@@ -19,6 +19,7 @@ Lastly we will review and conclude the class in preparation for our final presen
 ## PACING / DURATION
 
 * :05m - Settle in
+* :15m - Course Evaluations
 * :10m - Final Project Logistics for Week 7
 * :10m - Project Highlight
 * :75m - Intro to Remote Sensing

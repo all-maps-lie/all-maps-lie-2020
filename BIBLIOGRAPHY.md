@@ -359,6 +359,8 @@
 ### READINGS
 
 * [Epilogue: Beyond the Cartographic Anxiety, pg. 177 - 185, Mapping: A Critical Introduction to Cartography and Mapping, J. Crampton (2010)](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=4433111&ppg=191)
+* Optional:
+  * [Introduction to GDAL, Rob Simon, Open Vis Conf 2017](https://www.youtube.com/watch?v=N_dmiQI1s24)
 
 ### WORKS CITED
 
