@@ -1,9 +1,6 @@
 # Bibliography
 
 - [Bibliography](#bibliography)
-  - [DATA SOURCES](#data-sources)
-  - [PODCASTS](#podcasts)
-  - [PEOPLE & THEIR PROJECTS](#people--their-projects)
   - [WEEK 01: Everything is Spatial](#week-01-everything-is-spatial)
     - [READINGS](#readings)
     - [Additional References](#additional-references)
@@ -24,144 +21,12 @@
     - [WORKS CITED](#works-cited-3)
   - [WEEK 07: Final Class + "Future directions"](#week-07-final-class--%22future-directions%22)
     - [READINGS](#readings-6)
-    - [WORKS CITED](#works-cited-4)
+  - [DATA SOURCES](#data-sources)
+  - [PEOPLE & THEIR PROJECTS](#people--their-projects)
+  - [Conferences & talks:](#conferences--talks)
+  - [PODCASTS](#podcasts)
   - [UNSORTED](#unsorted)
-  - [Geo Conferences & talks:](#geo-conferences--talks)
   - [General References](#general-references)
-
-
-## DATA SOURCES
-
-* [NYC Open Data Portal](https://opendata.cityofnewyork.us/)
-  * [NYC Rat Sightings](https://data.cityofnewyork.us/Social-Services/Rat-Sightings/3q43-55fe)
-  * [NYC Neighborhoods Boundaries](https://data.cityofnewyork.us/City-Government/Neighborhood-Tabulation-Areas-NTA-/cpf4-rkhq) 
-* [UNHCR Statistics](http://popstats.unhcr.org/en/overview)
-  * UNHCR's populations of concern including refugees, asylum seekers, internally displayed persons, etc. 
-* [BuzzFeedNews/everything](https://github.com/BuzzFeedNews/everything)
-* [Propublica Datastore](https://www.propublica.org/datastore)
-* [Jeremy Singer-Vine’s, Data is Plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit)
-  * [Join the newsletter](https://tinyletter.com/data-is-plural)
-* [Awesome Lists, public data](https://github.com/awesomedata/awesome-public-datasets)
-* [Carto - Data Observatory](https://carto.com/developers/data-observatory/)
-* [Google Earth Engine](https://developers.google.com/earth-engine/datasets) // Google Earth Engine is prob the most accessible way of getting satellite and aerial imagery data
-* [OpenStreetMap - Overpass Turbo](https://overpass-turbo.eu/) // OSM overpass turbo API for getting data back from OSM
-* Street views:
-  * [Google Street View - Static API](https://developers.google.com/maps/documentation/streetview/intro)
-  * [Mapillary](https://www.mapillary.com/pricing) // Kind of expensive now IMHO - they used to be open source I think?
-  * [Bing Static Maps](https://docs.microsoft.com/en-us/bingmaps/rest-services/imagery/get-a-static-map) | [Bing Maps API Key](https://docs.microsoft.com/en-us/bingmaps/getting-started/bing-maps-dev-center-help/getting-a-bing-maps-key)
-
-
-## PODCASTS
-* [MapScaping](https://mapscaping.com/blogs/the-mapscaping-podcast)
-* [GeoMob](https://thegeomob.com/podcast/)
-* Selected Mapping Related Podcast Episodes:
-  * [This American Life](https://www.thisamericanlife.org/)
-    * [This American Life, Mapping, 1998](https://www.thisamericanlife.org/110/mapping)
-  * [Reply All](https://gimletmedia.com/shows/reply-all/)
-    * The Crime Machine [Pt. 1](https://gimletmedia.com/shows/reply-all/o2hx34), [Pt. 2](https://gimletmedia.com/shows/reply-all/n8hwl7)
-  * [DataStories](https://datastori.es/)
-    * [134  |  Visualizing Uncertainty with Jessica Hullman and Matthew Kay ](https://datastori.es/134-visualizing-uncertainty-with-jessica-hullman-and-matthew-kay/)
-    * [131  |  Peak Spotting](https://datastori.es/131-peak-spotting-visualizing-passengers-load-in-the-german-railway/)
-    * [101  |  Surprise Maps with Michael Correll and Jeff Heer ](https://datastori.es/101-surprise-maps-with-michael-correll-and-jeff-heer/)
-    * [080  |  Indexical Visualization with Dietmar Offenhuber ](https://datastori.es/80-indexical-visualization-with-dietmar-offenhuber/)
-    * [078  |  Mimi Onuoha on Visualizing People's Lives through Mobile Data ](https://datastori.es/78-mimi-onuoha-on-visualizing-peoples-lives-through-mobile-data/)
-    * [066  |  "I Quant NY" Finding Surprising Stories in NYC Open Data with Ben Wellington ](https://datastori.es/66-iquantnyc/)
-    * [053  |  Data Safaris w/ Benedikt Groß ](https://datastori.es/data-stories-53-data-safaris-w-benedikt-gros/)
-    * [051  |  Smart Cities w/ Dietmar Offenhuber ](https://datastori.es/data-stories-51-smart-cities-w-dietmar-offenhuber/)
-    * [045  |  Nicholas Felton ](https://datastori.es/data-stories-44-with-nicholas-felton/)
-    * [036  |  Data Art w/ Jer Thorp ](https://datastori.es/data-art-w-jer-thorp/)
-    * [020  |  On Maps. With Michal Migurski.](https://datastori.es/data-stories-20-maps-migurski/)
-
-## PEOPLE & THEIR PROJECTS
-* [Tom MacWright](https://macwright.org/about/)
-  * So many great [talks](https://macwright.org/talks/)
-  * Clever [Projects](https://macwright.org/projects/)
-  * A lot of helpful geo[writings](https://macwright.org/)
-* [Ben Wellington, IQuantNY](https://iquantny.tumblr.com/archive)
-  * [The NYPD Was Systematically Ticketing Legally Parked Cars for Millions of Dollars a Year- Open Data Just Put an End to It](https://iquantny.tumblr.com/post/144197004989/the-nypd-was-systematically-ticketing-legally)
-* [Mimi Onuoha](https://mimionuoha.com/)
-  * [Pathways Project](https://www.nationalgeographic.com/pathways/about.html)
-* [Ingrid Burrington](http://lifewinning.com/)
-  * [Submarine Cable Taps](http://lifewinning.com/projects/submarine-cable-taps/)
-  * [Center for Missed Connections, Ingrid Burrington](http://lifewinning.com/projects/center-for-missed-connections/)
-* [Daniel Goddemeyer](http://danielgoddemeyer.com/)
-  * [Subspotting](http://subspotting.nyc/main/index.html)
-  * [On Broadway](http://on-broadway.nyc/)
-  * [Selfie City](http://selfiecity.net/)
-* [Benedikt Groß](https://benedikt-gross.de/)
-  * [Metrography, Benedikt Gross](https://benedikt-gross.de/projects/metrography-london-tube-map-to-large-scale-collective-mental-map)
-* [Benedikt Groß](https://benedikt-gross.de/) & [Joey Lee](https://jk-lee.com)
-  * [Big Atlas of LA Pools (2014), Groß & Lee](https://benedikt-gross.de/projects/the-big-atlas-of-la-pools)
-  * [LA Swimmer (2014), Groß & Lee](https://benedikt-gross.de/projects/la-swimmer)
-  * [Aerial Bold (2016), Groß & Lee](https://benedikt-gross.de/projects/the-aerial-bold-project)
-  * [ABC: Alphabet from the Sky](https://www.penguinrandomhouse.com/books/531659/abc-the-alphabet-from-the-sky-by-benedikt-gross-and-joey-lee/)
-* [Joey Lee](https://jk-lee.com)
-  * [Geography of Hidden Faces (2019)](https://geo.hidden-faces.net/)
-* [Mike Migurski](http://mike.teczno.com/)
-* [Catherine D'Ignazio (a.k.a Kanarinka)](http://www.kanarinka.com/)
-  * * http://www.kanarinka.com/project/iskytv/
-  * http://www.kanarinka.com/project/it-takes-154000-breaths-to-evacuate-boston/
-* [Alan McConchie](https://twitter.com/mappingmashups?lang=en)
-  * [Pop vs. Soda](http://popvssoda.com/)
-* [Wonyong So](https://wonyoung.so/)
-* [Stamen Design Studio](https://stamen.com/)
-  * [Alan McConchie, Every Line Ever](https://hi.stamen.com/openstreetmap-every-line-ever-every-point-ever-7d78aa0aed8e?gi=dfe5f089bd3f)
-  * [Pop vs. Soda, McConchie](http://popvssoda.com/)
-* [MIT Civic Data Design Lab](http://senseable.mit.edu/)
-* [MIT Senseable City Lab](senseable.mit.edu/)
-  * [Hubcab.org](http://hubcab.org/#13.00/40.7250/-73.9484)
-* [Eric Escoffier](http://nerik.github.io/)
-* [Lisa Charlotte Rost](https://lisacharlotterost.de/)
-* [Derek Watkins](https://www.nytimes.com/by/derek-watkins)
-* [Dennis Wood](https://en.wikipedia.org/wiki/Denis_Wood)
-  * [Everything Sings (2010), Wood](http://sigliopress.com/book/everything-sings/)
-* [Vladimir Agafonkin](https://agafonkin.com/)
-* [Brian T. Jacobs](http://briantjacobs.com/) // national geographic, propublica, awesome
-* [Robin Tolochko](http://tolomaps.github.io/)
-* [Axis Maps](https://www.axismaps.com/about/)
-* [WebKid](https://webkid.io/)
-* [Christopher Pietsch](https://chrispie.com/)
-* [Pedro Cruz](https://pmcruz.com/)
-  * [Lisbon Traffic](https://pmcruz.com/information-visualization/traffic-in-lisbon-condensed-in-one-day)
-  * [Lisbon Blood Vessels](https://pmcruz.com/information-visualization/lisbons-blood-vessels)
-* [Neil Freeman](http://fakeisthenewreal.org/)
-* [Eric Huntley](https://vimeo.com/126993839)
-* [Lyzi Diamond](https://lyzidiamond.com/)
-* [Andy Woodruff](http://andywoodruff.com/)
-* [James Bridle](https://jamesbridle.com/)
-  * [Dronestagram (2004), Bridle](http://jamesbridle.com/works/dronestagram)
-* [Periscopic Studio](https://periscopic.com/#!/)
-* [Moovel Lab](https://www.move-lab.com/)
-  * [Roads to Rome, Move Lab](https://www.move-lab.com/projects/roads-to-rome)
-  * [Flights to Rome, Move lab](https://www.move-lab.com/project/flightstorome/)
-* [Mapzen](https://www.mapzen.com/) - RIP
-* [Propublica Graphics and Data](https://www.propublica.org/newsapps/)
-  * [Losing Ground](https://projects.propublica.org/louisiana/)
-* [New York Times Interactive](https://www.nytimes.com/search/?date_select=full&query=interactive+map&type=nyt&x=14&y=7)
-  * [How the Virus Got Out](https://www.nytimes.com/interactive/2020/03/22/world/coronavirus-spread.html)
-* [Eric Fischer](https://www.flickr.com/photos/walkingsf/albums)
-* [Radical Cartography, Bill Rankin](http://www.radicalcartography.net/)
-* [Buzzfeed News](https://www.buzzfeed.com/tag/interactive)
-  * [Spies in the sky, Buzzfeed news](https://www.buzzfeednews.com/article/peteraldhous/spies-in-the-skies)
-* [Meipo Kwan](http://meipokwan.org/)
-* [Meaghan Kombol](https://www.meaghankombol.com/work)
-  * [Subway Lines (2007)](https://www.meaghankombol.com/work)
-* [Kate McClean](https://sensorymaps.com/about/)
-  * [Sensory Maps (2006), Mclean](https://sensorymaps.com/)
-* [Shannon Mattern](http://wordsinspace.net/shannon/)
-* [Jenny Odell](http://www.jennyodell.com/) 
-  * [Satellite Collections (2009-2011), Odell](http://www.jennyodell.com/satellite.html)
-* [Trevor Paglen](http://www.paglen.com/)
-  * [Trevor Paglen, Limit Telephotography](https://www.paglen.com/?l=work&s=limit&i=3)
-* [Matthew Wilson](https://geography.as.uky.edu/users/mwwi222)
-* [Dietmar Offenhuber](https://offenhuber.net/)
-  * [What do New Yorkers complain about?](https://offenhuber.net/project/what-do-new-yorkers-complain-about/)
-  * [Trash Track](https://offenhuber.net/project/trash-track-on-cnbc/)
-* 
-* Misc:
-  * [Eleanor Coppola’s, Windows, 1973](https://openspace.sfmoma.org/2013/01/receipt-of-delivery29/)
-  * [NYC Skate Spots](https://Nycskatespots.com)
-
 
 ***
 ***
@@ -306,8 +171,7 @@
   * [Chapter 9: Geosurveillance and Spying with Maps, pg. 112 - 128, Mapping: A Critical Introduction to Cartography and Mapping, J. Crampton (2010)](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=4433111&ppg=126)
   * [Chapter 10: Cyberspace and Virtual Worlds, pg. 128 - 144, Mapping: A Critical Introduction to Cartography and Mapping, J. Crampton (2010)](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=4433111&ppg=142)
   * [Locative Media Revisted, Rhizome](https://rhizome.org/editorial/2014/mar/26/locative-media-revisited/)
-* Optional:
-  * 
+
 
 ### Supplemental:
 * These are book references so bookmark them for the summer!
@@ -392,17 +256,161 @@ There's so much we didn't get to discuss in this class, but I hope the course wa
 ### READINGS
 
 * [How to Lie With Maps, M. Monmonier](https://www.goodreads.com/book/show/1005549.How_to_Lie_with_Maps)
-* [The Power of Maps, D. Wood]()
-* [Rethinking the Power of Maps, D. Wood]()
+* [The Power of Maps, D. Wood](https://www.goodreads.com/book/show/1042943.The_Power_of_Maps)
+* [Rethinking the Power of Maps, D. Wood](https://www.goodreads.com/book/show/8295912-rethinking-the-power-of-maps?from_search=true&from_srp=true&qid=nqlgJnOHkl&rank=1)
 * [Space, Knowledge and Power: Foucault and Geography, Elden & Crampton](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=429597&query=space%2C+power%2C+foucault)
 
-### WORKS CITED
-
 
 
 ***
 ***
 ***
+
+
+## DATA SOURCES
+
+* [NYC Open Data Portal](https://opendata.cityofnewyork.us/)
+  * [NYC Rat Sightings](https://data.cityofnewyork.us/Social-Services/Rat-Sightings/3q43-55fe)
+  * [NYC Neighborhoods Boundaries](https://data.cityofnewyork.us/City-Government/Neighborhood-Tabulation-Areas-NTA-/cpf4-rkhq) 
+* [UNHCR Statistics](http://popstats.unhcr.org/en/overview)
+  * UNHCR's populations of concern including refugees, asylum seekers, internally displayed persons, etc. 
+* [BuzzFeedNews/everything](https://github.com/BuzzFeedNews/everything)
+* [Propublica Datastore](https://www.propublica.org/datastore)
+* [Jeremy Singer-Vine’s, Data is Plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit)
+  * [Join the newsletter](https://tinyletter.com/data-is-plural)
+* [Awesome Lists, public data](https://github.com/awesomedata/awesome-public-datasets)
+* [Carto - Data Observatory](https://carto.com/developers/data-observatory/)
+* [Google Earth Engine](https://developers.google.com/earth-engine/datasets) // Google Earth Engine is prob the most accessible way of getting satellite and aerial imagery data
+* [OpenStreetMap - Overpass Turbo](https://overpass-turbo.eu/) // OSM overpass turbo API for getting data back from OSM
+* Street views:
+  * [Google Street View - Static API](https://developers.google.com/maps/documentation/streetview/intro)
+  * [Mapillary](https://www.mapillary.com/pricing) // Kind of expensive now IMHO - they used to be open source I think?
+  * [Bing Static Maps](https://docs.microsoft.com/en-us/bingmaps/rest-services/imagery/get-a-static-map) | [Bing Maps API Key](https://docs.microsoft.com/en-us/bingmaps/getting-started/bing-maps-dev-center-help/getting-a-bing-maps-key)
+
+
+## PEOPLE & THEIR PROJECTS
+* [Tom MacWright](https://macwright.org/about/)
+  * So many great [talks](https://macwright.org/talks/)
+  * Clever [Projects](https://macwright.org/projects/)
+  * A lot of helpful geo[writings](https://macwright.org/)
+* [Ben Wellington, IQuantNY](https://iquantny.tumblr.com/archive)
+  * [The NYPD Was Systematically Ticketing Legally Parked Cars for Millions of Dollars a Year- Open Data Just Put an End to It](https://iquantny.tumblr.com/post/144197004989/the-nypd-was-systematically-ticketing-legally)
+* [Mimi Onuoha](https://mimionuoha.com/)
+  * [Pathways Project](https://www.nationalgeographic.com/pathways/about.html)
+* [Ingrid Burrington](http://lifewinning.com/)
+  * [Submarine Cable Taps](http://lifewinning.com/projects/submarine-cable-taps/)
+  * [Center for Missed Connections, Ingrid Burrington](http://lifewinning.com/projects/center-for-missed-connections/)
+* [Daniel Goddemeyer](http://danielgoddemeyer.com/)
+  * [Subspotting](http://subspotting.nyc/main/index.html)
+  * [On Broadway](http://on-broadway.nyc/)
+  * [Selfie City](http://selfiecity.net/)
+* [Benedikt Groß](https://benedikt-gross.de/)
+  * [Metrography, Benedikt Gross](https://benedikt-gross.de/projects/metrography-london-tube-map-to-large-scale-collective-mental-map)
+* [Benedikt Groß](https://benedikt-gross.de/) & [Joey Lee](https://jk-lee.com)
+  * [Big Atlas of LA Pools (2014), Groß & Lee](https://benedikt-gross.de/projects/the-big-atlas-of-la-pools)
+  * [LA Swimmer (2014), Groß & Lee](https://benedikt-gross.de/projects/la-swimmer)
+  * [Aerial Bold (2016), Groß & Lee](https://benedikt-gross.de/projects/the-aerial-bold-project)
+  * [ABC: Alphabet from the Sky](https://www.penguinrandomhouse.com/books/531659/abc-the-alphabet-from-the-sky-by-benedikt-gross-and-joey-lee/)
+* [Joey Lee](https://jk-lee.com)
+  * [Geography of Hidden Faces (2019)](https://geo.hidden-faces.net/)
+* [Mike Migurski](http://mike.teczno.com/)
+* [Catherine D'Ignazio (a.k.a Kanarinka)](http://www.kanarinka.com/)
+  * * http://www.kanarinka.com/project/iskytv/
+  * http://www.kanarinka.com/project/it-takes-154000-breaths-to-evacuate-boston/
+* [Alan McConchie](https://twitter.com/mappingmashups?lang=en)
+  * [Pop vs. Soda](http://popvssoda.com/)
+* [Wonyong So](https://wonyoung.so/)
+* [Stamen Design Studio](https://stamen.com/)
+  * [Alan McConchie, Every Line Ever](https://hi.stamen.com/openstreetmap-every-line-ever-every-point-ever-7d78aa0aed8e?gi=dfe5f089bd3f)
+  * [Pop vs. Soda, McConchie](http://popvssoda.com/)
+* [MIT Civic Data Design Lab](http://senseable.mit.edu/)
+* [MIT Senseable City Lab](senseable.mit.edu/)
+  * [Hubcab.org](http://hubcab.org/#13.00/40.7250/-73.9484)
+* [Eric Escoffier](http://nerik.github.io/)
+* [Lisa Charlotte Rost](https://lisacharlotterost.de/)
+* [Derek Watkins](https://www.nytimes.com/by/derek-watkins)
+* [Dennis Wood](https://en.wikipedia.org/wiki/Denis_Wood)
+  * [Everything Sings (2010), Wood](http://sigliopress.com/book/everything-sings/)
+* [Vladimir Agafonkin](https://agafonkin.com/)
+* [Brian T. Jacobs](http://briantjacobs.com/) // national geographic, propublica, awesome
+* [Robin Tolochko](http://tolomaps.github.io/)
+* [Axis Maps](https://www.axismaps.com/about/)
+* [WebKid](https://webkid.io/)
+* [Christopher Pietsch](https://chrispie.com/)
+* [Pedro Cruz](https://pmcruz.com/)
+  * [Lisbon Traffic](https://pmcruz.com/information-visualization/traffic-in-lisbon-condensed-in-one-day)
+  * [Lisbon Blood Vessels](https://pmcruz.com/information-visualization/lisbons-blood-vessels)
+* [Neil Freeman](http://fakeisthenewreal.org/)
+* [Eric Huntley](https://vimeo.com/126993839)
+* [Lyzi Diamond](https://lyzidiamond.com/)
+* [Andy Woodruff](http://andywoodruff.com/)
+* [James Bridle](https://jamesbridle.com/)
+  * [Dronestagram (2004), Bridle](http://jamesbridle.com/works/dronestagram)
+* [Periscopic Studio](https://periscopic.com/#!/)
+* [Moovel Lab](https://www.move-lab.com/)
+  * [Roads to Rome, Move Lab](https://www.move-lab.com/projects/roads-to-rome)
+  * [Flights to Rome, Move lab](https://www.move-lab.com/project/flightstorome/)
+* [Mapzen](https://www.mapzen.com/) - RIP
+* [Propublica Graphics and Data](https://www.propublica.org/newsapps/)
+  * [Losing Ground](https://projects.propublica.org/louisiana/)
+* [New York Times Interactive](https://www.nytimes.com/search/?date_select=full&query=interactive+map&type=nyt&x=14&y=7)
+  * [How the Virus Got Out](https://www.nytimes.com/interactive/2020/03/22/world/coronavirus-spread.html)
+* [Eric Fischer](https://www.flickr.com/photos/walkingsf/albums)
+* [Radical Cartography, Bill Rankin](http://www.radicalcartography.net/)
+* [Buzzfeed News](https://www.buzzfeed.com/tag/interactive)
+  * [Spies in the sky, Buzzfeed news](https://www.buzzfeednews.com/article/peteraldhous/spies-in-the-skies)
+* [Meipo Kwan](http://meipokwan.org/)
+* [Meaghan Kombol](https://www.meaghankombol.com/work)
+  * [Subway Lines (2007)](https://www.meaghankombol.com/work)
+* [Kate McClean](https://sensorymaps.com/about/)
+  * [Sensory Maps (2006), Mclean](https://sensorymaps.com/)
+* [Shannon Mattern](http://wordsinspace.net/shannon/)
+* [Jenny Odell](http://www.jennyodell.com/) 
+  * [Satellite Collections (2009-2011), Odell](http://www.jennyodell.com/satellite.html)
+* [Trevor Paglen](http://www.paglen.com/)
+  * [Trevor Paglen, Limit Telephotography](https://www.paglen.com/?l=work&s=limit&i=3)
+* [Matthew Wilson](https://geography.as.uky.edu/users/mwwi222)
+* [Dietmar Offenhuber](https://offenhuber.net/)
+  * [What do New Yorkers complain about?](https://offenhuber.net/project/what-do-new-yorkers-complain-about/)
+  * [Trash Track](https://offenhuber.net/project/trash-track-on-cnbc/)
+* 
+* Misc:
+  * [Eleanor Coppola’s, Windows, 1973](https://openspace.sfmoma.org/2013/01/receipt-of-delivery29/)
+  * [NYC Skate Spots](https://Nycskatespots.com)
+
+## Conferences & talks:
+* [FOSS4G](https://vimeo.com/foss4g/videos)
+  * Selected:
+    * [How Simplicity Will Save GIS - Vladimir Agafonkin](https://vimeo.com/106112939)
+* [State of the Map](https://www.youtube.com/channel/UCLqJsr_5PfdvDFbgv1qp2aQ/videos):
+* [OpenVis Conf](https://www.youtube.com/channel/UCAsISx0PmXG_hmZk4Emhz-g) & [Boucoup LLC](https://www.youtube.com/user/BocoupLLC)
+* [EYEO](https://vimeo.com/eyeofestival)
+* [NACIS](https://www.youtube.com/channel/UCxleHCzc6YynGbzJMWx6C7w)
+* [Tapestry Conf](https://www.youtube.com/user/TapestryConference)
+* [Information+](https://vimeo.com/informationplus)
+
+## PODCASTS
+* [MapScaping](https://mapscaping.com/blogs/the-mapscaping-podcast)
+* [GeoMob](https://thegeomob.com/podcast/)
+* Selected Mapping Related Podcast Episodes:
+  * [This American Life](https://www.thisamericanlife.org/)
+    * [This American Life, Mapping, 1998](https://www.thisamericanlife.org/110/mapping)
+  * [Reply All](https://gimletmedia.com/shows/reply-all/)
+    * The Crime Machine [Pt. 1](https://gimletmedia.com/shows/reply-all/o2hx34), [Pt. 2](https://gimletmedia.com/shows/reply-all/n8hwl7)
+  * [DataStories](https://datastori.es/)
+    * [134  |  Visualizing Uncertainty with Jessica Hullman and Matthew Kay ](https://datastori.es/134-visualizing-uncertainty-with-jessica-hullman-and-matthew-kay/)
+    * [131  |  Peak Spotting](https://datastori.es/131-peak-spotting-visualizing-passengers-load-in-the-german-railway/)
+    * [101  |  Surprise Maps with Michael Correll and Jeff Heer ](https://datastori.es/101-surprise-maps-with-michael-correll-and-jeff-heer/)
+    * [080  |  Indexical Visualization with Dietmar Offenhuber ](https://datastori.es/80-indexical-visualization-with-dietmar-offenhuber/)
+    * [078  |  Mimi Onuoha on Visualizing People's Lives through Mobile Data ](https://datastori.es/78-mimi-onuoha-on-visualizing-peoples-lives-through-mobile-data/)
+    * [066  |  "I Quant NY" Finding Surprising Stories in NYC Open Data with Ben Wellington ](https://datastori.es/66-iquantnyc/)
+    * [053  |  Data Safaris w/ Benedikt Groß ](https://datastori.es/data-stories-53-data-safaris-w-benedikt-gros/)
+    * [051  |  Smart Cities w/ Dietmar Offenhuber ](https://datastori.es/data-stories-51-smart-cities-w-dietmar-offenhuber/)
+    * [045  |  Nicholas Felton ](https://datastori.es/data-stories-44-with-nicholas-felton/)
+    * [036  |  Data Art w/ Jer Thorp ](https://datastori.es/data-art-w-jer-thorp/)
+    * [020  |  On Maps. With Michal Migurski.](https://datastori.es/data-stories-20-maps-migurski/)
+
+
 
 ## UNSORTED 
 
@@ -413,7 +421,7 @@ There's so much we didn't get to discuss in this class, but I hope the course wa
   * [Here Be Dragons, Finding Blank Spaces in a Well-Mapped World (2017), L. Parshley](https://www.vqronline.org/essays-articles/2017/01/here-be-dragons) // on the blank spaces on the map & breaking the myth that everything has been mapped
   * [Control Earth (2016), P. Edwards](https://placesjournal.org/article/control-earth/) // on the importance of baselines
 
-  
+
 * [All3Words (2018), Lee](https://twitter.com/all3words)
 * Locative Media:
   * [Google Maps Hacks (2020), Weckert](http://www.simonweckert.com/googlemapshacks.html)
@@ -438,31 +446,15 @@ There's so much we didn't get to discuss in this class, but I hope the course wa
 ***
 ***
 
-## Geo Conferences & talks:
-* FOSS4G: 
-  * All: 
-    * https://vimeo.com/foss4g/videos
-  * Selected:
-    * [How Simplicity Will Save GIS - Vladimir Agafonkin](https://vimeo.com/106112939)
-* State of the Map:
-  * All:
-    * https://www.youtube.com/channel/UCLqJsr_5PfdvDFbgv1qp2aQ/videos
-  * Selected:
-    * ...
+
 
 ## General References
 
 * Theory: Critical Cartography & Mapping:
-  * [Experimental Geography (2008), N. Thomson]()
-  * [Mapping: A Critical Introduction to Cartography and Mapping, J. Crampton (2010)]()
-    * [Chapter 7: The political History of Cartography Deconstructed: Harley, Gall, Peters, pg. 81 - 98, Mapping: A Critical Introduction to Cartography and Mapping, J. Crampton (2010)](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=4433111&ppg=95) 
+  * [Experimental Geography (2008), N. Thomson](https://www.amazon.com/Experimental-Geography-Approaches-Landscape-Cartography/dp/0091636582)
 * Cartographic Design:
   * [How to Lie With Maps, M. Monmonier, 3rd Ed](https://www.press.uchicago.edu/ucp/books/book/chicago/H/bo27400568.html) - Available via NYU Library. 
 * Classes about Maps, Mapping, Cartography and Media:
   * [Maps as Media II (2016), S. Mattern](http://wordsinspace.net/shannon/2016/12/19/maps-as-media-2/)
   * [Maps as Media I (2015), S. Mattern](http://wordsinspace.net/shannon/2015/12/22/maps-as-media/)
   * [Designing the Post natural, T. Brain](https://wp.nyu.edu/postnatural/)
-***
-***
-***
-

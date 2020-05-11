@@ -1,6 +1,6 @@
 # Week 4: Spatial Abstraction
 
-> 
+> “...we can think of as ‘resistances’, ‘reworkings’ and ‘resiliences’ in that they set themselves as opposed to the received wisdom of the culture of mapping”  - from Crampton (2010)
 
 ## SLIDES
 * ↳ [Link to Slides](https://docs.google.com/presentation/d/1E_Pkzlc-R6JX5PORc6fq5nl1LjGE0ecmGTwKr2v3RXM/edit?usp=sharing)
