@@ -6,6 +6,10 @@
 > 
 > “Maps are active; they actively construct knowledge, they exercise power and they can be a powerful means of promoting social change” - Crampton (2010)
 
+## FEEDBACK DOC
+
+* ↳ [Add your feedback for your classmates here](https://docs.google.com/document/d/1RF72AC9DzANVCcH0XdYRZhWDaBFCYxjochw8c71RAjY/edit?usp=sharing)
+
 
 ## ABOUT
 
