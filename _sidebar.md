@@ -24,7 +24,6 @@
     * [Geo Intro Guide](guides/geo-intro-guide.md)
     * [Geo Knowledge Guide](guides/geo-knowlege-guide.md)
     * [Geo Data Guide](guides/geo-data-guide.md)
-    <!-- * [Projections Guide](guides/projections-guide.md) -->
   * Data Collection
     * [Paying Attention Guide](guides/paying-attention-guide.md)
     * [Overpass API - OSM](guides/osm-overpass-api.md)
@@ -35,13 +34,8 @@
     * [Geocoding Guide](guides/geocoding-guide.md)
     * [Attribute Joins Guide](guides/attribute-joins-guide.md)
     * [Spatial Joins Guide](guides/turfjs-spatial-joins-guide.md)
-    <!-- * * [Turfjs Guide](guides/turfjs-guide.md) -->
   * Documentation
     * [Data Documentation Guide](guides/data-documentation-guide.md)
-    * [Zine Submission Guide](guides/zine-submission-guide.md)
   * Web Mapping
     * [Kepler.gl Guide](guides/keplergl-guide.md)
-    * [Leafletjs Guide](guides/leafletjs-guide.md)
-    * [MapboxGL Guide](guides/mapboxgl-guide.md)
-    * [Mapbox Static Imagery Guide](guides/mapbox-static-guide.md)
     * [Google Streetview Static Image Guide](guides/google-streetview-guide.md)

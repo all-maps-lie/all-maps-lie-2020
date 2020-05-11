@@ -60,4 +60,3 @@ There are many services that allow you to share your data openly. Many of these 
 * [Metadata and documentation, U. of Leicester](https://www2.le.ac.uk/services/research-data/old-2019-12-11/organise-data/metadata)
 * [Open Data Commons Licensing](https://opendatacommons.org/licenses/index.html)
 * https://github.com/AdrianShe/datasharing
-* 
