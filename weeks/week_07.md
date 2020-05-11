@@ -20,9 +20,9 @@ This week you will present your final projects and field feedback on your progre
 * :10m - Getting Settled, Introducing Guest Speaker
 * :120m - **Presentations: 3min video, 6 min Q&A**
   * :60m - **Group 1**
-    * Winnie
+    * Ji
     * Paulami
-    * Max & Tirta
+    * Tirta & Max
     * Emma
     * Julian
     * Ruixian & Tianxu
@@ -30,9 +30,10 @@ This week you will present your final projects and field feedback on your progre
     * Guillermo
     * Sydney
     * Martin
-    * Max & Pablo
+    * Pablo & Max
     * Karina
-    * Ji
+    * Winnie
+    
 * :10m - **Closing Notes**
 
 
