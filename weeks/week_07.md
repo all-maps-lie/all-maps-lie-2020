@@ -27,8 +27,8 @@ This week you will present your final projects and field feedback on your progre
     * Sydney
     * Martin
     * Max & Pablo
-    * Ji
     * Karina
+    * Ji
 * :10m - **Closing Notes**
 
 
